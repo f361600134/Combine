@@ -1,0 +1,225 @@
+{
+   "elite_1" : {
+      "monsterRefId" : "monster_28",
+      "refId" : "elite_1",
+      "refreshTime" : 0,
+      "sceneRefId" : "S036"
+   },
+   "elite_10" : {
+      "monsterRefId" : "monster_52",
+      "refId" : "elite_10",
+      "refreshTime" : 1,
+      "sceneRefId" : "S071"
+   },
+   "elite_11" : {
+      "monsterRefId" : "monster_33",
+      "refId" : "elite_11",
+      "refreshTime" : 1,
+      "sceneRefId" : "S045"
+   },
+   "elite_12" : {
+      "monsterRefId" : "monster_33",
+      "refId" : "elite_12",
+      "refreshTime" : 1,
+      "sceneRefId" : "S046"
+   },
+   "elite_13" : {
+      "monsterRefId" : "monster_33",
+      "refId" : "elite_13",
+      "refreshTime" : 1,
+      "sceneRefId" : "S071"
+   },
+   "elite_14" : {
+      "monsterRefId" : "monster_55",
+      "refId" : "elite_14",
+      "refreshTime" : 2,
+      "sceneRefId" : "S043"
+   },
+   "elite_15" : {
+      "monsterRefId" : "monster_55",
+      "refId" : "elite_15",
+      "refreshTime" : 2,
+      "sceneRefId" : "S044"
+   },
+   "elite_16" : {
+      "monsterRefId" : "monster_55",
+      "refId" : "elite_16",
+      "refreshTime" : 2,
+      "sceneRefId" : "S071"
+   },
+   "elite_17" : {
+      "monsterRefId" : "monster_65",
+      "refId" : "elite_17",
+      "refreshTime" : 6,
+      "sceneRefId" : "S072"
+   },
+   "elite_18" : {
+      "monsterRefId" : "monster_65",
+      "refId" : "elite_18",
+      "refreshTime" : 6,
+      "sceneRefId" : "S073"
+   },
+   "elite_19" : {
+      "monsterRefId" : "monster_65",
+      "refId" : "elite_19",
+      "refreshTime" : 6,
+      "sceneRefId" : "S074"
+   },
+   "elite_2" : {
+      "monsterRefId" : "monster_29",
+      "refId" : "elite_2",
+      "refreshTime" : 0,
+      "sceneRefId" : "S036"
+   },
+   "elite_20" : {
+      "monsterRefId" : "monster_65",
+      "refId" : "elite_20",
+      "refreshTime" : 6,
+      "sceneRefId" : "S075"
+   },
+   "elite_21" : {
+      "monsterRefId" : "monster_64",
+      "refId" : "elite_21",
+      "refreshTime" : 6,
+      "sceneRefId" : "S080"
+   },
+   "elite_22" : {
+      "monsterRefId" : "monster_64",
+      "refId" : "elite_22",
+      "refreshTime" : 6,
+      "sceneRefId" : "S081"
+   },
+   "elite_23" : {
+      "monsterRefId" : "monster_64",
+      "refId" : "elite_23",
+      "refreshTime" : 6,
+      "sceneRefId" : "S082"
+   },
+   "elite_24" : {
+      "monsterRefId" : "monster_64",
+      "refId" : "elite_24",
+      "refreshTime" : 6,
+      "sceneRefId" : "S083"
+   },
+   "elite_25" : {
+      "monsterRefId" : "monster_2028",
+      "refId" : "elite_25",
+      "refreshTime" : 2,
+      "sceneRefId" : "S067"
+   },
+   "elite_26" : {
+      "monsterRefId" : "monster_2029",
+      "refId" : "elite_26",
+      "refreshTime" : 2,
+      "sceneRefId" : "S067"
+   },
+   "elite_27" : {
+      "monsterRefId" : "monster_2040",
+      "refId" : "elite_27",
+      "refreshTime" : 2,
+      "sceneRefId" : "S067"
+   },
+   "elite_28" : {
+      "monsterRefId" : "monster_2043",
+      "refId" : "elite_28",
+      "refreshTime" : 3,
+      "sceneRefId" : "S067"
+   },
+   "elite_29" : {
+      "monsterRefId" : "monster_2051",
+      "refId" : "elite_29",
+      "refreshTime" : 4,
+      "sceneRefId" : "S068"
+   },
+   "elite_3" : {
+      "monsterRefId" : "monster_40",
+      "refId" : "elite_3",
+      "refreshTime" : 0,
+      "sceneRefId" : "S038"
+   },
+   "elite_30" : {
+      "monsterRefId" : "monster_2052",
+      "refId" : "elite_30",
+      "refreshTime" : 4,
+      "sceneRefId" : "S068"
+   },
+   "elite_31" : {
+      "monsterRefId" : "monster_72",
+      "refId" : "elite_31",
+      "refreshTime" : 20,
+      "sceneRefId" : "S068"
+   },
+   "elite_32" : {
+      "monsterRefId" : "monster_73",
+      "refId" : "elite_32",
+      "refreshTime" : 20,
+      "sceneRefId" : "S069"
+   },
+   "elite_33" : {
+      "monsterRefId" : "monster_2033",
+      "refId" : "elite_33",
+      "refreshTime" : 4,
+      "sceneRefId" : "S069"
+   },
+   "elite_34" : {
+      "monsterRefId" : "monster_2055",
+      "refId" : "elite_34",
+      "refreshTime" : 5,
+      "sceneRefId" : "S069"
+   },
+   "elite_35" : {
+      "monsterRefId" : "monster_72",
+      "refId" : "elite_35",
+      "refreshTime" : 20,
+      "sceneRefId" : "S069"
+   },
+   "elite_36" : {
+      "monsterRefId" : "monster_2064",
+      "refId" : "elite_36",
+      "refreshTime" : 6,
+      "sceneRefId" : "S069"
+   },
+   "elite_37" : {
+      "monsterRefId" : "monster_2065",
+      "refId" : "elite_37",
+      "refreshTime" : 6,
+      "sceneRefId" : "S069"
+   },
+   "elite_4" : {
+      "monsterRefId" : "monster_43",
+      "refId" : "elite_4",
+      "refreshTime" : 0,
+      "sceneRefId" : "S039"
+   },
+   "elite_5" : {
+      "monsterRefId" : "monster_43",
+      "refId" : "elite_5",
+      "refreshTime" : 0,
+      "sceneRefId" : "S040"
+   },
+   "elite_6" : {
+      "monsterRefId" : "monster_43",
+      "refId" : "elite_6",
+      "refreshTime" : 0,
+      "sceneRefId" : "S070"
+   },
+   "elite_7" : {
+      "monsterRefId" : "monster_51",
+      "refId" : "elite_7",
+      "refreshTime" : 1,
+      "sceneRefId" : "S042"
+   },
+   "elite_8" : {
+      "monsterRefId" : "monster_51",
+      "refId" : "elite_8",
+      "refreshTime" : 1,
+      "sceneRefId" : "S071"
+   },
+   "elite_9" : {
+      "monsterRefId" : "monster_52",
+      "refId" : "elite_9",
+      "refreshTime" : 1,
+      "sceneRefId" : "S042"
+   }
+}
+

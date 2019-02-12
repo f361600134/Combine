@@ -1,0 +1,2073 @@
+{
+   "pass_1" : {
+      "fortuneWay" : {
+         "fortuneWay_1_1" : {
+            "property" : {
+               "boxColor" : 0,
+               "boxRefId" : 1,
+               "boxType" : 1,
+               "gold" : 500000,
+               "number" : 0,
+               "positionX" : 1,
+               "positionY" : 1
+            },
+            "refId" : "fortuneWay_1_1",
+            "rewardData" : null
+         },
+         "fortuneWay_1_10" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 10,
+               "boxType" : 3,
+               "gold" : 500000,
+               "number" : 0,
+               "positionX" : 10,
+               "positionY" : 1
+            },
+            "refId" : "fortuneWay_1_10",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "30",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_11" : {
+            "property" : {
+               "boxColor" : 2,
+               "boxRefId" : 11,
+               "boxType" : 3,
+               "gold" : 500000,
+               "number" : 0,
+               "positionX" : 11,
+               "positionY" : 1
+            },
+            "refId" : "fortuneWay_1_11",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "40",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_12" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 12,
+               "boxType" : 3,
+               "gold" : 1000000,
+               "number" : 0,
+               "positionX" : 11,
+               "positionY" : 2
+            },
+            "refId" : "fortuneWay_1_12",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "30",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_13" : {
+            "property" : {
+               "boxColor" : 3,
+               "boxRefId" : 13,
+               "boxType" : 4,
+               "gold" : 1000000,
+               "number" : 0,
+               "positionX" : 11,
+               "positionY" : 3
+            },
+            "refId" : "fortuneWay_1_13",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_chibangExp",
+                  "number" : "10",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_14" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 14,
+               "boxType" : 3,
+               "gold" : 1000000,
+               "number" : 0,
+               "positionX" : 10,
+               "positionY" : 3
+            },
+            "refId" : "fortuneWay_1_14",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "30",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_15" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 15,
+               "boxType" : 3,
+               "gold" : 1000000,
+               "number" : 0,
+               "positionX" : 9,
+               "positionY" : 3
+            },
+            "refId" : "fortuneWay_1_15",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "30",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_16" : {
+            "property" : {
+               "boxColor" : 2,
+               "boxRefId" : 16,
+               "boxType" : 3,
+               "gold" : 1000000,
+               "number" : 0,
+               "positionX" : 8,
+               "positionY" : 3
+            },
+            "refId" : "fortuneWay_1_16",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "50",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_17" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 17,
+               "boxType" : 3,
+               "gold" : 1000000,
+               "number" : 0,
+               "positionX" : 7,
+               "positionY" : 3
+            },
+            "refId" : "fortuneWay_1_17",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "30",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_18" : {
+            "property" : {
+               "boxColor" : 4,
+               "boxRefId" : 18,
+               "boxType" : 4,
+               "gold" : 1000000,
+               "number" : 0,
+               "positionX" : 6,
+               "positionY" : 3
+            },
+            "refId" : "fortuneWay_1_18",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_exp_6",
+                  "number" : "1",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_19" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 19,
+               "boxType" : 3,
+               "gold" : 1000000,
+               "number" : 0,
+               "positionX" : 5,
+               "positionY" : 3
+            },
+            "refId" : "fortuneWay_1_19",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "30",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_2" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 2,
+               "boxType" : 3,
+               "gold" : 500000,
+               "number" : 0,
+               "positionX" : 2,
+               "positionY" : 1
+            },
+            "refId" : "fortuneWay_1_2",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "20",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_20" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 20,
+               "boxType" : 3,
+               "gold" : 1000000,
+               "number" : 0,
+               "positionX" : 4,
+               "positionY" : 3
+            },
+            "refId" : "fortuneWay_1_20",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "30",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_21" : {
+            "property" : {
+               "boxColor" : 2,
+               "boxRefId" : 21,
+               "boxType" : 4,
+               "gold" : 1000000,
+               "number" : 0,
+               "positionX" : 3,
+               "positionY" : 3
+            },
+            "refId" : "fortuneWay_1_21",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_exp_4",
+                  "number" : "1",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_22" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 22,
+               "boxType" : 3,
+               "gold" : 1000000,
+               "number" : 0,
+               "positionX" : 2,
+               "positionY" : 3
+            },
+            "refId" : "fortuneWay_1_22",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "30",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_23" : {
+            "property" : {
+               "boxColor" : 3,
+               "boxRefId" : 23,
+               "boxType" : 4,
+               "gold" : 1500000,
+               "number" : 0,
+               "positionX" : 1,
+               "positionY" : 3
+            },
+            "refId" : "fortuneWay_1_23",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_shenqiExp",
+                  "number" : "10",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_24" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 24,
+               "boxType" : 3,
+               "gold" : 1500000,
+               "number" : 0,
+               "positionX" : 1,
+               "positionY" : 4
+            },
+            "refId" : "fortuneWay_1_24",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "40",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_25" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 25,
+               "boxType" : 3,
+               "gold" : 1500000,
+               "number" : 0,
+               "positionX" : 1,
+               "positionY" : 5
+            },
+            "refId" : "fortuneWay_1_25",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "40",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_26" : {
+            "property" : {
+               "boxColor" : 2,
+               "boxRefId" : 26,
+               "boxType" : 3,
+               "gold" : 1500000,
+               "number" : 0,
+               "positionX" : 2,
+               "positionY" : 5
+            },
+            "refId" : "fortuneWay_1_26",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "60",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_27" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 27,
+               "boxType" : 3,
+               "gold" : 1500000,
+               "number" : 0,
+               "positionX" : 3,
+               "positionY" : 5
+            },
+            "refId" : "fortuneWay_1_27",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "40",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_28" : {
+            "property" : {
+               "boxColor" : 4,
+               "boxRefId" : 28,
+               "boxType" : 4,
+               "gold" : 1500000,
+               "number" : 0,
+               "positionX" : 4,
+               "positionY" : 5
+            },
+            "refId" : "fortuneWay_1_28",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_giftcard",
+                  "number" : "1",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_29" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 29,
+               "boxType" : 3,
+               "gold" : 1500000,
+               "number" : 0,
+               "positionX" : 5,
+               "positionY" : 5
+            },
+            "refId" : "fortuneWay_1_29",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "40",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_3" : {
+            "property" : {
+               "boxColor" : 3,
+               "boxRefId" : 3,
+               "boxType" : 4,
+               "gold" : 500000,
+               "number" : 0,
+               "positionX" : 3,
+               "positionY" : 1
+            },
+            "refId" : "fortuneWay_1_3",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_zuoqiExp",
+                  "number" : "10",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_30" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 30,
+               "boxType" : 3,
+               "gold" : 1500000,
+               "number" : 0,
+               "positionX" : 6,
+               "positionY" : 5
+            },
+            "refId" : "fortuneWay_1_30",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "40",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_31" : {
+            "property" : {
+               "boxColor" : 2,
+               "boxRefId" : 31,
+               "boxType" : 3,
+               "gold" : 1500000,
+               "number" : 0,
+               "positionX" : 7,
+               "positionY" : 5
+            },
+            "refId" : "fortuneWay_1_31",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "80",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_32" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 32,
+               "boxType" : 3,
+               "gold" : 1500000,
+               "number" : 0,
+               "positionX" : 8,
+               "positionY" : 5
+            },
+            "refId" : "fortuneWay_1_32",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "40",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_33" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 33,
+               "boxType" : 3,
+               "gold" : 1500000,
+               "number" : 0,
+               "positionX" : 9,
+               "positionY" : 5
+            },
+            "refId" : "fortuneWay_1_33",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "40",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_34" : {
+            "property" : {
+               "boxColor" : 0,
+               "boxRefId" : 34,
+               "boxType" : 2,
+               "gold" : 0,
+               "number" : 0,
+               "positionX" : 10,
+               "positionY" : 5
+            },
+            "refId" : "fortuneWay_1_34",
+            "rewardData" : null
+         },
+         "fortuneWay_1_4" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 4,
+               "boxType" : 3,
+               "gold" : 500000,
+               "number" : 0,
+               "positionX" : 4,
+               "positionY" : 1
+            },
+            "refId" : "fortuneWay_1_4",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "20",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_5" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 5,
+               "boxType" : 3,
+               "gold" : 500000,
+               "number" : 0,
+               "positionX" : 5,
+               "positionY" : 1
+            },
+            "refId" : "fortuneWay_1_5",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "20",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_6" : {
+            "property" : {
+               "boxColor" : 2,
+               "boxRefId" : 6,
+               "boxType" : 4,
+               "gold" : 500000,
+               "number" : 0,
+               "positionX" : 6,
+               "positionY" : 1
+            },
+            "refId" : "fortuneWay_1_6",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_exp_3",
+                  "number" : "1",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_7" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 7,
+               "boxType" : 3,
+               "gold" : 500000,
+               "number" : 0,
+               "positionX" : 7,
+               "positionY" : 1
+            },
+            "refId" : "fortuneWay_1_7",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "20",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_8" : {
+            "property" : {
+               "boxColor" : 4,
+               "boxRefId" : 8,
+               "boxType" : 3,
+               "gold" : 500000,
+               "number" : 0,
+               "positionX" : 8,
+               "positionY" : 1
+            },
+            "refId" : "fortuneWay_1_8",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "20",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_9" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 9,
+               "boxType" : 3,
+               "gold" : 500000,
+               "number" : 0,
+               "positionX" : 9,
+               "positionY" : 1
+            },
+            "refId" : "fortuneWay_1_9",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "30",
+                  "proffessionRefId" : 0
+               }
+            ]
+         }
+      },
+      "property" : {
+         "checkPoint" : 1,
+         "refIdNext" : "pass_2",
+         "refIdPre" : ""
+      },
+      "refId" : "pass_1",
+      "reward" : [
+         {
+            "bindStatus" : 1,
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "50",
+            "proffessionRefId" : 0
+         },
+         {
+            "bindStatus" : 1,
+            "itemRefId" : "item_exp_5",
+            "number" : "1",
+            "proffessionRefId" : 0
+         }
+      ]
+   },
+   "pass_2" : {
+      "fortuneWay" : {
+         "fortuneWay_1_1" : {
+            "property" : {
+               "boxColor" : 0,
+               "boxRefId" : 1,
+               "boxType" : 1,
+               "gold" : 1000000,
+               "number" : 0,
+               "positionX" : 1,
+               "positionY" : 1
+            },
+            "refId" : "fortuneWay_1_1",
+            "rewardData" : null
+         },
+         "fortuneWay_1_10" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 10,
+               "boxType" : 3,
+               "gold" : 1000000,
+               "number" : 0,
+               "positionX" : 10,
+               "positionY" : 1
+            },
+            "refId" : "fortuneWay_1_10",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "60",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_11" : {
+            "property" : {
+               "boxColor" : 2,
+               "boxRefId" : 11,
+               "boxType" : 3,
+               "gold" : 1000000,
+               "number" : 0,
+               "positionX" : 11,
+               "positionY" : 1
+            },
+            "refId" : "fortuneWay_1_11",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "80",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_12" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 12,
+               "boxType" : 3,
+               "gold" : 2000000,
+               "number" : 0,
+               "positionX" : 11,
+               "positionY" : 2
+            },
+            "refId" : "fortuneWay_1_12",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "60",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_13" : {
+            "property" : {
+               "boxColor" : 3,
+               "boxRefId" : 13,
+               "boxType" : 4,
+               "gold" : 2000000,
+               "number" : 0,
+               "positionX" : 11,
+               "positionY" : 3
+            },
+            "refId" : "fortuneWay_1_13",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_chibangExp",
+                  "number" : "20",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_14" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 14,
+               "boxType" : 3,
+               "gold" : 2000000,
+               "number" : 0,
+               "positionX" : 10,
+               "positionY" : 3
+            },
+            "refId" : "fortuneWay_1_14",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "60",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_15" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 15,
+               "boxType" : 3,
+               "gold" : 2000000,
+               "number" : 0,
+               "positionX" : 9,
+               "positionY" : 3
+            },
+            "refId" : "fortuneWay_1_15",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "60",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_16" : {
+            "property" : {
+               "boxColor" : 2,
+               "boxRefId" : 16,
+               "boxType" : 3,
+               "gold" : 2000000,
+               "number" : 0,
+               "positionX" : 8,
+               "positionY" : 3
+            },
+            "refId" : "fortuneWay_1_16",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "100",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_17" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 17,
+               "boxType" : 3,
+               "gold" : 2000000,
+               "number" : 0,
+               "positionX" : 7,
+               "positionY" : 3
+            },
+            "refId" : "fortuneWay_1_17",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "60",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_18" : {
+            "property" : {
+               "boxColor" : 4,
+               "boxRefId" : 18,
+               "boxType" : 4,
+               "gold" : 2000000,
+               "number" : 0,
+               "positionX" : 6,
+               "positionY" : 3
+            },
+            "refId" : "fortuneWay_1_18",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_exp_6",
+                  "number" : "2",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_19" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 19,
+               "boxType" : 3,
+               "gold" : 2000000,
+               "number" : 0,
+               "positionX" : 5,
+               "positionY" : 3
+            },
+            "refId" : "fortuneWay_1_19",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "60",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_2" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 2,
+               "boxType" : 3,
+               "gold" : 1000000,
+               "number" : 0,
+               "positionX" : 2,
+               "positionY" : 1
+            },
+            "refId" : "fortuneWay_1_2",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "40",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_20" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 20,
+               "boxType" : 3,
+               "gold" : 2000000,
+               "number" : 0,
+               "positionX" : 4,
+               "positionY" : 3
+            },
+            "refId" : "fortuneWay_1_20",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "60",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_21" : {
+            "property" : {
+               "boxColor" : 2,
+               "boxRefId" : 21,
+               "boxType" : 4,
+               "gold" : 2000000,
+               "number" : 0,
+               "positionX" : 3,
+               "positionY" : 3
+            },
+            "refId" : "fortuneWay_1_21",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_exp_5",
+                  "number" : "1",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_22" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 22,
+               "boxType" : 3,
+               "gold" : 2000000,
+               "number" : 0,
+               "positionX" : 2,
+               "positionY" : 3
+            },
+            "refId" : "fortuneWay_1_22",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "60",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_23" : {
+            "property" : {
+               "boxColor" : 3,
+               "boxRefId" : 23,
+               "boxType" : 4,
+               "gold" : 3000000,
+               "number" : 0,
+               "positionX" : 1,
+               "positionY" : 3
+            },
+            "refId" : "fortuneWay_1_23",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_shenqiExp",
+                  "number" : "20",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_24" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 24,
+               "boxType" : 3,
+               "gold" : 3000000,
+               "number" : 0,
+               "positionX" : 1,
+               "positionY" : 4
+            },
+            "refId" : "fortuneWay_1_24",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "80",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_25" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 25,
+               "boxType" : 3,
+               "gold" : 3000000,
+               "number" : 0,
+               "positionX" : 1,
+               "positionY" : 5
+            },
+            "refId" : "fortuneWay_1_25",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "80",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_26" : {
+            "property" : {
+               "boxColor" : 2,
+               "boxRefId" : 26,
+               "boxType" : 3,
+               "gold" : 3000000,
+               "number" : 0,
+               "positionX" : 2,
+               "positionY" : 5
+            },
+            "refId" : "fortuneWay_1_26",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "120",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_27" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 27,
+               "boxType" : 3,
+               "gold" : 3000000,
+               "number" : 0,
+               "positionX" : 3,
+               "positionY" : 5
+            },
+            "refId" : "fortuneWay_1_27",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "80",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_28" : {
+            "property" : {
+               "boxColor" : 4,
+               "boxRefId" : 28,
+               "boxType" : 4,
+               "gold" : 3000000,
+               "number" : 0,
+               "positionX" : 4,
+               "positionY" : 5
+            },
+            "refId" : "fortuneWay_1_28",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_giftcard",
+                  "number" : "1",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_29" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 29,
+               "boxType" : 3,
+               "gold" : 3000000,
+               "number" : 0,
+               "positionX" : 5,
+               "positionY" : 5
+            },
+            "refId" : "fortuneWay_1_29",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "80",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_3" : {
+            "property" : {
+               "boxColor" : 3,
+               "boxRefId" : 3,
+               "boxType" : 4,
+               "gold" : 1000000,
+               "number" : 0,
+               "positionX" : 3,
+               "positionY" : 1
+            },
+            "refId" : "fortuneWay_1_3",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_zuoqiExp",
+                  "number" : "20",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_30" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 30,
+               "boxType" : 3,
+               "gold" : 3000000,
+               "number" : 0,
+               "positionX" : 6,
+               "positionY" : 5
+            },
+            "refId" : "fortuneWay_1_30",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "80",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_31" : {
+            "property" : {
+               "boxColor" : 2,
+               "boxRefId" : 31,
+               "boxType" : 3,
+               "gold" : 3000000,
+               "number" : 0,
+               "positionX" : 7,
+               "positionY" : 5
+            },
+            "refId" : "fortuneWay_1_31",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "160",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_32" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 32,
+               "boxType" : 3,
+               "gold" : 3000000,
+               "number" : 0,
+               "positionX" : 8,
+               "positionY" : 5
+            },
+            "refId" : "fortuneWay_1_32",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "80",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_33" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 33,
+               "boxType" : 3,
+               "gold" : 3000000,
+               "number" : 0,
+               "positionX" : 9,
+               "positionY" : 5
+            },
+            "refId" : "fortuneWay_1_33",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "80",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_34" : {
+            "property" : {
+               "boxColor" : 0,
+               "boxRefId" : 34,
+               "boxType" : 2,
+               "gold" : 0,
+               "number" : 0,
+               "positionX" : 10,
+               "positionY" : 5
+            },
+            "refId" : "fortuneWay_1_34",
+            "rewardData" : null
+         },
+         "fortuneWay_1_4" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 4,
+               "boxType" : 3,
+               "gold" : 1000000,
+               "number" : 0,
+               "positionX" : 4,
+               "positionY" : 1
+            },
+            "refId" : "fortuneWay_1_4",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "40",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_5" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 5,
+               "boxType" : 3,
+               "gold" : 1000000,
+               "number" : 0,
+               "positionX" : 5,
+               "positionY" : 1
+            },
+            "refId" : "fortuneWay_1_5",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "40",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_6" : {
+            "property" : {
+               "boxColor" : 2,
+               "boxRefId" : 6,
+               "boxType" : 4,
+               "gold" : 1000000,
+               "number" : 0,
+               "positionX" : 6,
+               "positionY" : 1
+            },
+            "refId" : "fortuneWay_1_6",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_exp_4",
+                  "number" : "1",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_7" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 7,
+               "boxType" : 3,
+               "gold" : 1000000,
+               "number" : 0,
+               "positionX" : 7,
+               "positionY" : 1
+            },
+            "refId" : "fortuneWay_1_7",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "40",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_8" : {
+            "property" : {
+               "boxColor" : 4,
+               "boxRefId" : 8,
+               "boxType" : 3,
+               "gold" : 1000000,
+               "number" : 0,
+               "positionX" : 8,
+               "positionY" : 1
+            },
+            "refId" : "fortuneWay_1_8",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "400",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_9" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 9,
+               "boxType" : 3,
+               "gold" : 1000000,
+               "number" : 0,
+               "positionX" : 9,
+               "positionY" : 1
+            },
+            "refId" : "fortuneWay_1_9",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "60",
+                  "proffessionRefId" : 0
+               }
+            ]
+         }
+      },
+      "property" : {
+         "checkPoint" : 2,
+         "refIdNext" : "pass_3",
+         "refIdPre" : "pass_1"
+      },
+      "refId" : "pass_2",
+      "reward" : [
+         {
+            "bindStatus" : 1,
+            "itemRefId" : "item_chibangExp",
+            "number" : "100",
+            "proffessionRefId" : 0
+         },
+         {
+            "bindStatus" : 1,
+            "itemRefId" : "item_exp_6",
+            "number" : "1",
+            "proffessionRefId" : 0
+         }
+      ]
+   },
+   "pass_3" : {
+      "fortuneWay" : {
+         "fortuneWay_1_1" : {
+            "property" : {
+               "boxColor" : 0,
+               "boxRefId" : 1,
+               "boxType" : 1,
+               "gold" : 2000000,
+               "number" : 0,
+               "positionX" : 1,
+               "positionY" : 1
+            },
+            "refId" : "fortuneWay_1_1",
+            "rewardData" : null
+         },
+         "fortuneWay_1_10" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 10,
+               "boxType" : 3,
+               "gold" : 2000000,
+               "number" : 0,
+               "positionX" : 10,
+               "positionY" : 1
+            },
+            "refId" : "fortuneWay_1_10",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "120",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_11" : {
+            "property" : {
+               "boxColor" : 2,
+               "boxRefId" : 11,
+               "boxType" : 3,
+               "gold" : 2000000,
+               "number" : 0,
+               "positionX" : 11,
+               "positionY" : 1
+            },
+            "refId" : "fortuneWay_1_11",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "160",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_12" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 12,
+               "boxType" : 3,
+               "gold" : 4000000,
+               "number" : 0,
+               "positionX" : 11,
+               "positionY" : 2
+            },
+            "refId" : "fortuneWay_1_12",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "120",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_13" : {
+            "property" : {
+               "boxColor" : 3,
+               "boxRefId" : 13,
+               "boxType" : 4,
+               "gold" : 4000000,
+               "number" : 0,
+               "positionX" : 11,
+               "positionY" : 3
+            },
+            "refId" : "fortuneWay_1_13",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_chibangExp",
+                  "number" : "40",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_14" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 14,
+               "boxType" : 3,
+               "gold" : 4000000,
+               "number" : 0,
+               "positionX" : 10,
+               "positionY" : 3
+            },
+            "refId" : "fortuneWay_1_14",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "120",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_15" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 15,
+               "boxType" : 3,
+               "gold" : 4000000,
+               "number" : 0,
+               "positionX" : 9,
+               "positionY" : 3
+            },
+            "refId" : "fortuneWay_1_15",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "120",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_16" : {
+            "property" : {
+               "boxColor" : 2,
+               "boxRefId" : 16,
+               "boxType" : 3,
+               "gold" : 4000000,
+               "number" : 0,
+               "positionX" : 8,
+               "positionY" : 3
+            },
+            "refId" : "fortuneWay_1_16",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "200",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_17" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 17,
+               "boxType" : 3,
+               "gold" : 4000000,
+               "number" : 0,
+               "positionX" : 7,
+               "positionY" : 3
+            },
+            "refId" : "fortuneWay_1_17",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "120",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_18" : {
+            "property" : {
+               "boxColor" : 4,
+               "boxRefId" : 18,
+               "boxType" : 4,
+               "gold" : 4000000,
+               "number" : 0,
+               "positionX" : 6,
+               "positionY" : 3
+            },
+            "refId" : "fortuneWay_1_18",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_exp_6",
+                  "number" : "4",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_19" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 19,
+               "boxType" : 3,
+               "gold" : 4000000,
+               "number" : 0,
+               "positionX" : 5,
+               "positionY" : 3
+            },
+            "refId" : "fortuneWay_1_19",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "120",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_2" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 2,
+               "boxType" : 3,
+               "gold" : 2000000,
+               "number" : 0,
+               "positionX" : 2,
+               "positionY" : 1
+            },
+            "refId" : "fortuneWay_1_2",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "80",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_20" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 20,
+               "boxType" : 3,
+               "gold" : 4000000,
+               "number" : 0,
+               "positionX" : 4,
+               "positionY" : 3
+            },
+            "refId" : "fortuneWay_1_20",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "120",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_21" : {
+            "property" : {
+               "boxColor" : 2,
+               "boxRefId" : 21,
+               "boxType" : 4,
+               "gold" : 4000000,
+               "number" : 0,
+               "positionX" : 3,
+               "positionY" : 3
+            },
+            "refId" : "fortuneWay_1_21",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_exp_5",
+                  "number" : "2",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_22" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 22,
+               "boxType" : 3,
+               "gold" : 4000000,
+               "number" : 0,
+               "positionX" : 2,
+               "positionY" : 3
+            },
+            "refId" : "fortuneWay_1_22",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "120",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_23" : {
+            "property" : {
+               "boxColor" : 3,
+               "boxRefId" : 23,
+               "boxType" : 4,
+               "gold" : 6000000,
+               "number" : 0,
+               "positionX" : 1,
+               "positionY" : 3
+            },
+            "refId" : "fortuneWay_1_23",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_shenqiExp",
+                  "number" : "40",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_24" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 24,
+               "boxType" : 3,
+               "gold" : 6000000,
+               "number" : 0,
+               "positionX" : 1,
+               "positionY" : 4
+            },
+            "refId" : "fortuneWay_1_24",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "160",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_25" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 25,
+               "boxType" : 3,
+               "gold" : 6000000,
+               "number" : 0,
+               "positionX" : 1,
+               "positionY" : 5
+            },
+            "refId" : "fortuneWay_1_25",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "160",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_26" : {
+            "property" : {
+               "boxColor" : 2,
+               "boxRefId" : 26,
+               "boxType" : 3,
+               "gold" : 6000000,
+               "number" : 0,
+               "positionX" : 2,
+               "positionY" : 5
+            },
+            "refId" : "fortuneWay_1_26",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "240",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_27" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 27,
+               "boxType" : 3,
+               "gold" : 6000000,
+               "number" : 0,
+               "positionX" : 3,
+               "positionY" : 5
+            },
+            "refId" : "fortuneWay_1_27",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "160",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_28" : {
+            "property" : {
+               "boxColor" : 4,
+               "boxRefId" : 28,
+               "boxType" : 4,
+               "gold" : 6000000,
+               "number" : 0,
+               "positionX" : 4,
+               "positionY" : 5
+            },
+            "refId" : "fortuneWay_1_28",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_giftcard",
+                  "number" : "2",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_29" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 29,
+               "boxType" : 3,
+               "gold" : 6000000,
+               "number" : 0,
+               "positionX" : 5,
+               "positionY" : 5
+            },
+            "refId" : "fortuneWay_1_29",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "160",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_3" : {
+            "property" : {
+               "boxColor" : 3,
+               "boxRefId" : 3,
+               "boxType" : 4,
+               "gold" : 2000000,
+               "number" : 0,
+               "positionX" : 3,
+               "positionY" : 1
+            },
+            "refId" : "fortuneWay_1_3",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_zuoqiExp",
+                  "number" : "40",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_30" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 30,
+               "boxType" : 3,
+               "gold" : 6000000,
+               "number" : 0,
+               "positionX" : 6,
+               "positionY" : 5
+            },
+            "refId" : "fortuneWay_1_30",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "160",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_31" : {
+            "property" : {
+               "boxColor" : 2,
+               "boxRefId" : 31,
+               "boxType" : 3,
+               "gold" : 6000000,
+               "number" : 0,
+               "positionX" : 7,
+               "positionY" : 5
+            },
+            "refId" : "fortuneWay_1_31",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "320",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_32" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 32,
+               "boxType" : 3,
+               "gold" : 6000000,
+               "number" : 0,
+               "positionX" : 8,
+               "positionY" : 5
+            },
+            "refId" : "fortuneWay_1_32",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "160",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_33" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 33,
+               "boxType" : 3,
+               "gold" : 6000000,
+               "number" : 0,
+               "positionX" : 9,
+               "positionY" : 5
+            },
+            "refId" : "fortuneWay_1_33",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "160",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_34" : {
+            "property" : {
+               "boxColor" : 0,
+               "boxRefId" : 34,
+               "boxType" : 2,
+               "gold" : 0,
+               "number" : 0,
+               "positionX" : 10,
+               "positionY" : 5
+            },
+            "refId" : "fortuneWay_1_34",
+            "rewardData" : null
+         },
+         "fortuneWay_1_4" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 4,
+               "boxType" : 3,
+               "gold" : 2000000,
+               "number" : 0,
+               "positionX" : 4,
+               "positionY" : 1
+            },
+            "refId" : "fortuneWay_1_4",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "80",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_5" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 5,
+               "boxType" : 3,
+               "gold" : 2000000,
+               "number" : 0,
+               "positionX" : 5,
+               "positionY" : 1
+            },
+            "refId" : "fortuneWay_1_5",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "80",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_6" : {
+            "property" : {
+               "boxColor" : 2,
+               "boxRefId" : 6,
+               "boxType" : 4,
+               "gold" : 2000000,
+               "number" : 0,
+               "positionX" : 6,
+               "positionY" : 1
+            },
+            "refId" : "fortuneWay_1_6",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_exp_4",
+                  "number" : "2",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_7" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 7,
+               "boxType" : 3,
+               "gold" : 2000000,
+               "number" : 0,
+               "positionX" : 7,
+               "positionY" : 1
+            },
+            "refId" : "fortuneWay_1_7",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "80",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_8" : {
+            "property" : {
+               "boxColor" : 4,
+               "boxRefId" : 8,
+               "boxType" : 3,
+               "gold" : 2000000,
+               "number" : 0,
+               "positionX" : 8,
+               "positionY" : 1
+            },
+            "refId" : "fortuneWay_1_8",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "800",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "fortuneWay_1_9" : {
+            "property" : {
+               "boxColor" : 1,
+               "boxRefId" : 9,
+               "boxType" : 3,
+               "gold" : 2000000,
+               "number" : 0,
+               "positionX" : 9,
+               "positionY" : 1
+            },
+            "refId" : "fortuneWay_1_9",
+            "rewardData" : [
+               {
+                  "bindStatus" : 1,
+                  "itemRefId" : "fortunePoints",
+                  "number" : "120",
+                  "proffessionRefId" : 0
+               }
+            ]
+         }
+      },
+      "property" : {
+         "checkPoint" : 3,
+         "refIdNext" : "",
+         "refIdPre" : "pass_2"
+      },
+      "refId" : "pass_3",
+      "reward" : [
+         {
+            "bindStatus" : 1,
+            "itemRefId" : "item_shenqiExp",
+            "number" : "100",
+            "proffessionRefId" : 0
+         },
+         {
+            "bindStatus" : 1,
+            "itemRefId" : "item_giftcard",
+            "number" : "1",
+            "proffessionRefId" : 0
+         }
+      ]
+   }
+}
+

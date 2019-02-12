@@ -1,0 +1,31 @@
+{
+   "sa_2" : {
+      "activityData" : [
+         {
+            "limitLevel" : 40
+         }
+      ],
+      "refId" : "sa_2",
+      "sceneRefId" : "S230",
+      "time" : {
+         "duration" : "12:30:00|13:30:00",
+         "preEndTime" : 300,
+         "preStartTime" : 600
+      }
+   },
+   "sa_3" : {
+      "activityData" : [
+         {
+            "limitLevel" : 40
+         }
+      ],
+      "refId" : "sa_3",
+      "sceneRefId" : "S239",
+      "time" : {
+         "duration" : "12:30:00|13:30:00",
+         "preEndTime" : 300,
+         "preStartTime" : 600
+      }
+   }
+}
+

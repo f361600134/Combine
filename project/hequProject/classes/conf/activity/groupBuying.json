@@ -1,0 +1,19 @@
+{
+   "groupBuying_1" : {
+      "activityData" : [
+         {
+            "activityRefId" : "activity_manage_35",
+            "broadCastTime" : "12|18",
+            "limitLevel" : 1
+         }
+      ],
+      "refId" : "groupBuying_1",
+      "sceneRefId" : "",
+      "time" : {
+         "duration" : "",
+         "preEndTime" : 0,
+         "preStartTime" : 0
+      }
+   }
+}
+

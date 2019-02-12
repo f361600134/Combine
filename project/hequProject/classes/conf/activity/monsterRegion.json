@@ -1,0 +1,17 @@
+{
+   "monsterRegion_1" : {
+      "activityData" : [
+         {
+            "limitLevel" : 81
+         }
+      ],
+      "refId" : "monsterRegion_1",
+      "sceneRefId" : "S233",
+      "time" : {
+         "duration" : "19:30:00|20:00:00",
+         "preEndTime" : 300,
+         "preStartTime" : 600
+      }
+   }
+}
+

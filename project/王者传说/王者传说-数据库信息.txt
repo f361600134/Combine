@@ -1,0 +1,25 @@
+dbUser = wzcsmanager
+dbPass = %#Wzcs@*
+
+hequConfig1 = 29 < 41
+29 = jdbc:mysql://rm-uf6ekrftf19np0o6u.mysql.rds.aliyuncs.com:3306/morningglory_data_s29?rewriteBatchedStatements=true&amp;useUnicode=true&amp;characterEncoding=utf-8
+41 = jdbc:mysql://rm-uf6ekrftf19np0o6u.mysql.rds.aliyuncs.com:3306/morningglory_data_s41?rewriteBatchedStatements=true&amp;useUnicode=true&amp;characterEncoding=utf-8
+
+hequConfig2 = 49 < 53
+49 = jdbc:mysql://rm-uf6g91427rqy3m6q7.mysql.rds.aliyuncs.com:3306/morningglory_data_s49?rewriteBatchedStatements=true&amp;useUnicode=true&amp;characterEncoding=utf-8
+53 = jdbc:mysql://rm-uf6g91427rqy3m6q7.mysql.rds.aliyuncs.com:3306/morningglory_data_s53?rewriteBatchedStatements=true&amp;useUnicode=true&amp;characterEncoding=utf-8
+
+hequConfig3 = 57 < 59
+57 = jdbc:mysql://rm-uf6g91427rqy3m6q7.mysql.rds.aliyuncs.com:3306/morningglory_data_s57?rewriteBatchedStatements=true&amp;useUnicode=true&amp;characterEncoding=utf-8
+59 = jdbc:mysql://rm-uf6ekrftf19np0o6u.mysql.rds.aliyuncs.com:3306/morningglory_data_s59?rewriteBatchedStatements=true&amp;useUnicode=true&amp;characterEncoding=utf-8
+
+hequConfig4 = 61 < 62
+61 = jdbc:mysql://rm-uf6g91427rqy3m6q7.mysql.rds.aliyuncs.com:3306/morningglory_data_s61?rewriteBatchedStatements=true&amp;useUnicode=true&amp;characterEncoding=utf-8
+62 = jdbc:mysql://rm-uf6g91427rqy3m6q7.mysql.rds.aliyuncs.com:3306/morningglory_data_s62?rewriteBatchedStatements=true&amp;useUnicode=true&amp;characterEncoding=utf-8
+
+hequConfig5 = 63 < 64
+63 = jdbc:mysql://rm-uf6g91427rqy3m6q7.mysql.rds.aliyuncs.com:3306/morningglory_data_s63?rewriteBatchedStatements=true&amp;useUnicode=true&amp;characterEncoding=utf-8
+64 = jdbc:mysql://rm-uf6ekrftf19np0o6u.mysql.rds.aliyuncs.com:3306/morningglory_data_s64?rewriteBatchedStatements=true&amp;useUnicode=true&amp;characterEncoding=utf-8
+
+
+

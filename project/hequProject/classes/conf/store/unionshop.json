@@ -1,0 +1,192 @@
+{
+   "union_item_001" : {
+      "priceData" : {
+         "formerPriceData" : [
+            {
+               "number" : 10000,
+               "refId" : "unionContribute"
+            }
+         ],
+         "nowPriceData" : [
+            {
+               "number" : 10000,
+               "refId" : "unionContribute"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_90_3100",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "itemSellType" : 1,
+         "number" : 0,
+         "storeLimitTime" : "",
+         "storeType" : "union_unionContribute"
+      },
+      "refId" : "union_item_001"
+   },
+   "union_item_002" : {
+      "priceData" : {
+         "formerPriceData" : [
+            {
+               "number" : 10000,
+               "refId" : "unionContribute"
+            }
+         ],
+         "nowPriceData" : [
+            {
+               "number" : 10000,
+               "refId" : "unionContribute"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_90_3200",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "itemSellType" : 1,
+         "number" : 0,
+         "storeLimitTime" : "",
+         "storeType" : "union_unionContribute"
+      },
+      "refId" : "union_item_002"
+   },
+   "union_item_003" : {
+      "priceData" : {
+         "formerPriceData" : [
+            {
+               "number" : 10000,
+               "refId" : "unionContribute"
+            }
+         ],
+         "nowPriceData" : [
+            {
+               "number" : 10000,
+               "refId" : "unionContribute"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_90_3300",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "itemSellType" : 1,
+         "number" : 0,
+         "storeLimitTime" : "",
+         "storeType" : "union_unionContribute"
+      },
+      "refId" : "union_item_003"
+   },
+   "union_item_004" : {
+      "priceData" : {
+         "formerPriceData" : [
+            {
+               "number" : 1000,
+               "refId" : "unionContribute"
+            }
+         ],
+         "nowPriceData" : [
+            {
+               "number" : 1000,
+               "refId" : "unionContribute"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_shuye",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "itemSellType" : 1,
+         "number" : 0,
+         "storeLimitTime" : "",
+         "storeType" : "union_unionContribute"
+      },
+      "refId" : "union_item_004"
+   },
+   "union_item_005" : {
+      "priceData" : {
+         "formerPriceData" : [
+            {
+               "number" : 100,
+               "refId" : "unionContribute"
+            }
+         ],
+         "nowPriceData" : [
+            {
+               "number" : 100,
+               "refId" : "unionContribute"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_zhenmoling_1",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "itemSellType" : 1,
+         "number" : 0,
+         "storeLimitTime" : "",
+         "storeType" : "union_unionContribute"
+      },
+      "refId" : "union_item_005"
+   },
+   "union_item_006" : {
+      "priceData" : {
+         "formerPriceData" : [
+            {
+               "number" : 2000,
+               "refId" : "unionContribute"
+            }
+         ],
+         "nowPriceData" : [
+            {
+               "number" : 2000,
+               "refId" : "unionContribute"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_moxueshi_2",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "itemSellType" : 1,
+         "number" : 0,
+         "storeLimitTime" : "",
+         "storeType" : "union_unionContribute"
+      },
+      "refId" : "union_item_006"
+   },
+   "union_item_007" : {
+      "priceData" : {
+         "formerPriceData" : [
+            {
+               "number" : 2400,
+               "refId" : "unionContribute"
+            }
+         ],
+         "nowPriceData" : [
+            {
+               "number" : 2400,
+               "refId" : "unionContribute"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_templetickets",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "itemSellType" : 1,
+         "number" : 0,
+         "storeLimitTime" : "",
+         "storeType" : "union_unionContribute"
+      },
+      "refId" : "union_item_007"
+   }
+}
+

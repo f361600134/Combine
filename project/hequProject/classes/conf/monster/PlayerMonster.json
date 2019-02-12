@@ -1,0 +1,141 @@
+{
+   "monster_1001" : {
+      "property" : {
+         "gender" : 1,
+         "itemRefId" : "",
+         "kind" : 0,
+         "name" : "尊丶霸刀",
+         "perHP" : 100,
+         "positionX" : 0,
+         "positionY" : 0,
+         "states" : 0,
+         "weaponModleId" : 4014,
+         "wingModleId" : 6002
+      },
+      "refId" : "monster_1001"
+   },
+   "monster_1002" : {
+      "property" : {
+         "gender" : 2,
+         "itemRefId" : "",
+         "kind" : 1,
+         "name" : "飞花入梦",
+         "perHP" : 100,
+         "positionX" : 0,
+         "positionY" : 0,
+         "states" : 0,
+         "weaponModleId" : 4015,
+         "wingModleId" : 6003
+      },
+      "refId" : "monster_1002"
+   },
+   "monster_1003" : {
+      "property" : {
+         "gender" : 1,
+         "itemRefId" : "",
+         "kind" : 0,
+         "monsterRefId" : "monster_1011",
+         "name" : "血手邪神",
+         "perHP" : 100,
+         "positionX" : 0,
+         "positionY" : 0,
+         "states" : 0,
+         "weaponModleId" : 4016,
+         "wingModleId" : 6004
+      },
+      "refId" : "monster_1003"
+   },
+   "monster_1004" : {
+      "property" : {
+         "gender" : 1,
+         "itemRefId" : "equip_40_1101,equip_30_7300,equip_15_7100,equip_60_6100",
+         "kind" : 0,
+         "name" : "尊丶霸刀",
+         "perHP" : 50,
+         "positionX" : 49,
+         "positionY" : 44,
+         "states" : 0,
+         "weaponModleId" : 4014,
+         "wingModleId" : 6002
+      },
+      "refId" : "monster_1004"
+   },
+   "monster_1005" : {
+      "property" : {
+         "gender" : 2,
+         "itemRefId" : "",
+         "kind" : 1,
+         "name" : "飞花入梦",
+         "perHP" : 50,
+         "positionX" : 0,
+         "positionY" : 0,
+         "states" : 0,
+         "weaponModleId" : 4015,
+         "wingModleId" : 6003
+      },
+      "refId" : "monster_1005"
+   },
+   "monster_1006" : {
+      "property" : {
+         "gender" : 1,
+         "itemRefId" : "",
+         "kind" : 0,
+         "monsterRefId" : "monster_1012",
+         "name" : "血手邪神",
+         "perHP" : 50,
+         "positionX" : 0,
+         "positionY" : 0,
+         "states" : 0,
+         "weaponModleId" : 4016,
+         "wingModleId" : 6004
+      },
+      "refId" : "monster_1006"
+   },
+   "monster_1007" : {
+      "property" : {
+         "gender" : 1,
+         "itemRefId" : "",
+         "kind" : 0,
+         "name" : "狂剑メ血王",
+         "perHP" : 100,
+         "positionX" : 0,
+         "positionY" : 0,
+         "states" : 1,
+         "weaponModleId" : 4011,
+         "wingModleId" : 0
+      },
+      "refId" : "monster_1007"
+   },
+   "monster_1008" : {
+      "property" : {
+         "gender" : 1,
+         "itemRefId" : "equip_40_1101",
+         "kind" : 1,
+         "name" : "叛逆无罪",
+         "perHP" : 100,
+         "positionX" : 55,
+         "positionY" : 20,
+         "states" : 0,
+         "weaponModleId" : 4012,
+         "wingModleId" : 0
+      },
+      "refId" : "monster_1008"
+   },
+   "monster_1009" : {
+      "property" : {
+         "gender" : 2,
+         "itemRefId" : "",
+         "kind" : 0,
+         "monsterRefId" : "monster_1010",
+         "name" : "浮云灬苍月",
+         "perHP" : 100,
+         "positionX" : 0,
+         "positionY" : 0,
+         "states" : 1,
+         "weaponModleId" : 4013,
+         "wingModleId" : 6001
+      },
+      "refId" : "monster_1009"
+   }
+}
+

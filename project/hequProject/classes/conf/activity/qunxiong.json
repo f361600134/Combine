@@ -1,0 +1,37 @@
+{
+   "qunxiongzhulu" : {
+      "activityData" : [
+         {
+            "rewardLevel1" : 1,
+            "rewardLevel2" : 1,
+            "sortboardReward" : 60
+         },
+         {
+            "rewardLevel1" : 2,
+            "rewardLevel2" : 2,
+            "sortboardReward" : 20
+         },
+         {
+            "rewardLevel1" : 3,
+            "rewardLevel2" : 3,
+            "sortboardReward" : 10
+         }
+      ],
+      "initScore" : 10,
+      "joinGold" : 20,
+      "killPoint" : 10,
+      "killedLimit" : 10,
+      "leavePercents" : 50,
+      "limitLevel" : 81,
+      "refId" : "qunxiongzhulu",
+      "regSec" : 300,
+      "sceneRefId" : "S250",
+      "signLimit" : 300,
+      "time" : {
+         "duration" : "13:05:00|13:25:00&22:05:00|22:25:00",
+         "preEndTime" : 300,
+         "preStartTime" : 600
+      }
+   }
+}
+

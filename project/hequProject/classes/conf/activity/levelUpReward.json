@@ -1,0 +1,346 @@
+{
+   "levelUpReward_1" : {
+      "beginTime" : "00:00:00",
+      "endTime" : "480:00:00",
+      "levelUpReward" : {
+         "levelUpReward" : [
+            {
+               "bindStatus" : 1,
+               "number" : 100,
+               "refId" : "item_qianghuashi"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 10,
+               "refId" : "item_duihuanquan_1"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 30,
+               "refId" : "item_drug_9"
+            }
+         ]
+      },
+      "property" : {
+         "description" : "等级升到40级",
+         "level" : 40,
+         "levelUpRewardNextRefId" : "levelUpReward_2",
+         "levelUpRewardPreRefId" : ""
+      },
+      "refId" : "levelUpReward_1"
+   },
+   "levelUpReward_2" : {
+      "beginTime" : "00:00:00",
+      "endTime" : "480:00:00",
+      "levelUpReward" : {
+         "levelUpReward" : [
+            {
+               "bindStatus" : 1,
+               "number" : 150,
+               "refId" : "item_qianghuashi"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 100,
+               "refId" : "item_zuoqiExp"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 20,
+               "refId" : "item_duihuanquan_1"
+            }
+         ]
+      },
+      "property" : {
+         "description" : "等级升到50级",
+         "level" : 50,
+         "levelUpRewardNextRefId" : "levelUpReward_3",
+         "levelUpRewardPreRefId" : "levelUpReward_1"
+      },
+      "refId" : "levelUpReward_2"
+   },
+   "levelUpReward_3" : {
+      "beginTime" : "00:00:00",
+      "endTime" : "480:00:00",
+      "levelUpReward" : {
+         "levelUpReward" : [
+            {
+               "bindStatus" : 1,
+               "number" : 200,
+               "refId" : "item_qianghuashi"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 150,
+               "refId" : "item_zuoqiExp"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 150,
+               "refId" : "item_chibangExp"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 30,
+               "refId" : "item_duihuanquan_1"
+            }
+         ]
+      },
+      "property" : {
+         "description" : "等级升到60级",
+         "level" : 60,
+         "levelUpRewardNextRefId" : "levelUpReward_4",
+         "levelUpRewardPreRefId" : "levelUpReward_2"
+      },
+      "refId" : "levelUpReward_3"
+   },
+   "levelUpReward_4" : {
+      "beginTime" : "00:00:00",
+      "endTime" : "480:00:00",
+      "levelUpReward" : {
+         "levelUpReward" : [
+            {
+               "bindStatus" : 1,
+               "number" : 250,
+               "refId" : "item_qianghuashi"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 200,
+               "refId" : "item_chibangExp"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 200,
+               "refId" : "item_shenqiExp"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 50,
+               "refId" : "item_duihuanquan_1"
+            }
+         ]
+      },
+      "property" : {
+         "description" : "等级升到70级",
+         "level" : 70,
+         "levelUpRewardNextRefId" : "levelUpReward_5",
+         "levelUpRewardPreRefId" : "levelUpReward_3"
+      },
+      "refId" : "levelUpReward_4"
+   },
+   "levelUpReward_5" : {
+      "beginTime" : "00:00:00",
+      "endTime" : "480:00:00",
+      "levelUpReward" : {
+         "levelUpReward" : [
+            {
+               "bindStatus" : "1",
+               "number" : "1",
+               "proffessionRefId" : 1,
+               "refId" : "equip_90_1100"
+            },
+            {
+               "bindStatus" : "1",
+               "number" : "1",
+               "proffessionRefId" : 2,
+               "refId" : "equip_90_1100"
+            },
+            {
+               "bindStatus" : "1",
+               "number" : "1",
+               "proffessionRefId" : 3,
+               "refId" : "equip_90_1200"
+            },
+            {
+               "bindStatus" : "1",
+               "number" : "1",
+               "proffessionRefId" : 4,
+               "refId" : "equip_90_1200"
+            },
+            {
+               "bindStatus" : "1",
+               "number" : "1",
+               "proffessionRefId" : 5,
+               "refId" : "equip_90_1300"
+            },
+            {
+               "bindStatus" : "1",
+               "number" : "1",
+               "proffessionRefId" : 6,
+               "refId" : "equip_90_1300"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 1,
+               "refId" : "item_qianghuajuan_7"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 50,
+               "refId" : "item_moshi"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 300,
+               "refId" : "item_shenqiExp"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 80,
+               "refId" : "item_duihuanquan_1"
+            }
+         ]
+      },
+      "property" : {
+         "description" : "等级升到40级[1转]",
+         "level" : 81,
+         "levelUpRewardNextRefId" : "levelUpReward_6",
+         "levelUpRewardPreRefId" : "levelUpReward_4"
+      },
+      "refId" : "levelUpReward_5"
+   },
+   "levelUpReward_6" : {
+      "beginTime" : "00:00:00",
+      "endTime" : "480:00:00",
+      "levelUpReward" : {
+         "levelUpReward" : [
+            {
+               "bindStatus" : "1",
+               "number" : "1",
+               "proffessionRefId" : 1,
+               "refId" : "equip_110_2110"
+            },
+            {
+               "bindStatus" : "1",
+               "number" : "1",
+               "proffessionRefId" : 2,
+               "refId" : "equip_110_2120"
+            },
+            {
+               "bindStatus" : "1",
+               "number" : "1",
+               "proffessionRefId" : 3,
+               "refId" : "equip_110_2210"
+            },
+            {
+               "bindStatus" : "1",
+               "number" : "1",
+               "proffessionRefId" : 4,
+               "refId" : "equip_110_2220"
+            },
+            {
+               "bindStatus" : "1",
+               "number" : "1",
+               "proffessionRefId" : 5,
+               "refId" : "equip_110_2310"
+            },
+            {
+               "bindStatus" : "1",
+               "number" : "1",
+               "proffessionRefId" : 6,
+               "refId" : "equip_110_2320"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 1,
+               "refId" : "item_qianghuajuan_8"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 100,
+               "refId" : "item_moshi"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 400,
+               "refId" : "item_shenqiExp"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 150,
+               "refId" : "item_duihuanquan_1"
+            }
+         ]
+      },
+      "property" : {
+         "description" : "等级升到40级[3转]",
+         "level" : 168,
+         "levelUpRewardNextRefId" : "levelUpReward_7",
+         "levelUpRewardPreRefId" : "levelUpReward_5"
+      },
+      "refId" : "levelUpReward_6"
+   },
+   "levelUpReward_7" : {
+      "beginTime" : "00:00:00",
+      "endTime" : "480:00:00",
+      "levelUpReward" : {
+         "levelUpReward" : [
+            {
+               "bindStatus" : "1",
+               "number" : "1",
+               "proffessionRefId" : 1,
+               "refId" : "equip_130_6100"
+            },
+            {
+               "bindStatus" : "1",
+               "number" : "1",
+               "proffessionRefId" : 2,
+               "refId" : "equip_130_6100"
+            },
+            {
+               "bindStatus" : "1",
+               "number" : "1",
+               "proffessionRefId" : 3,
+               "refId" : "equip_130_6200"
+            },
+            {
+               "bindStatus" : "1",
+               "number" : "1",
+               "proffessionRefId" : 4,
+               "refId" : "equip_130_6200"
+            },
+            {
+               "bindStatus" : "1",
+               "number" : "1",
+               "proffessionRefId" : 5,
+               "refId" : "equip_130_6300"
+            },
+            {
+               "bindStatus" : "1",
+               "number" : "1",
+               "proffessionRefId" : 6,
+               "refId" : "equip_130_6300"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 1,
+               "refId" : "item_qianghuajuan_9"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 200,
+               "refId" : "item_moshi"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 500,
+               "refId" : "item_shenqiExp"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 200,
+               "refId" : "item_duihuanquan_1"
+            }
+         ]
+      },
+      "property" : {
+         "description" : "等级升到40级[5转]",
+         "level" : 265,
+         "levelUpRewardNextRefId" : "",
+         "levelUpRewardPreRefId" : "levelUpReward_6"
+      },
+      "refId" : "levelUpReward_7"
+   }
+}
+

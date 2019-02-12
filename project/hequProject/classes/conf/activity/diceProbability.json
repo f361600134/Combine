@@ -1,0 +1,45 @@
+{
+   "dice_1" : {
+      "property" : {
+         "number" : 1,
+         "probability" : 300000
+      },
+      "refId" : "dice_1"
+   },
+   "dice_2" : {
+      "property" : {
+         "number" : 2,
+         "probability" : 200000
+      },
+      "refId" : "dice_2"
+   },
+   "dice_3" : {
+      "property" : {
+         "number" : 3,
+         "probability" : 200000
+      },
+      "refId" : "dice_3"
+   },
+   "dice_4" : {
+      "property" : {
+         "number" : 4,
+         "probability" : 100000
+      },
+      "refId" : "dice_4"
+   },
+   "dice_5" : {
+      "property" : {
+         "number" : 5,
+         "probability" : 100000
+      },
+      "refId" : "dice_5"
+   },
+   "dice_6" : {
+      "property" : {
+         "number" : 6,
+         "probability" : 100000
+      },
+      "refId" : "dice_6"
+   }
+}
+

@@ -1,0 +1,18 @@
+{
+   "darkPortal_1" : {
+      "activityData" : [
+         {
+            "activityRefId" : "activity_manage_33",
+            "limitLevel" : 25
+         }
+      ],
+      "refId" : "darkPortal_1",
+      "sceneRefId" : "S036",
+      "time" : {
+         "duration" : "",
+         "preEndTime" : 300,
+         "preStartTime" : 600
+      }
+   }
+}
+

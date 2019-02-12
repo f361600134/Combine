@@ -1,0 +1,30 @@
+{
+   "qiumo1" : {
+      "refId" : "qiumo1",
+      "sceneRefId" : "S084",
+      "time" : {
+         "duration" : "22:30:00|23:00:00",
+         "preEndTime" : 300,
+         "preStartTime" : 600
+      }
+   },
+   "qiumo2" : {
+      "refId" : "qiumo2",
+      "sceneRefId" : "S085",
+      "time" : {
+         "duration" : "22:30:00|23:00:00",
+         "preEndTime" : 300,
+         "preStartTime" : 600
+      }
+   },
+   "qiumo3" : {
+      "refId" : "qiumo3",
+      "sceneRefId" : "S086",
+      "time" : {
+         "duration" : "22:30:00|23:00:00",
+         "preEndTime" : 300,
+         "preStartTime" : 600
+      }
+   }
+}
+

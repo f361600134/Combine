@@ -1,0 +1,66 @@
+{
+   "digsShop_1" : {
+      "property" : {
+         "name" : "积分道具",
+         "storeType" : "shop_digs"
+      },
+      "refId" : "digsShop_1"
+   },
+   "digsShop_2" : {
+      "property" : {
+         "name" : "积分道具",
+         "storeType" : "shop_digs"
+      },
+      "refId" : "digsShop_2"
+   },
+   "digsShop_3" : {
+      "property" : {
+         "name" : "积分道具",
+         "storeType" : "shop_digs"
+      },
+      "refId" : "digsShop_3"
+   },
+   "digsShop_4" : {
+      "property" : {
+         "name" : "积分道具",
+         "storeType" : "shop_digs"
+      },
+      "refId" : "digsShop_4"
+   },
+   "digsShop_5" : {
+      "property" : {
+         "name" : "积分道具",
+         "storeType" : "shop_digs"
+      },
+      "refId" : "digsShop_5"
+   },
+   "digsShop_6" : {
+      "property" : {
+         "name" : "积分道具",
+         "storeType" : "shop_digs"
+      },
+      "refId" : "digsShop_6"
+   },
+   "digsShop_7" : {
+      "property" : {
+         "name" : "积分道具",
+         "storeType" : "shop_digs"
+      },
+      "refId" : "digsShop_7"
+   },
+   "digsShop_8" : {
+      "property" : {
+         "name" : "积分道具",
+         "storeType" : "shop_digs"
+      },
+      "refId" : "digsShop_8"
+   },
+   "digsShop_9" : {
+      "property" : {
+         "name" : "积分道具",
+         "storeType" : "shop_digs"
+      },
+      "refId" : "digsShop_9"
+   }
+}
+

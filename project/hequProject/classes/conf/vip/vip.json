@@ -1,0 +1,299 @@
+{
+   "vip_1" : {
+      "description" : {
+         "description" : {
+            "benefit1" : {
+               "description" : "增加100物攻,100魔攻,100道攻"
+            },
+            "benefit2" : {
+               "description" : "每天可以无限使用飞鞋"
+            },
+            "benefit3" : {
+               "description" : "立即获得二阶翅膀【翠羽】"
+            },
+            "benefit4" : {
+               "description" : "每天可在云岐城||福童||处领取2倍经验BUFF(1小时)、青铜VIP礼包"
+            },
+            "benefit5" : {
+               "description" : "达到50级,可在云岐城||福童||处领取50级金色特技武器奖励"
+            },
+            "benefit6" : {
+               "description" : "每天可额外进入1次所有副本"
+            },
+            "benefit7" : {
+               "description" : "每天可额外进入1次镇魔塔"
+            },
+            "benefit8" : {
+               "description" : "可获得3次额外的VIP抽奖次数"
+            },
+            "benefit9" : {
+               "description" : "拍卖行同时出售道具增加5件"
+            }
+         }
+      },
+      "property" : {
+         "HP" : 0,
+         "MDodgePer" : 0,
+         "MImmunityPer" : 0,
+         "MP" : 0,
+         "PDodgePer" : 0,
+         "PImmunityPer" : 0,
+         "atkSpeedPer" : 0,
+         "bindStatus" : 1,
+         "buffRefId" : "buff_vip_1",
+         "canShoeNoItem" : 1,
+         "canVipBoss" : 1,
+         "canVipStrong" : 1,
+         "crit" : 0,
+         "critInjure" : 0,
+         "dailyProposeRing" : 0,
+         "dodge" : 0,
+         "duration" : 30,
+         "fortune" : 0,
+         "hit" : 0,
+         "iconId" : "vip_1",
+         "ignoreMDef" : 0,
+         "ignorePDef" : 0,
+         "itemRefId" : "item_gift_vip_1",
+         "maxAuctionCount" : 5,
+         "maxMAtk" : 100,
+         "maxMDef" : 0,
+         "maxPAtk" : 100,
+         "maxPDef" : 0,
+         "maxTao" : 100,
+         "minMAtk" : 0,
+         "minMDef" : 0,
+         "minPAtk" : 0,
+         "minPDef" : 0,
+         "minTao" : 0,
+         "moveSpeedPer" : 0,
+         "name" : "青铜",
+         "perHP" : 0,
+         "perMP" : 0,
+         "timesADay" : 1,
+         "vipRewardLevel" : "50",
+         "wingRefId" : "wing_2_0"
+      },
+      "refId" : "vip_1",
+      "weaponData" : [
+         {
+            "bindStatus" : "true",
+            "itemRefId" : "equip_50_1104",
+            "level" : 50,
+            "number" : "1",
+            "profession" : "1"
+         },
+         {
+            "bindStatus" : "true",
+            "itemRefId" : "equip_50_1204",
+            "level" : 50,
+            "number" : "1",
+            "profession" : "2"
+         },
+         {
+            "bindStatus" : "true",
+            "itemRefId" : "equip_50_1302",
+            "level" : 50,
+            "number" : "1",
+            "profession" : "3"
+         }
+      ]
+   },
+   "vip_3" : {
+      "description" : {
+         "description" : {
+            "benefit1" : {
+               "description" : "增加300物攻,300魔攻,300道攻"
+            },
+            "benefit10" : {
+               "description" : "拍卖行同时出售道具增加10件"
+            },
+            "benefit2" : {
+               "description" : "每天可以无限使用飞鞋"
+            },
+            "benefit3" : {
+               "description" : "立即获得二阶翅膀【翠羽】"
+            },
+            "benefit4" : {
+               "description" : "开放随身仓库，随时存取物品"
+            },
+            "benefit5" : {
+               "description" : "每天可在云岐城||福童||处领取4倍经验BUFF(1小时)、黄金VIP礼包"
+            },
+            "benefit6" : {
+               "description" : "达到50、60级,可在云岐城||福童||处领取对应等级金色特技武器奖励"
+            },
+            "benefit7" : {
+               "description" : "每天可额外进入2次所有副本"
+            },
+            "benefit8" : {
+               "description" : "每天可额外进入2次镇魔塔"
+            },
+            "benefit9" : {
+               "description" : "可获得5次额外的VIP抽奖次数"
+            }
+         }
+      },
+      "property" : {
+         "HP" : 0,
+         "MDodgePer" : 0,
+         "MImmunityPer" : 0,
+         "MP" : 0,
+         "PDodgePer" : 0,
+         "PImmunityPer" : 0,
+         "atkSpeedPer" : 0,
+         "bindStatus" : 1,
+         "buffRefId" : "buff_vip_3",
+         "canShoeNoItem" : 1,
+         "canVipBoss" : 1,
+         "canVipStrong" : 1,
+         "crit" : 0,
+         "critInjure" : 0,
+         "dailyProposeRing" : 0,
+         "dodge" : 0,
+         "duration" : 90,
+         "fortune" : 0,
+         "hit" : 0,
+         "iconId" : "vip_3",
+         "ignoreMDef" : 0,
+         "ignorePDef" : 0,
+         "itemRefId" : "item_gift_vip_3",
+         "maxAuctionCount" : 10,
+         "maxMAtk" : 300,
+         "maxMDef" : 0,
+         "maxPAtk" : 300,
+         "maxPDef" : 0,
+         "maxTao" : 300,
+         "minMAtk" : 0,
+         "minMDef" : 0,
+         "minPAtk" : 0,
+         "minPDef" : 0,
+         "minTao" : 0,
+         "moveSpeedPer" : 0,
+         "name" : "黄金",
+         "perHP" : 0,
+         "perMP" : 0,
+         "timesADay" : 2,
+         "vipRewardLevel" : "50,60",
+         "wingRefId" : "wing_2_0"
+      },
+      "refId" : "vip_3",
+      "weaponData" : [
+         {
+            "bindStatus" : "true",
+            "itemRefId" : "equip_50_1104",
+            "level" : 50,
+            "number" : "1",
+            "profession" : "1"
+         },
+         {
+            "bindStatus" : "true",
+            "itemRefId" : "equip_60_1102",
+            "level" : 60,
+            "number" : "1",
+            "profession" : "1"
+         },
+         {
+            "bindStatus" : "true",
+            "itemRefId" : "equip_50_1204",
+            "level" : 50,
+            "number" : "1",
+            "profession" : "2"
+         },
+         {
+            "bindStatus" : "true",
+            "itemRefId" : "equip_60_1202",
+            "level" : 60,
+            "number" : "1",
+            "profession" : "2"
+         },
+         {
+            "bindStatus" : "true",
+            "itemRefId" : "equip_50_1302",
+            "level" : 50,
+            "number" : "1",
+            "profession" : "3"
+         },
+         {
+            "bindStatus" : "true",
+            "itemRefId" : "equip_60_1302",
+            "level" : 60,
+            "number" : "1",
+            "profession" : "3"
+         }
+      ]
+   },
+   "vip_4" : {
+      "description" : {
+         "description" : {
+            "benefit1" : {
+               "description" : "增加100物攻,100魔攻,100道攻"
+            },
+            "benefit2" : {
+               "description" : "每天可以无限使用飞鞋"
+            },
+            "benefit3" : {
+               "description" : "每天可在云岐城||福童||处领取2倍经验BUFF(持续1小时)、青铜VIP礼包"
+            },
+            "benefit4" : {
+               "description" : "每天可额外进入1次所有副本"
+            },
+            "benefit5" : {
+               "description" : "每天可额外进入1次镇魔塔"
+            },
+            "benefit6" : {
+               "description" : "可获得3次额外的VIP抽奖次数"
+            },
+            "benefit7" : {
+               "description" : "拍卖行同时出售道具增加5件"
+            }
+         }
+      },
+      "property" : {
+         "HP" : 0,
+         "MDodgePer" : 0,
+         "MImmunityPer" : 0,
+         "MP" : 0,
+         "PDodgePer" : 0,
+         "PImmunityPer" : 0,
+         "atkSpeedPer" : 0,
+         "bindStatus" : 1,
+         "buffRefId" : "buff_vip_1",
+         "canShoeNoItem" : 1,
+         "canVipBoss" : 1,
+         "canVipStrong" : 0,
+         "crit" : 0,
+         "critInjure" : 0,
+         "dailyProposeRing" : 0,
+         "dodge" : 0,
+         "duration" : 2,
+         "fortune" : 0,
+         "hit" : 0,
+         "iconId" : "vip_1",
+         "ignoreMDef" : 0,
+         "ignorePDef" : 0,
+         "itemRefId" : "item_gift_vip_1",
+         "maxAuctionCount" : 5,
+         "maxMAtk" : 100,
+         "maxMDef" : 0,
+         "maxPAtk" : 100,
+         "maxPDef" : 0,
+         "maxTao" : 100,
+         "minMAtk" : 0,
+         "minMDef" : 0,
+         "minPAtk" : 0,
+         "minPDef" : 0,
+         "minTao" : 0,
+         "moveSpeedPer" : 0,
+         "name" : "体验",
+         "perHP" : 0,
+         "perMP" : 0,
+         "timesADay" : 1,
+         "vipRewardLevel" : "",
+         "wingRefId" : ""
+      },
+      "refId" : "vip_4",
+      "weaponData" : null
+   }
+}
+

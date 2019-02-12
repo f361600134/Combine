@@ -1,0 +1,395 @@
+{
+   "system_prompt_config_1" : {
+      "property" : {
+         "bricks" : "领取%1$s",
+         "description" : "玩家奖励信息"
+      },
+      "refId" : "system_prompt_config_1"
+   },
+   "system_prompt_config_10" : {
+      "property" : {
+         "bricks" : "背包已满，副本任务奖励将由邮件发送。",
+         "description" : "副本任务奖励邮件信息"
+      },
+      "refId" : "system_prompt_config_10"
+   },
+   "system_prompt_config_11" : {
+      "property" : {
+         "bricks" : "背包已满，日常任务：%s奖励将由邮件发送。",
+         "description" : "日常任务奖励邮件信息"
+      },
+      "refId" : "system_prompt_config_11"
+   },
+   "system_prompt_config_12" : {
+      "property" : {
+         "bricks" : "挖矿活动5分钟后结束，请矿工们抓紧时间！",
+         "description" : "挖矿预结束广播"
+      },
+      "refId" : "system_prompt_config_12"
+   },
+   "system_prompt_config_13" : {
+      "property" : {
+         "bricks" : "挖矿活动已结束，请等待下一次活动开启！",
+         "description" : "挖矿结束广播"
+      },
+      "refId" : "system_prompt_config_13"
+   },
+   "system_prompt_config_14" : {
+      "property" : {
+         "bricks" : "怪物入侵活动已经开启！",
+         "description" : "怪物入侵开始广播"
+      },
+      "refId" : "system_prompt_config_14"
+   },
+   "system_prompt_config_15" : {
+      "property" : {
+         "bricks" : "怪物入侵活动已经结束，请等待下一次活动开启！",
+         "description" : "怪物入侵结束广播"
+      },
+      "refId" : "system_prompt_config_15"
+   },
+   "system_prompt_config_16" : {
+      "property" : {
+         "bricks" : "王城争霸已结束，争夺瑞兽失败。",
+         "description" : "攻城战失败广播"
+      },
+      "refId" : "system_prompt_config_16"
+   },
+   "system_prompt_config_17" : {
+      "property" : {
+         "bricks" : "%1$s出现在%2$s，众英雄可前往挑战！",
+         "description" : "世界怪物刷新"
+      },
+      "refId" : "system_prompt_config_17"
+   },
+   "system_prompt_config_18" : {
+      "property" : {
+         "bricks" : "挖矿活动已开始，大家可前往冰岛挖取稀有矿石！",
+         "description" : "挖矿开始广播"
+      },
+      "refId" : "system_prompt_config_18"
+   },
+   "system_prompt_config_19" : {
+      "property" : {
+         "bricks" : "活动时间为每日%1$s-%2$s、%3$s-%4$s，请在活动时间进入",
+         "description" : "非怪物入侵活动时间"
+      },
+      "refId" : "system_prompt_config_19"
+   },
+   "system_prompt_config_2" : {
+      "property" : {
+         "bricks" : "玩家%1$s通过抽奖获得%2$s个%3$s",
+         "description" : "玩家抽奖信息"
+      },
+      "refId" : "system_prompt_config_2"
+   },
+   "system_prompt_config_20" : {
+      "property" : {
+         "bricks" : "怪物入侵活动5分钟后结束，请抓紧时间！",
+         "description" : "怪物入侵预结束广播"
+      },
+      "refId" : "system_prompt_config_20"
+   },
+   "system_prompt_config_21" : {
+      "property" : {
+         "bricks" : "%1$s公会的%2$s击败了祥瑞麒麟，真乃盖世英雄！",
+         "description" : "玩家击杀麒麟广播"
+      },
+      "refId" : "system_prompt_config_21"
+   },
+   "system_prompt_config_22" : {
+      "property" : {
+         "bricks" : "全服第一战士【%1$s】上线了！",
+         "description" : "第一战士上线广播"
+      },
+      "refId" : "system_prompt_config_22"
+   },
+   "system_prompt_config_23" : {
+      "property" : {
+         "bricks" : "全服第一法师【%1$s】上线了！",
+         "description" : "第一法师上线广播"
+      },
+      "refId" : "system_prompt_config_23"
+   },
+   "system_prompt_config_24" : {
+      "property" : {
+         "bricks" : "全服第一道士【%1$s】上线了！",
+         "description" : "第一道士上线广播"
+      },
+      "refId" : "system_prompt_config_24"
+   },
+   "system_prompt_config_25" : {
+      "property" : {
+         "bricks" : "龙城城主【%1$s】上线了！",
+         "description" : "龙城城主"
+      },
+      "refId" : "system_prompt_config_25"
+   },
+   "system_prompt_config_26" : {
+      "property" : {
+         "bricks" : "四处游荡的江洋大盗已被击败，掉落了满地宝藏。",
+         "description" : "小偷怪"
+      },
+      "refId" : "system_prompt_config_26"
+   },
+   "system_prompt_config_27" : {
+      "property" : {
+         "bricks" : "全服双倍经验活动已开始！",
+         "description" : "全服双倍经验开始广播"
+      },
+      "refId" : "system_prompt_config_27"
+   },
+   "system_prompt_config_28" : {
+      "property" : {
+         "bricks" : "全服双倍经验活动已结束！",
+         "description" : "全服双倍经验结束广播"
+      },
+      "refId" : "system_prompt_config_28"
+   },
+   "system_prompt_config_29" : {
+      "property" : {
+         "bricks" : "%1$s通过挖宝获得%2$s",
+         "description" : "XXX通过挖宝获得XXX"
+      },
+      "refId" : "system_prompt_config_29"
+   },
+   "system_prompt_config_3" : {
+      "property" : {
+         "bricks" : "使用%1$s成功",
+         "description" : "使用道具信息"
+      },
+      "refId" : "system_prompt_config_3"
+   },
+   "system_prompt_config_30" : {
+      "property" : {
+         "bricks" : "通天塔活动10分钟后开启，请做好准备！",
+         "description" : "通天塔预开始广播"
+      },
+      "refId" : "system_prompt_config_30"
+   },
+   "system_prompt_config_31" : {
+      "property" : {
+         "bricks" : "通天塔活动已经开启，众英雄可进入挑战！",
+         "description" : "通天塔开始广播"
+      },
+      "refId" : "system_prompt_config_31"
+   },
+   "system_prompt_config_32" : {
+      "property" : {
+         "bricks" : "通天塔活动已经结束，请等待下一次活动开启。",
+         "description" : "通天塔结束广播"
+      },
+      "refId" : "system_prompt_config_32"
+   },
+   "system_prompt_config_33" : {
+      "property" : {
+         "bricks" : "活动时间为每日%1$s-%2$s，请在活动时间进入",
+         "description" : "通天塔活动时间"
+      },
+      "refId" : "system_prompt_config_33"
+   },
+   "system_prompt_config_34" : {
+      "property" : {
+         "bricks" : "{p=%1$s<%2$s>}使用黄金VIP卡，成为尊贵的{l=%3$s<%4$s>}",
+         "description" : "xxx使用黄金VIP卡，成为尊贵的黄金VIP"
+      },
+      "refId" : "system_prompt_config_34"
+   },
+   "system_prompt_config_35" : {
+      "property" : {
+         "bricks" : "{p=%1$s<%2$s>}成功获得法宝{l=%3$s<%4$s>}",
+         "description" : "XXX成功获得法宝XXX"
+      },
+      "refId" : "system_prompt_config_35"
+   },
+   "system_prompt_config_36" : {
+      "property" : {
+         "bricks" : "{p=%1$s<%2$s>}成功升级坐骑到%3$s阶{l=%4$s<%5$s>}",
+         "description" : "xxx成功升级坐骑到XXX阶"
+      },
+      "refId" : "system_prompt_config_36"
+   },
+   "system_prompt_config_37" : {
+      "property" : {
+         "bricks" : "{p=%1$s<%2$s>}成功升级翅膀到%3$s阶{l=%4$s<%5$s>}",
+         "description" : "xxx成功升级翅膀到XXX阶"
+      },
+      "refId" : "system_prompt_config_37"
+   },
+   "system_prompt_config_38" : {
+      "property" : {
+         "bricks" : "魔王降临活动已经开启，众英雄可前往挑战魔王，夺取丰厚奖励！",
+         "description" : "魔王降临开始广播"
+      },
+      "refId" : "system_prompt_config_38"
+   },
+   "system_prompt_config_39" : {
+      "property" : {
+         "bricks" : "魔王降临活动10分钟后开启，请做好准备！",
+         "description" : "魔王降临预开始广播"
+      },
+      "refId" : "system_prompt_config_39"
+   },
+   "system_prompt_config_4" : {
+      "property" : {
+         "bricks" : "背包剩余格子不足%1$s个，请先清理背包",
+         "description" : "背包剩余格子不足m个，清先清理背包"
+      },
+      "refId" : "system_prompt_config_4"
+   },
+   "system_prompt_config_40" : {
+      "property" : {
+         "bricks" : "魔王降临活动已经结束，诸魔王已被重新封印！",
+         "description" : "魔王降临结束广播"
+      },
+      "refId" : "system_prompt_config_40"
+   },
+   "system_prompt_config_41" : {
+      "property" : {
+         "bricks" : "魔王降临活动5分钟后结束，请抓紧时间击败魔王！",
+         "description" : "魔王降临预结束广播"
+      },
+      "refId" : "system_prompt_config_41"
+   },
+   "system_prompt_config_42" : {
+      "property" : {
+         "bricks" : "魔域活动已经开启，众英雄可前往参加，夺取丰厚奖励！",
+         "description" : "魔域开始广播"
+      },
+      "refId" : "system_prompt_config_42"
+   },
+   "system_prompt_config_43" : {
+      "property" : {
+         "bricks" : "魔域活动10分钟后开启，请做好准备！",
+         "description" : "魔域预开始广播"
+      },
+      "refId" : "system_prompt_config_43"
+   },
+   "system_prompt_config_44" : {
+      "property" : {
+         "bricks" : "本次魔域活动已经结束，请期待下一次开启",
+         "description" : "魔域结束广播"
+      },
+      "refId" : "system_prompt_config_44"
+   },
+   "system_prompt_config_45" : {
+      "property" : {
+         "bricks" : "魔域活动5分钟后结束，请众英雄抓紧时间！",
+         "description" : "魔域预结束广播"
+      },
+      "refId" : "system_prompt_config_45"
+   },
+   "system_prompt_config_46" : {
+      "property" : {
+         "bricks" : "猪洞活动10分钟后开启，请做好准备！",
+         "description" : "猪洞预开始广播"
+      },
+      "refId" : "system_prompt_config_46"
+   },
+   "system_prompt_config_47" : {
+      "property" : {
+         "bricks" : "猪洞活动已经开启，众英雄可前往挑战野猪，夺取丰厚奖励！",
+         "description" : "猪洞开始广播"
+      },
+      "refId" : "system_prompt_config_47"
+   },
+   "system_prompt_config_48" : {
+      "property" : {
+         "bricks" : "猪洞活动已经结束，猪洞入口已被封印，请等待下一次活动开启。",
+         "description" : "猪洞结束广播"
+      },
+      "refId" : "system_prompt_config_48"
+   },
+   "system_prompt_config_49" : {
+      "property" : {
+         "bricks" : "猪洞活动5分钟后结束，请抓紧时间！",
+         "description" : "猪洞预结束广播"
+      },
+      "refId" : "system_prompt_config_49"
+   },
+   "system_prompt_config_5" : {
+      "property" : {
+         "bricks" : "挖宝仓库位置不足，请提取后再进行挖宝",
+         "description" : "挖宝仓库信息"
+      },
+      "refId" : "system_prompt_config_5"
+   },
+   "system_prompt_config_50" : {
+      "property" : {
+         "bricks" : "秘境探宝活动已开始，众英雄可前往宝物秘境，夺取高级宝箱！",
+         "description" : "秘境探宝开始广播"
+      },
+      "refId" : "system_prompt_config_50"
+   },
+   "system_prompt_config_51" : {
+      "property" : {
+         "bricks" : "秘境探宝活动5分钟后结束，大家抓紧时间抢宝！",
+         "description" : "秘境探宝预结束广播"
+      },
+      "refId" : "system_prompt_config_51"
+   },
+   "system_prompt_config_52" : {
+      "property" : {
+         "bricks" : "秘境探宝活动已结束，请等待下一次宝物秘境开启！",
+         "description" : "秘境探宝结束广播"
+      },
+      "refId" : "system_prompt_config_52"
+   },
+   "system_prompt_config_53" : {
+      "property" : {
+         "bricks" : "暗黑之门将于10分钟后开启，届时暗黑神殿二层将出现大量boss！",
+         "description" : "暗黑之门预开始广播"
+      },
+      "refId" : "system_prompt_config_53"
+   },
+   "system_prompt_config_54" : {
+      "property" : {
+         "bricks" : "暗黑之门已开启，开启期间内暗黑神殿二层随时可能出现boss，请勇士们抓紧前往！",
+         "description" : "暗黑之门开始广播"
+      },
+      "refId" : "system_prompt_config_54"
+   },
+   "system_prompt_config_55" : {
+      "property" : {
+         "bricks" : "暗黑之门还有5分钟就要关闭了，关闭后boss会立即消失，请勇士们尽快行动！",
+         "description" : "暗黑之门预结束广播"
+      },
+      "refId" : "system_prompt_config_55"
+   },
+   "system_prompt_config_56" : {
+      "property" : {
+         "bricks" : "暗黑之门已关闭，期待下次开启！",
+         "description" : "暗黑之门结束广播"
+      },
+      "refId" : "system_prompt_config_56"
+   },
+   "system_prompt_config_6" : {
+      "property" : {
+         "bricks" : "背包已满，%1$s获得的物品已通过邮件发送给您，请查收！",
+         "description" : "背包满发邮件信息"
+      },
+      "refId" : "system_prompt_config_6"
+   },
+   "system_prompt_config_7" : {
+      "property" : {
+         "bricks" : "王城争霸已结束，%s 公会攻打王城成功，成为新的王城公会。",
+         "description" : "攻城战结束广播"
+      },
+      "refId" : "system_prompt_config_7"
+   },
+   "system_prompt_config_8" : {
+      "property" : {
+         "bricks" : "王城争霸10分钟后开始，请王城公会进入皇宫守卫瑞兽！",
+         "description" : "攻城战预开始广播"
+      },
+      "refId" : "system_prompt_config_8"
+   },
+   "system_prompt_config_9" : {
+      "property" : {
+         "bricks" : "王城争霸正式开始，请参战公会进入皇宫争夺瑞兽的归属！",
+         "description" : "攻城战开始广播"
+      },
+      "refId" : "system_prompt_config_9"
+   }
+}
+

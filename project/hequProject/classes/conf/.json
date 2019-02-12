@@ -1,0 +1,366 @@
+{
+   "activity_manage_1" : {
+      "property" : {
+         "activitySortId" : 8,
+         "description" : "",
+         "iconId" : "activity_qiandao",
+         "kind" : 3,
+         "level" : 0,
+         "name" : "签到"
+      },
+      "refId" : "activity_manage_1"
+   },
+   "activity_manage_10" : {
+      "property" : {
+         "activitySortId" : 2,
+         "description" : "",
+         "iconId" : "activity_meiri",
+         "kind" : 2,
+         "level" : 0,
+         "name" : "每日充值"
+      },
+      "refId" : "activity_manage_10"
+   },
+   "activity_manage_11" : {
+      "property" : {
+         "activitySortId" : 4,
+         "description" : "",
+         "iconId" : "activity_meizhou",
+         "kind" : 2,
+         "level" : 0,
+         "name" : "周累计消费"
+      },
+      "refId" : "activity_manage_11"
+   },
+   "activity_manage_12" : {
+      "property" : {
+         "activitySortId" : 6,
+         "description" : "",
+         "iconId" : "activity_zhizun",
+         "kind" : 2,
+         "level" : 0,
+         "name" : "至尊基金"
+      },
+      "refId" : "activity_manage_12"
+   },
+   "activity_manage_13" : {
+      "property" : {
+         "activitySortId" : 3,
+         "description" : "",
+         "iconId" : "activity_shouchong",
+         "kind" : 2,
+         "level" : 0,
+         "name" : "首充礼包"
+      },
+      "refId" : "activity_manage_13"
+   },
+   "activity_manage_14" : {
+      "property" : {
+         "activitySortId" : 5,
+         "description" : "",
+         "iconId" : "activity_chongzhi",
+         "kind" : 2,
+         "level" : 0,
+         "name" : "充值礼包"
+      },
+      "refId" : "activity_manage_14"
+   },
+   "activity_manage_15" : {
+      "property" : {
+         "activitySortId" : 15,
+         "description" : "",
+         "iconId" : "activity_wabao",
+         "kind" : 2,
+         "level" : 0,
+         "name" : "挖宝"
+      },
+      "refId" : "activity_manage_15"
+   },
+   "activity_manage_16" : {
+      "property" : {
+         "activitySortId" : 13,
+         "description" : "",
+         "iconId" : "activity_choujiang",
+         "kind" : 3,
+         "level" : 0,
+         "name" : "VIP抽奖"
+      },
+      "refId" : "activity_manage_16"
+   },
+   "activity_manage_17" : {
+      "property" : {
+         "activitySortId" : 17,
+         "description" : "",
+         "iconId" : "activity_kaifu",
+         "kind" : 1,
+         "level" : 0,
+         "name" : "开服冲级"
+      },
+      "refId" : "activity_manage_17"
+   },
+   "activity_manage_18" : {
+      "property" : {
+         "activitySortId" : 18,
+         "description" : "",
+         "iconId" : "activity_xianshi",
+         "kind" : 1,
+         "level" : 0,
+         "name" : "限时冲榜"
+      },
+      "refId" : "activity_manage_18"
+   },
+   "activity_manage_19" : {
+      "property" : {
+         "activitySortId" : 20,
+         "description" : "神秘的公会禁地内囚禁着一只异常强大的魔王，公会会长需要亲自开启禁地才能带领手下的成员们前往攻略魔王。攻略成功后，所有公会成员都将获得丰厚的礼包奖励；失败则将一无所获。禁地开启当天的15:00-16:00，公会成员可前往挑战魔王，不限挑战次数，直到禁地关闭为止。",
+         "iconId" : "activity_gonghui_fb",
+         "kind" : 0,
+         "level" : 40,
+         "name" : "公会副本"
+      },
+      "refId" : "activity_manage_19"
+   },
+   "activity_manage_2" : {
+      "property" : {
+         "activitySortId" : 7,
+         "description" : "",
+         "iconId" : "activity_qiri",
+         "kind" : 1,
+         "level" : 0,
+         "name" : "7日登陆"
+      },
+      "refId" : "activity_manage_2"
+   },
+   "activity_manage_23" : {
+      "property" : {
+         "activitySortId" : 23,
+         "description" : "活动期间全服打怪可获得双倍经验，经验加成效果可与多倍宝典叠加。",
+         "iconId" : "activity_shuangbei",
+         "kind" : 3,
+         "level" : 40,
+         "name" : "双倍经验"
+      },
+      "refId" : "activity_manage_23"
+   },
+   "activity_manage_25" : {
+      "property" : {
+         "activitySortId" : 25,
+         "description" : "成为VIP后，可尊享VIP无限传送特权，并可以每天领取VIP礼包和多倍经验加成。等级达到40级后，还可以在云岐城的“福童”处领取等级武器。",
+         "iconId" : "activity_vip",
+         "kind" : 2,
+         "level" : 1,
+         "name" : "VIP"
+      },
+      "refId" : "activity_manage_25"
+   },
+   "activity_manage_26" : {
+      "property" : {
+         "activitySortId" : 26,
+         "description" : "恶魔城是魔王们的地下巢穴，一共有9层，每层都有相应的魔王镇守，实力逐层提升。通往恶魔城的传送门定时开启，你可以选择组队或者单枪匹马进入恶魔城，击败魔王的队伍将获得丰厚的战利品。",
+         "iconId" : "activity_emo",
+         "kind" : 0,
+         "level" : 45,
+         "name" : "恶魔城"
+      },
+      "refId" : "activity_manage_26"
+   },
+   "activity_manage_27" : {
+      "property" : {
+         "activitySortId" : 9,
+         "description" : "",
+         "iconId" : "activity_huoyue",
+         "kind" : 0,
+         "level" : 0,
+         "name" : "活跃度"
+      },
+      "refId" : "activity_manage_27"
+   },
+   "activity_manage_29" : {
+      "property" : {
+         "activitySortId" : 29,
+         "description" : "",
+         "iconId" : "activity_caishen",
+         "kind" : 2,
+         "level" : 0,
+         "name" : "财神闯关"
+      },
+      "refId" : "activity_manage_29"
+   },
+   "activity_manage_3" : {
+      "property" : {
+         "activitySortId" : 1,
+         "description" : "",
+         "iconId" : "activity_zaixian",
+         "kind" : 3,
+         "level" : 0,
+         "name" : "在线礼包"
+      },
+      "refId" : "activity_manage_3"
+   },
+   "activity_manage_30" : {
+      "property" : {
+         "activitySortId" : 30,
+         "description" : "猪妖会是猪妖的祭祖大会，定期在猪王庭院举行，这是给猪妖们以重创的良好时机。同时，击败大会上的猪妖能够获得猪肉，使用之后能够大大增加自身经验，这对于实力提升也是不可多得的珍宝。",
+         "iconId" : "activity_zhuyao",
+         "kind" : 0,
+         "level" : 40,
+         "name" : "猪妖会"
+      },
+      "refId" : "activity_manage_30"
+   },
+   "activity_manage_33" : {
+      "property" : {
+         "activitySortId" : 33,
+         "description" : "为了响应邪恶信徒的祈求，深渊中的魔王会不定时地开启连通血神殿二层的传送门，将实力强大的魔王护卫传送到神殿中。为了防止这些怪物为祸世间，我们需要在传送门开启时前去阻击这些深渊大军，击杀这些怪物能够获得丰厚的奖励。",
+         "iconId" : "activity_shenyuan",
+         "kind" : 0,
+         "level" : 25,
+         "name" : "深渊之门"
+      },
+      "refId" : "activity_manage_33"
+   },
+   "activity_manage_34" : {
+      "property" : {
+         "activitySortId" : 14,
+         "description" : "",
+         "iconId" : "activity_shenmi",
+         "kind" : 1,
+         "level" : 0,
+         "name" : "神秘商店"
+      },
+      "refId" : "activity_manage_34"
+   },
+   "activity_manage_35" : {
+      "property" : {
+         "activitySortId" : 35,
+         "description" : "",
+         "iconId" : "activity_xianshi_tuangou",
+         "kind" : 2,
+         "level" : 0,
+         "name" : "限时团购"
+      },
+      "refId" : "activity_manage_35"
+   },
+   "activity_manage_36" : {
+      "property" : {
+         "activitySortId" : 36,
+         "description" : "",
+         "iconId" : "activity_fuhao",
+         "kind" : 3,
+         "level" : 0,
+         "name" : "富豪榜"
+      },
+      "refId" : "activity_manage_36"
+   },
+   "activity_manage_37" : {
+      "property" : {
+         "activitySortId" : 37,
+         "description" : "皇家校场会定期举行武林争霸大会，供各位勇士角逐武林盟主之位。大会初始，每位参与者可获得10分基础积分，期间击败对手可抢夺其一半积分。大会结束时，积分榜第一名可获得盟主称号和属性奖励，直至下次争霸大会。另，大会期间离开校场，积分减半，请诸位参与者谨记。",
+         "iconId" : "activity_wulin",
+         "kind" : 0,
+         "level" : 60,
+         "name" : "武林争霸"
+      },
+      "refId" : "activity_manage_37"
+   },
+   "activity_manage_38" : {
+      "property" : {
+         "activitySortId" : 38,
+         "description" : "魔神殿，恶魔秘密建造的邪恶宫殿，用来召唤各族的上古魔神。在恶魔统治大陆的计划彻底破产之后，这座邪恶的宫殿也终于显露世间，不过其中无数的上古怪物似乎并不容易对付。",
+         "iconId" : "activity_moshen",
+         "kind" : 0,
+         "level" : 81,
+         "name" : "魔神殿"
+      },
+      "refId" : "activity_manage_38"
+   },
+   "activity_manage_39" : {
+      "property" : {
+         "activitySortId" : 39,
+         "description" : "囚魔殿，人类秘密建造的用来囚禁大魔的秘密宫殿。然而随着时间的流逝，守护者被侵蚀，上古魔物纷纷苏醒。",
+         "iconId" : "activity_qiumo",
+         "kind" : 0,
+         "level" : 81,
+         "name" : "囚魔殿"
+      },
+      "refId" : "activity_manage_39"
+   },
+   "activity_manage_4" : {
+      "property" : {
+         "activitySortId" : 16,
+         "description" : "",
+         "iconId" : "activity_jinjie",
+         "kind" : 3,
+         "level" : 0,
+         "name" : "坐骑进阶"
+      },
+      "refId" : "activity_manage_4"
+   },
+   "activity_manage_40" : {
+      "property" : {
+         "activitySortId" : 40,
+         "description" : "",
+         "iconId" : "activity_meiri_fanli",
+         "kind" : 2,
+         "level" : 0,
+         "name" : "每日累计消费"
+      },
+      "refId" : "activity_manage_40"
+   },
+   "activity_manage_5" : {
+      "property" : {
+         "activitySortId" : 11,
+         "description" : "",
+         "iconId" : "activity_jingji",
+         "kind" : 0,
+         "level" : 0,
+         "name" : "竞技场"
+      },
+      "refId" : "activity_manage_5"
+   },
+   "activity_manage_6" : {
+      "property" : {
+         "activitySortId" : 19,
+         "description" : "魔宫是怪物们的大本营，每日会定时开启两次，里面有各种怪物出没，甚至会有魔王级怪物镇守。前往魔宫挑战这些怪物，挑战成功可获得兑换券，可用来兑换多种物资。",
+         "iconId" : "activity_mogong",
+         "kind" : 0,
+         "level" : 40,
+         "name" : "魔宫挑战"
+      },
+      "refId" : "activity_manage_6"
+   },
+   "activity_manage_7" : {
+      "property" : {
+         "activitySortId" : 12,
+         "description" : "冰原矿场是大陆久负盛名的矿区，里面盛产各种矿石，采集这些矿石可以获得诸多稀有材料。矿场每天定时开放两次，每次进入矿场可以采集20颗矿石，所以想要获得最高收益，还要看各自本事。切记：矿场内发生战斗不会造成任何损失！",
+         "iconId" : "activity_wakuang",
+         "kind" : 0,
+         "level" : 40,
+         "name" : "冰原矿场"
+      },
+      "refId" : "activity_manage_7"
+   },
+   "activity_manage_8" : {
+      "property" : {
+         "activitySortId" : 10,
+         "description" : "王城争霸，胜利的公会将成功夺取“王城公会”尊号，并获得丰厚奖励。所有公会会长均可持“王城召集令”前往“王城特使”处申请参加。\n活动开启时间：开服第三日20:30准时开启，每隔三天开启一次；\n活动奖励：获胜公会将成为“王城公会”；王城公会成员每日可领取“王城礼包”。",
+         "iconId" : "activity_wangcheng",
+         "kind" : 0,
+         "level" : 40,
+         "name" : "王城争霸"
+      },
+      "refId" : "activity_manage_8"
+   },
+   "activity_manage_9" : {
+      "property" : {
+         "activitySortId" : 34,
+         "description" : "",
+         "iconId" : "activity_tiantian",
+         "kind" : 1,
+         "level" : 0,
+         "name" : "天天淘"
+      },
+      "refId" : "activity_manage_9"
+   }
+}
+

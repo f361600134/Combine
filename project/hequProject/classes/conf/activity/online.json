@@ -1,0 +1,190 @@
+{
+   "online_1" : {
+      "onlineReward" : {
+         "AccumulateonlineReward" : [
+            {
+               "bindStatus" : 1,
+               "number" : 10,
+               "refId" : "item_drug_1"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 10,
+               "refId" : "item_drug_4"
+            }
+         ]
+      },
+      "property" : {
+         "onlineNextRefId" : "online_2",
+         "onlinePreRefId" : "",
+         "onlineSecond" : 300
+      },
+      "refId" : "online_1"
+   },
+   "online_2" : {
+      "onlineReward" : {
+         "AccumulateonlineReward" : [
+            {
+               "bindStatus" : 1,
+               "number" : 20,
+               "refId" : "item_drug_1"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 20,
+               "refId" : "item_drug_4"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 2,
+               "refId" : "item_duihuanquan_2"
+            }
+         ]
+      },
+      "property" : {
+         "onlineNextRefId" : "online_3",
+         "onlinePreRefId" : "online_1",
+         "onlineSecond" : 600
+      },
+      "refId" : "online_2"
+   },
+   "online_3" : {
+      "onlineReward" : {
+         "AccumulateonlineReward" : [
+            {
+               "bindStatus" : 1,
+               "number" : 30,
+               "refId" : "item_drug_1"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 30,
+               "refId" : "item_drug_4"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 10,
+               "refId" : "item_zhenmoling_1"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 5,
+               "refId" : "item_duihuanquan_1"
+            }
+         ]
+      },
+      "property" : {
+         "onlineNextRefId" : "online_4",
+         "onlinePreRefId" : "online_2",
+         "onlineSecond" : 1800
+      },
+      "refId" : "online_3"
+   },
+   "online_4" : {
+      "onlineReward" : {
+         "AccumulateonlineReward" : [
+            {
+               "bindStatus" : 1,
+               "number" : 15,
+               "refId" : "item_drug_2"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 15,
+               "refId" : "item_drug_5"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 15,
+               "refId" : "item_zhenmoling_1"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 5,
+               "refId" : "item_duihuanquan_2"
+            }
+         ]
+      },
+      "property" : {
+         "onlineNextRefId" : "online_5",
+         "onlinePreRefId" : "online_3",
+         "onlineSecond" : 2700
+      },
+      "refId" : "online_4"
+   },
+   "online_5" : {
+      "onlineReward" : {
+         "AccumulateonlineReward" : [
+            {
+               "bindStatus" : 1,
+               "number" : 25,
+               "refId" : "item_drug_5"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 1,
+               "refId" : "item_mayaticket"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 20,
+               "refId" : "item_zhenmoling_1"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 5,
+               "refId" : "item_duihuanquan_2"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 10,
+               "refId" : "item_duihuanquan_1"
+            }
+         ]
+      },
+      "property" : {
+         "onlineNextRefId" : "online_6",
+         "onlinePreRefId" : "online_4",
+         "onlineSecond" : 3600
+      },
+      "refId" : "online_5"
+   },
+   "online_6" : {
+      "onlineReward" : {
+         "AccumulateonlineReward" : [
+            {
+               "bindStatus" : 1,
+               "number" : 1,
+               "refId" : "item_giftcard"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 1,
+               "refId" : "item_templetickets"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 30,
+               "refId" : "item_qianghuashi"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 20,
+               "refId" : "item_zuoqiExp"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 20,
+               "refId" : "item_chibangExp"
+            }
+         ]
+      },
+      "property" : {
+         "onlineNextRefId" : "",
+         "onlinePreRefId" : "online_5",
+         "onlineSecond" : 5400
+      },
+      "refId" : "online_6"
+   }
+}
+

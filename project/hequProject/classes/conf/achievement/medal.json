@@ -1,0 +1,105 @@
+{
+   "medal" : {
+      "configData" : {
+         "equip_100_9000" : {
+            "property" : {
+               "name" : "荣誉勋章 玉虚",
+               "needAchieve" : 10000,
+               "nextMedal" : "equip_110_9000"
+            },
+            "refId" : "equip_100_9000"
+         },
+         "equip_10_9000" : {
+            "property" : {
+               "name" : "荣誉勋章 望月",
+               "needAchieve" : 1000,
+               "nextMedal" : "equip_20_9000"
+            },
+            "refId" : "equip_10_9000"
+         },
+         "equip_110_9000" : {
+            "property" : {
+               "name" : "荣誉勋章 太一",
+               "needAchieve" : 30000,
+               "nextMedal" : "equip_120_9000"
+            },
+            "refId" : "equip_110_9000"
+         },
+         "equip_120_9000" : {
+            "property" : {
+               "name" : "荣誉勋章 乾坤",
+               "needAchieve" : 90000,
+               "nextMedal" : ""
+            },
+            "refId" : "equip_120_9000"
+         },
+         "equip_20_9000" : {
+            "property" : {
+               "name" : "荣誉勋章 贪狼",
+               "needAchieve" : 2000,
+               "nextMedal" : "equip_30_9000"
+            },
+            "refId" : "equip_20_9000"
+         },
+         "equip_30_9000" : {
+            "property" : {
+               "name" : "荣誉勋章 破军",
+               "needAchieve" : 3000,
+               "nextMedal" : "equip_40_9000"
+            },
+            "refId" : "equip_30_9000"
+         },
+         "equip_40_9000" : {
+            "property" : {
+               "name" : "荣誉勋章 伏虎",
+               "needAchieve" : 4000,
+               "nextMedal" : "equip_50_9000"
+            },
+            "refId" : "equip_40_9000"
+         },
+         "equip_50_9000" : {
+            "property" : {
+               "name" : "荣誉勋章 降龙",
+               "needAchieve" : 5000,
+               "nextMedal" : "equip_60_9000"
+            },
+            "refId" : "equip_50_9000"
+         },
+         "equip_60_9000" : {
+            "property" : {
+               "name" : "荣誉勋章 玉阙",
+               "needAchieve" : 6000,
+               "nextMedal" : "equip_70_9000"
+            },
+            "refId" : "equip_60_9000"
+         },
+         "equip_70_9000" : {
+            "property" : {
+               "name" : "荣誉勋章 天机",
+               "needAchieve" : 7000,
+               "nextMedal" : "equip_80_9000"
+            },
+            "refId" : "equip_70_9000"
+         },
+         "equip_80_9000" : {
+            "property" : {
+               "name" : "荣誉勋章 凤舞",
+               "needAchieve" : 8000,
+               "nextMedal" : "equip_90_9000"
+            },
+            "refId" : "equip_80_9000"
+         },
+         "equip_90_9000" : {
+            "property" : {
+               "name" : "荣誉勋章 御神",
+               "needAchieve" : 9000,
+               "nextMedal" : "equip_100_9000"
+            },
+            "refId" : "equip_90_9000"
+         }
+      },
+      "name" : "勋章",
+      "refId" : "medal"
+   }
+}
+

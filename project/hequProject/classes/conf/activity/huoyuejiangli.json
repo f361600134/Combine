@@ -1,0 +1,48 @@
+{
+   "value_1" : {
+      "property" : {
+         "activeValue" : 10,
+         "bindStatus" : 1,
+         "giftNumber" : 1,
+         "giftRefId" : "item_gift_action_1"
+      },
+      "refId" : "value_1"
+   },
+   "value_2" : {
+      "property" : {
+         "activeValue" : 30,
+         "bindStatus" : 1,
+         "giftNumber" : 1,
+         "giftRefId" : "item_gift_action_2"
+      },
+      "refId" : "value_2"
+   },
+   "value_3" : {
+      "property" : {
+         "activeValue" : 50,
+         "bindStatus" : 1,
+         "giftNumber" : 1,
+         "giftRefId" : "item_gift_action_3"
+      },
+      "refId" : "value_3"
+   },
+   "value_4" : {
+      "property" : {
+         "activeValue" : 80,
+         "bindStatus" : 1,
+         "giftNumber" : 1,
+         "giftRefId" : "item_gift_action_4"
+      },
+      "refId" : "value_4"
+   },
+   "value_5" : {
+      "property" : {
+         "activeValue" : 100,
+         "bindStatus" : 1,
+         "giftNumber" : 1,
+         "giftRefId" : "item_gift_action_5"
+      },
+      "refId" : "value_5"
+   }
+}
+

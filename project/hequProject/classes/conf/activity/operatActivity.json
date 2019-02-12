@@ -1,0 +1,1870 @@
+{
+   "dayconsume" : {
+      "configData" : {
+         "dayconsume_1" : {
+            "property" : {
+               "description" : "5000",
+               "expiredTime" : "2099-1-1",
+               "itemGroup" : 997,
+               "name" : "每日累计消费",
+               "openTime" : "2018-1-1",
+               "operatActivityId" : 1,
+               "totalValue" : 5000
+            },
+            "refId" : "dayconsume_1",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_moshi",
+                  "number" : "100"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_zhenmoling_1",
+                  "number" : "100"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_chibangExp",
+                  "number" : "100"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_shenqiExp",
+                  "number" : "100"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_box_120",
+                  "number" : "2"
+               }
+            ]
+         },
+         "dayconsume_2" : {
+            "property" : {
+               "description" : "30000",
+               "expiredTime" : "2099-1-1",
+               "itemGroup" : 997,
+               "name" : "每日累计消费",
+               "openTime" : "2018-1-1",
+               "operatActivityId" : 2,
+               "totalValue" : 30000
+            },
+            "refId" : "dayconsume_2",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_moshi",
+                  "number" : "200"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_zhenmoling_1",
+                  "number" : "300"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_chibangExp",
+                  "number" : "200"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_shenqiExp",
+                  "number" : "200"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_box_120",
+                  "number" : "3"
+               }
+            ]
+         },
+         "dayconsume_3" : {
+            "property" : {
+               "description" : "80000",
+               "expiredTime" : "2099-1-1",
+               "itemGroup" : 997,
+               "name" : "每日累计消费",
+               "openTime" : "2018-1-1",
+               "operatActivityId" : 3,
+               "totalValue" : 80000
+            },
+            "refId" : "dayconsume_3",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_moshi",
+                  "number" : "250"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_zhenmoling_1",
+                  "number" : "500"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_chibangExp",
+                  "number" : "450"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_shenqiExp",
+                  "number" : "450"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_box_120",
+                  "number" : "5"
+               }
+            ]
+         },
+         "dayconsume_4" : {
+            "property" : {
+               "description" : "260000",
+               "expiredTime" : "2099-1-1",
+               "itemGroup" : 997,
+               "name" : "每日累计消费",
+               "openTime" : "2018-1-1",
+               "operatActivityId" : 4,
+               "totalValue" : 260000
+            },
+            "refId" : "dayconsume_4",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_moshi",
+                  "number" : "300"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_exp_6",
+                  "number" : "250"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_shenqiExp",
+                  "number" : "600"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_goldMedal",
+                  "number" : "200"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_box_120",
+                  "number" : "10"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_box_120_2",
+                  "number" : "1"
+               }
+            ]
+         }
+      },
+      "name" : "每日累计消费",
+      "refId" : "dayconsume"
+   },
+   "everylogin" : {
+      "configData" : {
+         "everylogin_1" : {
+            "property" : {
+               "description" : "1",
+               "expiredTime" : "2015-3-14",
+               "itemGroup" : 995,
+               "name" : "每日登录",
+               "openTime" : "2014-3-14",
+               "operatActivityId" : 1,
+               "totalValue" : 1
+            },
+            "refId" : "everylogin_1",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "bindedGold",
+                  "number" : "800",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_jinengExp",
+                  "number" : "3",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_zhenmoling_1",
+                  "number" : "100",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_gift_Recharge01",
+                  "number" : "1",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "gold",
+                  "number" : "500000",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "everylogin_2" : {
+            "property" : {
+               "description" : "2",
+               "expiredTime" : "2015-3-14",
+               "itemGroup" : 995,
+               "name" : "每日登录",
+               "openTime" : "2014-3-14",
+               "operatActivityId" : 2,
+               "totalValue" : 2
+            },
+            "refId" : "everylogin_2",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "bindedGold",
+                  "number" : "1000",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_ins",
+                  "number" : "10",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_qianghuashi",
+                  "number" : "100",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_gift_Recharge02",
+                  "number" : "1",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "gold",
+                  "number" : "600000",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "everylogin_3" : {
+            "property" : {
+               "description" : "3",
+               "expiredTime" : "2015-3-14",
+               "itemGroup" : 995,
+               "name" : "每日登录",
+               "openTime" : "2014-3-14",
+               "operatActivityId" : 3,
+               "totalValue" : 3
+            },
+            "refId" : "everylogin_3",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "bindedGold",
+                  "number" : "1200",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_moxueshi_3",
+                  "number" : "1",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_chibangExp",
+                  "number" : "100",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_gift_Recharge03",
+                  "number" : "1",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "gold",
+                  "number" : "700000",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "everylogin_4" : {
+            "property" : {
+               "description" : "4",
+               "expiredTime" : "2015-3-14",
+               "itemGroup" : 995,
+               "name" : "每日登录",
+               "openTime" : "2014-3-14",
+               "operatActivityId" : 4,
+               "totalValue" : 4
+            },
+            "refId" : "everylogin_4",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "bindedGold",
+                  "number" : "1400",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_relive",
+                  "number" : "3",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_zhenmoling_1",
+                  "number" : "100",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_gift_Recharge04",
+                  "number" : "1",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_giftcard",
+                  "number" : "5",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "everylogin_5" : {
+            "property" : {
+               "description" : "5",
+               "expiredTime" : "2015-3-14",
+               "itemGroup" : 995,
+               "name" : "每日登录",
+               "openTime" : "2014-3-14",
+               "operatActivityId" : 5,
+               "totalValue" : 5
+            },
+            "refId" : "everylogin_5",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "bindedGold",
+                  "number" : "1600",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_lingpai_1",
+                  "number" : "3",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_giftcard",
+                  "number" : "10",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_gift_Recharge05",
+                  "number" : "1",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_lingpai_8",
+                  "number" : "1",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "everylogin_6" : {
+            "property" : {
+               "description" : "6",
+               "expiredTime" : "2015-3-14",
+               "itemGroup" : 995,
+               "name" : "每日登录",
+               "openTime" : "2014-3-14",
+               "operatActivityId" : 6,
+               "totalValue" : 6
+            },
+            "refId" : "everylogin_6",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "bindedGold",
+                  "number" : "1800",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_giftcard",
+                  "number" : "5",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_zuoqiExp",
+                  "number" : "100",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_gift_Recharge06",
+                  "number" : "1",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_lingpai_8",
+                  "number" : "1",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "everylogin_7" : {
+            "property" : {
+               "description" : "7",
+               "expiredTime" : "2015-3-14",
+               "itemGroup" : 995,
+               "name" : "每日登录",
+               "openTime" : "2014-3-14",
+               "operatActivityId" : 7,
+               "totalValue" : 7
+            },
+            "refId" : "everylogin_7",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "bindedGold",
+                  "number" : "2000",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_lingpai_3",
+                  "number" : "3",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_shenqiExp",
+                  "number" : "100",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_gift_Recharge02",
+                  "number" : "1",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_lingpai_8",
+                  "number" : "1",
+                  "proffessionRefId" : 0
+               }
+            ]
+         }
+      },
+      "name" : "每日登录好礼",
+      "refId" : "everylogin"
+   },
+   "everyrecharge" : {
+      "configData" : {
+         "everyday_1" : {
+            "property" : {
+               "expiredTime" : "2099-1-1",
+               "itemGroup" : 3,
+               "name" : "每日充值",
+               "openTime" : "2018-1-1",
+               "operatActivityId" : 1,
+               "totalValue" : 3000
+            },
+            "refId" : "everyday_1",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_exp_6",
+                  "number" : "30"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_box_zz_50",
+                  "number" : "1"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_lingpai_3",
+                  "number" : "2"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_shenqiExp",
+                  "number" : "50"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_qianghuashi",
+                  "number" : "50"
+               }
+            ]
+         },
+         "everyday_2" : {
+            "property" : {
+               "expiredTime" : "2099-1-1",
+               "itemGroup" : 3,
+               "name" : "每日充值",
+               "openTime" : "2018-1-1",
+               "operatActivityId" : 2,
+               "totalValue" : 8000
+            },
+            "refId" : "everyday_2",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_exp_6",
+                  "number" : "100"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_box_zz_50",
+                  "number" : "3"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_lingpai_3",
+                  "number" : "5"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_shenqiExp",
+                  "number" : "70"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_qianghuashi",
+                  "number" : "80"
+               }
+            ]
+         },
+         "everyday_3" : {
+            "property" : {
+               "expiredTime" : "2099-1-1",
+               "itemGroup" : 3,
+               "name" : "每日充值",
+               "openTime" : "2018-1-1",
+               "operatActivityId" : 3,
+               "totalValue" : 20000
+            },
+            "refId" : "everyday_3",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_exp_6",
+                  "number" : "300"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_box_zz_50",
+                  "number" : "6"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_zuoqiExp",
+                  "number" : "100"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_chibangExp",
+                  "number" : "100"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_shenqiExp",
+                  "number" : "100"
+               }
+            ]
+         },
+         "everyday_4" : {
+            "property" : {
+               "expiredTime" : "2099-1-1",
+               "itemGroup" : 3,
+               "name" : "每日充值",
+               "openTime" : "2018-1-1",
+               "operatActivityId" : 4,
+               "totalValue" : 50000
+            },
+            "refId" : "everyday_4",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_exp_6",
+                  "number" : "500"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_box_zz_50",
+                  "number" : "10"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_zuoqiExp",
+                  "number" : "200"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_chibangExp",
+                  "number" : "200"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_shenqiExp",
+                  "number" : "200"
+               }
+            ]
+         },
+         "everyday_5" : {
+            "property" : {
+               "expiredTime" : "2099-1-1",
+               "itemGroup" : 3,
+               "name" : "每日充值",
+               "openTime" : "2018-1-1",
+               "operatActivityId" : 5,
+               "totalValue" : 80000
+            },
+            "refId" : "everyday_5",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_box_zz_90",
+                  "number" : "1"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_box_zz_50",
+                  "number" : "15"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_zuoqiExp",
+                  "number" : "300"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_chibangExp",
+                  "number" : "300"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_shenqiExp",
+                  "number" : "300"
+               }
+            ]
+         },
+         "everyday_6" : {
+            "property" : {
+               "expiredTime" : "2099-1-1",
+               "itemGroup" : 3,
+               "name" : "每日充值",
+               "openTime" : "2018-1-1",
+               "operatActivityId" : 6,
+               "totalValue" : 150000
+            },
+            "refId" : "everyday_6",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_50_31100",
+                  "number" : "1",
+                  "proffessionRefId" : 1
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_50_31100",
+                  "number" : "1",
+                  "proffessionRefId" : 2
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_50_31200",
+                  "number" : "1",
+                  "proffessionRefId" : 3
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_50_31200",
+                  "number" : "1",
+                  "proffessionRefId" : 4
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_50_31300",
+                  "number" : "1",
+                  "proffessionRefId" : 5
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_50_31300",
+                  "number" : "1",
+                  "proffessionRefId" : 6
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_box_zz_50",
+                  "number" : "20"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_zuoqiExp",
+                  "number" : "500"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_chibangExp",
+                  "number" : "500"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_shenqiExp",
+                  "number" : "500"
+               }
+            ]
+         },
+         "everyday_7" : {
+            "property" : {
+               "expiredTime" : "2099-1-1",
+               "itemGroup" : 3,
+               "name" : "每日充值",
+               "openTime" : "2018-1-1",
+               "operatActivityId" : 7,
+               "totalValue" : 260000
+            },
+            "refId" : "everyday_7",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_50_31100",
+                  "number" : "2",
+                  "proffessionRefId" : 1
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_50_31100",
+                  "number" : "2",
+                  "proffessionRefId" : 2
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_50_31200",
+                  "number" : "2",
+                  "proffessionRefId" : 3
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_50_31200",
+                  "number" : "2",
+                  "proffessionRefId" : 4
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_50_31300",
+                  "number" : "2",
+                  "proffessionRefId" : 5
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_50_31300",
+                  "number" : "2",
+                  "proffessionRefId" : 6
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_qianghuajuan_12",
+                  "number" : "1"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_zuoqiExp",
+                  "number" : "700"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_chibangExp",
+                  "number" : "700"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_shenqiExp",
+                  "number" : "700"
+               }
+            ]
+         },
+         "everyday_8" : {
+            "property" : {
+               "expiredTime" : "2099-1-1",
+               "itemGroup" : 3,
+               "name" : "每日充值",
+               "openTime" : "2018-1-1",
+               "operatActivityId" : 8,
+               "totalValue" : 500000
+            },
+            "refId" : "everyday_8",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_box_120_2",
+                  "number" : "4"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_box_zz_50",
+                  "number" : "20"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_zuoqiExp",
+                  "number" : "1000"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_chibangExp",
+                  "number" : "1000"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_shenqiExp",
+                  "number" : "1000"
+               }
+            ]
+         }
+      },
+      "name" : "每日充值",
+      "refId" : "everyrecharge"
+   },
+   "firstrecharge" : {
+      "configData" : {
+         "shouchong_1" : {
+            "property" : {
+               "expiredTime" : "2099-1-1",
+               "itemGroup" : 1,
+               "name" : "首充活动",
+               "openTime" : "2018-1-1",
+               "operatActivityId" : 1
+            },
+            "refId" : "shouchong_1",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_40_1102",
+                  "number" : 1,
+                  "proffessionRefId" : 1
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_40_1102",
+                  "number" : 1,
+                  "proffessionRefId" : 2
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_40_1203",
+                  "number" : 1,
+                  "proffessionRefId" : 3
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_40_1203",
+                  "number" : 1,
+                  "proffessionRefId" : 4
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_40_1302",
+                  "number" : 1,
+                  "proffessionRefId" : 5
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_40_1302",
+                  "number" : 1,
+                  "proffessionRefId" : 6
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_exp_2",
+                  "number" : 1
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_duihuanquan_2",
+                  "number" : 1
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_moxueshi_3",
+                  "number" : 1
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_giftcard",
+                  "number" : 10
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "bindedGold",
+                  "number" : 5000
+               }
+            ]
+         }
+      },
+      "name" : "首充",
+      "refId" : "firstrecharge"
+   },
+   "sevenlogin" : {
+      "configData" : {
+         "sevenlogin_1" : {
+            "property" : {
+               "description" : "1",
+               "expiredTime" : "2099-1-1",
+               "itemGroup" : 5,
+               "name" : "七日登录",
+               "openTime" : "2018-1-1",
+               "operatActivityId" : 1,
+               "totalValue" : 1
+            },
+            "refId" : "sevenlogin_1",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_40_2111",
+                  "number" : "1",
+                  "proffessionRefId" : 1
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_40_2121",
+                  "number" : "1",
+                  "proffessionRefId" : 2
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_40_2212",
+                  "number" : "1",
+                  "proffessionRefId" : 3
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_40_2222",
+                  "number" : "1",
+                  "proffessionRefId" : 4
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_40_2312",
+                  "number" : "1",
+                  "proffessionRefId" : 5
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_40_2322",
+                  "number" : "1",
+                  "proffessionRefId" : 6
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "bindedGold",
+                  "number" : "500",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "sevenlogin_2" : {
+            "property" : {
+               "description" : "2",
+               "expiredTime" : "2099-1-1",
+               "itemGroup" : 5,
+               "name" : "七日登录",
+               "openTime" : "2018-1-1",
+               "operatActivityId" : 2,
+               "totalValue" : 2
+            },
+            "refId" : "sevenlogin_2",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_gift_login_01",
+                  "number" : "1",
+                  "proffessionRefId" : 1
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_gift_login_01",
+                  "number" : "1",
+                  "proffessionRefId" : 2
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_gift_login_02",
+                  "number" : "1",
+                  "proffessionRefId" : 3
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_gift_login_02",
+                  "number" : "1",
+                  "proffessionRefId" : 4
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_gift_login_03",
+                  "number" : "1",
+                  "proffessionRefId" : 5
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_gift_login_03",
+                  "number" : "1",
+                  "proffessionRefId" : 6
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_suipian_4",
+                  "number" : "12",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "bindedGold",
+                  "number" : "800",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "sevenlogin_3" : {
+            "property" : {
+               "description" : "3",
+               "expiredTime" : "2099-1-1",
+               "itemGroup" : 5,
+               "name" : "七日登录",
+               "openTime" : "2018-1-1",
+               "operatActivityId" : 3,
+               "totalValue" : 3
+            },
+            "refId" : "sevenlogin_3",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_lingpai_1",
+                  "number" : "20",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "bindedGold",
+                  "number" : "1000",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "sevenlogin_4" : {
+            "property" : {
+               "description" : "4",
+               "expiredTime" : "2099-1-1",
+               "itemGroup" : 5,
+               "name" : "七日登录",
+               "openTime" : "2018-1-1",
+               "operatActivityId" : 4,
+               "totalValue" : 4
+            },
+            "refId" : "sevenlogin_4",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_zuoqiExp",
+                  "number" : "100",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "bindedGold",
+                  "number" : "1200",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "sevenlogin_5" : {
+            "property" : {
+               "description" : "5",
+               "expiredTime" : "2099-1-1",
+               "itemGroup" : 5,
+               "name" : "七日登录",
+               "openTime" : "2018-1-1",
+               "operatActivityId" : 5,
+               "totalValue" : 5
+            },
+            "refId" : "sevenlogin_5",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_chibangExp",
+                  "number" : "500",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "bindedGold",
+                  "number" : "1500",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "sevenlogin_6" : {
+            "property" : {
+               "description" : "6",
+               "expiredTime" : "2099-1-1",
+               "itemGroup" : 5,
+               "name" : "七日登录",
+               "openTime" : "2018-1-1",
+               "operatActivityId" : 6,
+               "totalValue" : 6
+            },
+            "refId" : "sevenlogin_6",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_zhenmoling_1",
+                  "number" : "600",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "bindedGold",
+                  "number" : "2000",
+                  "proffessionRefId" : 0
+               }
+            ]
+         },
+         "sevenlogin_7" : {
+            "property" : {
+               "description" : "7",
+               "expiredTime" : "2099-1-1",
+               "itemGroup" : 5,
+               "name" : "七日登录",
+               "openTime" : "2018-1-1",
+               "operatActivityId" : 7,
+               "totalValue" : 7
+            },
+            "refId" : "sevenlogin_7",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_qianghuajuan_9",
+                  "number" : "1",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "bindedGold",
+                  "number" : "3000",
+                  "proffessionRefId" : 0
+               }
+            ]
+         }
+      },
+      "name" : "七日登录",
+      "refId" : "sevenlogin"
+   },
+   "totalrecharge" : {
+      "configData" : {
+         "chongzhi_1" : {
+            "property" : {
+               "description" : "2888",
+               "expiredTime" : "2099-1-1",
+               "itemGroup" : 2,
+               "name" : "累计充值",
+               "openTime" : "2018-1-1",
+               "operatActivityId" : 1,
+               "totalValue" : 2888
+            },
+            "refId" : "chongzhi_1",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "unbindedGold",
+                  "number" : "260"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "gold",
+                  "number" : "100000"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_2exp",
+                  "number" : "5"
+               }
+            ]
+         },
+         "chongzhi_2" : {
+            "property" : {
+               "description" : "6888",
+               "expiredTime" : "2099-1-1",
+               "itemGroup" : 2,
+               "name" : "累计充值",
+               "openTime" : "2018-1-1",
+               "operatActivityId" : 2,
+               "totalValue" : 6888
+            },
+            "refId" : "chongzhi_2",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "unbindedGold",
+                  "number" : "360"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_3exp",
+                  "number" : "10"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "gold",
+                  "number" : "200000"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_qianghuashi",
+                  "number" : "38"
+               }
+            ]
+         },
+         "chongzhi_3" : {
+            "property" : {
+               "description" : "12888",
+               "expiredTime" : "2099-1-1",
+               "itemGroup" : 2,
+               "name" : "累计充值",
+               "openTime" : "2018-1-1",
+               "operatActivityId" : 3,
+               "totalValue" : 12888
+            },
+            "refId" : "chongzhi_3",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "unbindedGold",
+                  "number" : "540"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_zuoqiExp",
+                  "number" : "25"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "gold",
+                  "number" : "300000"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_qianghuashi",
+                  "number" : "88"
+               }
+            ]
+         },
+         "chongzhi_4" : {
+            "property" : {
+               "description" : "21888",
+               "expiredTime" : "2099-1-1",
+               "itemGroup" : 2,
+               "name" : "累计充值",
+               "openTime" : "2018-1-1",
+               "operatActivityId" : 4,
+               "totalValue" : 21888
+            },
+            "refId" : "chongzhi_4",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_40_1103",
+                  "number" : 1,
+                  "proffessionRefId" : 1
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_40_1103",
+                  "number" : 1,
+                  "proffessionRefId" : 2
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_40_1204",
+                  "number" : 1,
+                  "proffessionRefId" : 3
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_40_1204",
+                  "number" : 1,
+                  "proffessionRefId" : 4
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_40_1304",
+                  "number" : 1,
+                  "proffessionRefId" : 5
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_40_1304",
+                  "number" : 1,
+                  "proffessionRefId" : 6
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "unbindedGold",
+                  "number" : "810"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_zuoqiExp",
+                  "number" : "50"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "gold",
+                  "number" : "400000"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_qianghuashi",
+                  "number" : "188"
+               }
+            ]
+         },
+         "chongzhi_5" : {
+            "property" : {
+               "description" : "48888",
+               "expiredTime" : "2099-1-1",
+               "itemGroup" : 2,
+               "name" : "累计充值",
+               "openTime" : "2018-1-1",
+               "operatActivityId" : 5,
+               "totalValue" : 48888
+            },
+            "refId" : "chongzhi_5",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_50_1103",
+                  "number" : 1,
+                  "proffessionRefId" : 1
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_50_1103",
+                  "number" : 1,
+                  "proffessionRefId" : 2
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_50_1204",
+                  "number" : 1,
+                  "proffessionRefId" : 3
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_50_1204",
+                  "number" : 1,
+                  "proffessionRefId" : 4
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_50_1302",
+                  "number" : 1,
+                  "proffessionRefId" : 5
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_50_1302",
+                  "number" : 1,
+                  "proffessionRefId" : 6
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "unbindedGold",
+                  "number" : "2430"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_suipian_10",
+                  "number" : "50"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "gold",
+                  "number" : "500000"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_giftcard",
+                  "number" : "10"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_qianghuashi",
+                  "number" : "300"
+               }
+            ]
+         },
+         "chongzhi_6" : {
+            "property" : {
+               "description" : "128888",
+               "expiredTime" : "2099-1-1",
+               "itemGroup" : 2,
+               "name" : "累计充值",
+               "openTime" : "2018-1-1",
+               "operatActivityId" : 6,
+               "totalValue" : 128888
+            },
+            "refId" : "chongzhi_6",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_60_2112",
+                  "number" : 1,
+                  "proffessionRefId" : 1
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_60_2122",
+                  "number" : 1,
+                  "proffessionRefId" : 2
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_60_2211",
+                  "number" : 1,
+                  "proffessionRefId" : 3
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_60_2221",
+                  "number" : 1,
+                  "proffessionRefId" : 4
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_60_2312",
+                  "number" : 1,
+                  "proffessionRefId" : 5
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_60_2322",
+                  "number" : 1,
+                  "proffessionRefId" : 6
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "unbindedGold",
+                  "number" : "7200"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "gold",
+                  "number" : "600000"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_superluck",
+                  "number" : "1"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_shenqiExp",
+                  "number" : "150"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_giftcard",
+                  "number" : "10"
+               }
+            ]
+         },
+         "chongzhi_7" : {
+            "property" : {
+               "description" : "218888",
+               "expiredTime" : "2099-1-1",
+               "itemGroup" : 2,
+               "name" : "累计充值",
+               "openTime" : "2018-1-1",
+               "operatActivityId" : 7,
+               "totalValue" : 218888
+            },
+            "refId" : "chongzhi_7",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_60_1102",
+                  "number" : 1,
+                  "proffessionRefId" : 1
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_60_1102",
+                  "number" : 1,
+                  "proffessionRefId" : 2
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_60_1202",
+                  "number" : 1,
+                  "proffessionRefId" : 3
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_60_1202",
+                  "number" : 1,
+                  "proffessionRefId" : 4
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_60_1304",
+                  "number" : 1,
+                  "proffessionRefId" : 5
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_60_1304",
+                  "number" : 1,
+                  "proffessionRefId" : 6
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "unbindedGold",
+                  "number" : "8100"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "gold",
+                  "number" : "800000"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_shenqiExp",
+                  "number" : "200"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_moshi",
+                  "number" : "50"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_goldMedal",
+                  "number" : "50"
+               }
+            ]
+         },
+         "chongzhi_8" : {
+            "property" : {
+               "description" : "688888",
+               "expiredTime" : "2099-1-1",
+               "itemGroup" : 2,
+               "name" : "累计充值",
+               "openTime" : "2018-1-1",
+               "operatActivityId" : 8,
+               "totalValue" : 688888
+            },
+            "refId" : "chongzhi_8",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_70_2111",
+                  "number" : 1,
+                  "proffessionRefId" : 1
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_70_2121",
+                  "number" : 1,
+                  "proffessionRefId" : 2
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_70_2212",
+                  "number" : 1,
+                  "proffessionRefId" : 3
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_70_2222",
+                  "number" : 1,
+                  "proffessionRefId" : 4
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_70_2312",
+                  "number" : 1,
+                  "proffessionRefId" : 5
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_70_2322",
+                  "number" : 1,
+                  "proffessionRefId" : 6
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "unbindedGold",
+                  "number" : "42300"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "gold",
+                  "number" : "1000000"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_suipian_7",
+                  "number" : "10"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_shenqiExp",
+                  "number" : "300"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_moshi",
+                  "number" : "70"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "bindedGold",
+                  "number" : "150000"
+               }
+            ]
+         },
+         "chongzhi_9" : {
+            "property" : {
+               "description" : "1288888",
+               "expiredTime" : "2099-1-1",
+               "itemGroup" : 2,
+               "name" : "累计充值",
+               "openTime" : "2018-1-1",
+               "operatActivityId" : 9,
+               "totalValue" : 1288888
+            },
+            "refId" : "chongzhi_9",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_110_31100",
+                  "number" : 1,
+                  "proffessionRefId" : 1
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_110_31100",
+                  "number" : 1,
+                  "proffessionRefId" : 2
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_110_31200",
+                  "number" : 1,
+                  "proffessionRefId" : 3
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_110_31200",
+                  "number" : 1,
+                  "proffessionRefId" : 4
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_110_31300",
+                  "number" : 1,
+                  "proffessionRefId" : 5
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_110_31300",
+                  "number" : 1,
+                  "proffessionRefId" : 6
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "unbindedGold",
+                  "number" : "54000"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "gold",
+                  "number" : "1500000"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_suipian",
+                  "number" : "15"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_shenqiExp",
+                  "number" : "400"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_moshi",
+                  "number" : "100"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "bindedGold",
+                  "number" : "500000"
+               }
+            ]
+         }
+      },
+      "name" : "累计充值",
+      "refId" : "totalrecharge"
+   },
+   "weekconsume" : {
+      "configData" : {
+         "weekconsume_1" : {
+            "property" : {
+               "description" : "38888",
+               "expiredTime" : "2099-1-1",
+               "itemGroup" : 4,
+               "name" : "周累计消费",
+               "openTime" : "2018-1-1",
+               "operatActivityId" : 1,
+               "totalValue" : 38888
+            },
+            "refId" : "weekconsume_1",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_duihuanquan_2",
+                  "number" : "20"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_moxueshi_3",
+                  "number" : "1"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_zhenmoling_1",
+                  "number" : "200"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_chibangExp",
+                  "number" : "100"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_box_120",
+                  "number" : "2"
+               }
+            ]
+         },
+         "weekconsume_2" : {
+            "property" : {
+               "description" : "188888",
+               "expiredTime" : "2099-1-1",
+               "itemGroup" : 4,
+               "name" : "周累计消费",
+               "openTime" : "2018-1-1",
+               "operatActivityId" : 2,
+               "totalValue" : 188888
+            },
+            "refId" : "weekconsume_2",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_duihuanquan_1",
+                  "number" : "50"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_chibangExp",
+                  "number" : "200"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_silverMedal",
+                  "number" : "50"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_goldMedal",
+                  "number" : "20"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_box_120",
+                  "number" : "3"
+               }
+            ]
+         },
+         "weekconsume_3" : {
+            "property" : {
+               "description" : "988888",
+               "expiredTime" : "2099-1-1",
+               "itemGroup" : 4,
+               "name" : "周累计消费",
+               "openTime" : "2018-1-1",
+               "operatActivityId" : 3,
+               "totalValue" : 988888
+            },
+            "refId" : "weekconsume_3",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_moshi",
+                  "number" : "300"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_chibangExp",
+                  "number" : "300"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_goldMedal",
+                  "number" : "100"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_box_120",
+                  "number" : "5"
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_box_120_2",
+                  "number" : "5"
+               }
+            ]
+         }
+      },
+      "name" : "周累计消费",
+      "refId" : "weekconsume"
+   }
+}
+

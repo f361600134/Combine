@@ -1,0 +1,1131 @@
+{
+   "npc_1" : {
+      "head" : {
+         "head" : "npc_2000"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "村子最近乱糟糟的，这是在预示着什么吗？",
+         "modelId" : 2000,
+         "name" : "村长"
+      },
+      "refId" : "npc_1",
+      "sight" : ""
+   },
+   "npc_10" : {
+      "head" : {
+         "head" : "npc_2016"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "每次王城争霸战只有前100个报名的公会才能获得参战资格。",
+         "modelId" : 2016,
+         "name" : "王城特使"
+      },
+      "refId" : "npc_10",
+      "sight" : ""
+   },
+   "npc_11" : {
+      "head" : {
+         "head" : "npc_2010"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "持续的冒险之后，来泡泡温泉吧，让身心都恢复活力。",
+         "modelId" : 2010,
+         "name" : "温泉老板娘"
+      },
+      "refId" : "npc_11",
+      "sight" : ""
+   },
+   "npc_12" : {
+      "head" : {
+         "head" : "npc_2009"
+      },
+      "job" : [
+         {
+            "jobType" : 2,
+            "link" : 3
+         }
+      ],
+      "property" : {
+         "description" : "你要来领会员奖励吗？给你奖励的话你会不会给我买糖葫芦呢？",
+         "modelId" : 2009,
+         "name" : "福童"
+      },
+      "refId" : "npc_12",
+      "sight" : "福"
+   },
+   "npc_13" : {
+      "head" : {
+         "head" : "npc_2008"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "想要获得更多的功勋，就来我这里接取功勋任务吧。",
+         "modelId" : 2008,
+         "name" : "功勋使者"
+      },
+      "refId" : "npc_13",
+      "sight" : "勋"
+   },
+   "npc_14" : {
+      "head" : {
+         "head" : "npc_2002"
+      },
+      "job" : [
+         {
+            "jobType" : 1,
+            "transList" : [
+               {
+                  "name" : "下一层",
+                  "targetScene" : "S201",
+                  "tranferInId" : 100
+               }
+            ]
+         }
+      ],
+      "property" : {
+         "description" : "想要进入镇魔塔下一层？首先你得有足够的镇魔令。",
+         "modelId" : 2002,
+         "name" : "镇魔塔使者"
+      },
+      "refId" : "npc_14",
+      "sight" : "镇"
+   },
+   "npc_15" : {
+      "head" : {
+         "head" : "npc_2014"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "我这里有全大陆最齐全最实用的练级资讯，少年，你不来一份吗？",
+         "modelId" : 2014,
+         "name" : "练级使者"
+      },
+      "refId" : "npc_15",
+      "sight" : ""
+   },
+   "npc_16" : {
+      "head" : {
+         "head" : "npc_2016"
+      },
+      "job" : [
+         {
+            "jobType" : 2,
+            "link" : 1
+         }
+      ],
+      "property" : {
+         "description" : "快来升级自己的勋章吧！",
+         "modelId" : 2016,
+         "name" : "勋章使者"
+      },
+      "refId" : "npc_16",
+      "sight" : ""
+   },
+   "npc_17" : {
+      "head" : {
+         "head" : "npc_2016"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "",
+         "modelId" : 2016,
+         "name" : "神器使者"
+      },
+      "refId" : "npc_17",
+      "sight" : ""
+   },
+   "npc_18" : {
+      "head" : {
+         "head" : "npc_2017"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "",
+         "modelId" : 2017,
+         "name" : "灵羽使者"
+      },
+      "refId" : "npc_18",
+      "sight" : ""
+   },
+   "npc_19" : {
+      "head" : {
+         "head" : "npc_2018"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "欢迎光临，冒险者，想要试试自己的运气吗？",
+         "modelId" : 2018,
+         "name" : "彩票员"
+      },
+      "refId" : "npc_19",
+      "sight" : ""
+   },
+   "npc_2" : {
+      "head" : {
+         "head" : "npc_2001"
+      },
+      "job" : [
+         {
+            "jobType" : 3,
+            "shopList" : [
+               {
+                  "shopID" : "shop_4",
+                  "shopName" : "药店"
+               }
+            ]
+         }
+      ],
+      "property" : {
+         "description" : "江湖是非多，像你这样四处闯荡，难免会有损伤，最好常备点药品以备不时之需。",
+         "modelId" : 2001,
+         "name" : "药店老板"
+      },
+      "refId" : "npc_2",
+      "sight" : "药"
+   },
+   "npc_20" : {
+      "head" : {
+         "head" : "npc_2006"
+      },
+      "job" : [
+         {
+            "jobType" : 3,
+            "shopList" : [
+               {
+                  "shopID" : "shop_100",
+                  "shopName" : "道具兑换店"
+               }
+            ]
+         }
+      ],
+      "property" : {
+         "description" : "想要轻松获得各种神装令牌吗？那就快拿兑换券来跟我换吧。",
+         "modelId" : 2006,
+         "name" : "活动使者"
+      },
+      "refId" : "npc_20",
+      "sight" : "活"
+   },
+   "npc_201" : {
+      "head" : {
+         "head" : "npc_2006"
+      },
+      "job" : [
+         {
+            "jobType" : 3,
+            "shopList" : [
+               {
+                  "shopID" : "shop_100",
+                  "shopName" : "道具兑换店"
+               }
+            ]
+         }
+      ],
+      "property" : {
+         "description" : "拿着兑换券可跟我换取极品牌子。",
+         "modelId" : 2006,
+         "name" : "活动使者"
+      },
+      "refId" : "npc_201",
+      "sight" : "活"
+   },
+   "npc_202" : {
+      "head" : {
+         "head" : "npc_2006"
+      },
+      "job" : [
+         {
+            "jobType" : 3,
+            "shopList" : [
+               {
+                  "shopID" : "shop_100",
+                  "shopName" : "道具兑换店"
+               }
+            ]
+         }
+      ],
+      "property" : {
+         "description" : "拿着兑换券可跟我换取极品牌子。",
+         "modelId" : 2006,
+         "name" : "活动使者"
+      },
+      "refId" : "npc_202",
+      "sight" : "活"
+   },
+   "npc_203" : {
+      "head" : {
+         "head" : "npc_2006"
+      },
+      "job" : [
+         {
+            "jobType" : 3,
+            "shopList" : [
+               {
+                  "shopID" : "shop_100",
+                  "shopName" : "道具兑换店"
+               }
+            ]
+         }
+      ],
+      "property" : {
+         "description" : "拿着兑换券可跟我换取极品牌子。",
+         "modelId" : 2006,
+         "name" : "活动使者"
+      },
+      "refId" : "npc_203",
+      "sight" : "活"
+   },
+   "npc_21" : {
+      "head" : {
+         "head" : "npc_2020"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "这个世界有无数的怪物，去消灭它们，然后来找我领取奖励吧。",
+         "modelId" : 2020,
+         "name" : "伏魔使者"
+      },
+      "refId" : "npc_21",
+      "sight" : ""
+   },
+   "npc_22" : {
+      "head" : {
+         "head" : "npc_2017"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "完成任务，赚取赏金，这是个非常合理的交易，不是吗？",
+         "modelId" : 2017,
+         "name" : "赏金猎人"
+      },
+      "refId" : "npc_22",
+      "sight" : ""
+   },
+   "npc_23" : {
+      "head" : {
+         "head" : "npc_2008"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "你好，冒险者，欢迎来到苍明岛！",
+         "modelId" : 2008,
+         "name" : "苍明岛主"
+      },
+      "refId" : "npc_23",
+      "sight" : ""
+   },
+   "npc_24" : {
+      "head" : {
+         "head" : "npc_2024"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "顺着这个方向走，可以到达红叶村！",
+         "modelId" : 2024,
+         "name" : "守卫"
+      },
+      "refId" : "npc_24",
+      "sight" : ""
+   },
+   "npc_25" : {
+      "head" : {
+         "head" : "npc_2024"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "这个方向通往白骨洞穴，洞中怪物繁多，请小心应对！",
+         "modelId" : 2024,
+         "name" : "守卫"
+      },
+      "refId" : "npc_25",
+      "sight" : ""
+   },
+   "npc_26" : {
+      "head" : {
+         "head" : "npc_2024"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "此处城门可通往血神殿，请千万小心。",
+         "modelId" : 2024,
+         "name" : "守卫"
+      },
+      "refId" : "npc_26",
+      "sight" : ""
+   },
+   "npc_27" : {
+      "head" : {
+         "head" : "npc_2024"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "出城往北走就是蛇盘崖，那里倒是个看风景的好去处。",
+         "modelId" : 2024,
+         "name" : "守卫"
+      },
+      "refId" : "npc_27",
+      "sight" : ""
+   },
+   "npc_28" : {
+      "head" : {
+         "head" : "npc_2012"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "打起精神，兄弟们，最近可不像往常那么太平！",
+         "modelId" : 2012,
+         "name" : "云岐城统领"
+      },
+      "refId" : "npc_28",
+      "sight" : ""
+   },
+   "npc_29" : {
+      "head" : {
+         "head" : "npc_2024"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "此处是守卫白骨洞穴的防线，闲杂人等退散！",
+         "modelId" : 2024,
+         "name" : "守备队长"
+      },
+      "refId" : "npc_29",
+      "sight" : ""
+   },
+   "npc_3" : {
+      "head" : {
+         "head" : "npc_2002"
+      },
+      "job" : [
+         {
+            "jobType" : 1,
+            "transList" : [
+               {
+                  "name" : "红叶村",
+                  "targetScene" : "S001",
+                  "tranferInId" : 603
+               },
+               {
+                  "name" : "云岐城",
+                  "targetScene" : "S002",
+                  "tranferInId" : 601
+               },
+               {
+                  "name" : "蛇盘崖",
+                  "targetScene" : "S007",
+                  "tranferInId" : 605
+               },
+               {
+                  "name" : "岩灵城",
+                  "targetScene" : "S008",
+                  "tranferInId" : 609
+               },
+               {
+                  "name" : "漠龙城",
+                  "targetScene" : "S009",
+                  "tranferInId" : 673
+               },
+               {
+                  "name" : "苍明岛",
+                  "targetScene" : "S006",
+                  "tranferInId" : 613
+               },
+               {
+                  "name" : "白骨洞穴",
+                  "targetScene" : "S031",
+                  "tranferInId" : 621
+               },
+               {
+                  "name" : "邪灵矿洞",
+                  "targetScene" : "S033",
+                  "tranferInId" : 625
+               },
+               {
+                  "name" : "血神殿",
+                  "targetScene" : "S035",
+                  "tranferInId" : 617
+               },
+               {
+                  "name" : "万毒窟",
+                  "targetScene" : "S037",
+                  "tranferInId" : 633
+               },
+               {
+                  "name" : "野猪洞穴",
+                  "targetScene" : "S039",
+                  "tranferInId" : 629
+               },
+               {
+                  "name" : "月隐峡谷",
+                  "targetScene" : "S041",
+                  "tranferInId" : 641
+               },
+               {
+                  "name" : "祖魔殿",
+                  "targetScene" : "S043",
+                  "tranferInId" : 52
+               },
+               {
+                  "name" : "诅咒神殿",
+                  "targetScene" : "S045",
+                  "tranferInId" : 637
+               },
+               {
+                  "name" : "云雾仙境",
+                  "targetScene" : "S014",
+                  "tranferInId" : 753
+               }
+            ]
+         }
+      ],
+      "property" : {
+         "description" : "你想要去哪儿？",
+         "modelId" : 2002,
+         "name" : "地图传送员"
+      },
+      "refId" : "npc_3",
+      "sight" : "传"
+   },
+   "npc_30" : {
+      "head" : {
+         "head" : "npc_2011"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "这些白骨棒子数量真多，还需小心应对！",
+         "modelId" : 2011,
+         "name" : "守备士兵"
+      },
+      "refId" : "npc_30",
+      "sight" : ""
+   },
+   "npc_31" : {
+      "head" : {
+         "head" : "npc_2011"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "这些白骨棒子数量真多，还需小心应对！",
+         "modelId" : 2011,
+         "name" : "守备士兵"
+      },
+      "refId" : "npc_31",
+      "sight" : ""
+   },
+   "npc_32" : {
+      "head" : {
+         "head" : "npc_2011"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "这些白骨棒子数量真多，还需小心应对！",
+         "modelId" : 2011,
+         "name" : "守备士兵"
+      },
+      "refId" : "npc_32",
+      "sight" : ""
+   },
+   "npc_33" : {
+      "head" : {
+         "head" : "npc_2012"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "保持警惕，这里可是白骨精灵的巢穴！",
+         "modelId" : 2012,
+         "name" : "守备指挥官"
+      },
+      "refId" : "npc_33",
+      "sight" : ""
+   },
+   "npc_34" : {
+      "head" : {
+         "head" : "npc_2019"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "快帮我把这些蛇赶开，真是见鬼，它们是想要吃了我吗？",
+         "modelId" : 2019,
+         "name" : "蛇盘崖居民"
+      },
+      "refId" : "npc_34",
+      "sight" : ""
+   },
+   "npc_35" : {
+      "head" : {
+         "head" : "npc_2012"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "祸事了，祸事了，这么多僵尸跑出来了，这可怎么办啊。",
+         "modelId" : 2012,
+         "name" : "探险队长"
+      },
+      "refId" : "npc_35",
+      "sight" : ""
+   },
+   "npc_36" : {
+      "head" : {
+         "head" : "npc_2017"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "朋友，快救救我，这些僵尸太凶残了，你快带我出去吧！",
+         "modelId" : 2017,
+         "name" : "探险者"
+      },
+      "refId" : "npc_36",
+      "sight" : ""
+   },
+   "npc_37" : {
+      "head" : {
+         "head" : "npc_2015"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "僵尸，僵尸，还是僵尸，我们到底在什么地方……",
+         "modelId" : 2015,
+         "name" : "受伤的探险者"
+      },
+      "refId" : "npc_37",
+      "sight" : ""
+   },
+   "npc_38" : {
+      "head" : {
+         "head" : "npc_2020"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "呔，妖孽，看我如何擒你！呃，怎么是个活人？眼花了，见笑见笑……",
+         "modelId" : 2020,
+         "name" : "驱魔天师"
+      },
+      "refId" : "npc_38",
+      "sight" : ""
+   },
+   "npc_39" : {
+      "head" : {
+         "head" : "npc_2019"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "我是一个见习佣兵，不过将来我一定能成为一个正式佣兵的。",
+         "modelId" : 2019,
+         "name" : "见习佣兵"
+      },
+      "refId" : "npc_39",
+      "sight" : ""
+   },
+   "npc_4" : {
+      "head" : {
+         "head" : "npc_2003"
+      },
+      "job" : [
+         {
+            "jobType" : 3,
+            "shopList" : [
+               {
+                  "shopID" : "shop_1",
+                  "shopName" : "武器店"
+               }
+            ]
+         }
+      ],
+      "property" : {
+         "description" : "行走江湖，一把趁手的武器是必须的，来本店看看，包你满意！",
+         "modelId" : 2003,
+         "name" : "武器店老板"
+      },
+      "refId" : "npc_4",
+      "sight" : "武"
+   },
+   "npc_40" : {
+      "head" : {
+         "head" : "npc_2012"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "收钱办事，这是最基础的佣兵标准，你有什么需要帮忙的吗？",
+         "modelId" : 2012,
+         "name" : "佣兵队长"
+      },
+      "refId" : "npc_40",
+      "sight" : ""
+   },
+   "npc_401" : {
+      "head" : {
+         "head" : ""
+      },
+      "job" : [
+         {
+            "jobType" : 4
+         }
+      ],
+      "property" : {
+         "description" : "",
+         "modelId" : 0,
+         "name" : "墓碑"
+      },
+      "refId" : "npc_401",
+      "sight" : ""
+   },
+   "npc_41" : {
+      "head" : {
+         "head" : "npc_2017"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "时间就是金钱，我的朋友。如果没有要紧事就别来烦我了，让我早点完成任务吧！",
+         "modelId" : 2017,
+         "name" : "佣兵"
+      },
+      "refId" : "npc_41",
+      "sight" : ""
+   },
+   "npc_42" : {
+      "head" : {
+         "head" : "npc_2017"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "轻点儿，附近就是下层的入口，不要惊动下面的怪物……",
+         "modelId" : 2017,
+         "name" : "佣兵暗哨"
+      },
+      "refId" : "npc_42",
+      "sight" : ""
+   },
+   "npc_43" : {
+      "head" : {
+         "head" : "npc_2024"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "你好，远道而来的冒险者，看你一身风尘仆仆，不如在此休息一下？",
+         "modelId" : 2024,
+         "name" : "驿站守卫"
+      },
+      "refId" : "npc_43",
+      "sight" : ""
+   },
+   "npc_44" : {
+      "head" : {
+         "head" : "npc_2000"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "现在是你们年轻人的时代了，我这个老头儿不行喽……",
+         "modelId" : 2000,
+         "name" : "大长老"
+      },
+      "refId" : "npc_44",
+      "sight" : ""
+   },
+   "npc_45" : {
+      "head" : {
+         "head" : "npc_2008"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "云岐城屹立数百年，靠的是无数先辈的不懈努力，希望年轻的一代能继承前辈的意志。",
+         "modelId" : 2008,
+         "name" : "云岐城主"
+      },
+      "refId" : "npc_45",
+      "sight" : ""
+   },
+   "npc_46" : {
+      "head" : {
+         "head" : "npc_2012"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "我们是守卫岩灵城的屏障，任何人都别想轻易越过去。",
+         "modelId" : 2012,
+         "name" : "自卫队长"
+      },
+      "refId" : "npc_46",
+      "sight" : ""
+   },
+   "npc_47" : {
+      "head" : {
+         "head" : "npc_2014"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "奇怪，药田里的杂草怎么长得这么快，这样下去我的药田可怎么办啊！",
+         "modelId" : 2014,
+         "name" : "药农"
+      },
+      "refId" : "npc_47",
+      "sight" : ""
+   },
+   "npc_48" : {
+      "head" : {
+         "head" : "npc_2024"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "这里可不是什么好玩的地方，快出去……",
+         "modelId" : 2024,
+         "name" : "万毒窟哨兵"
+      },
+      "refId" : "npc_48",
+      "sight" : ""
+   },
+   "npc_49" : {
+      "head" : {
+         "head" : "npc_2011"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "嘘……这周围很危险，不要大声说话，小心暴露我们的位置！",
+         "modelId" : 2011,
+         "name" : "红叶村哨兵"
+      },
+      "refId" : "npc_49",
+      "sight" : ""
+   },
+   "npc_5" : {
+      "head" : {
+         "head" : "npc_2004"
+      },
+      "job" : [
+         {
+            "jobType" : 3,
+            "shopList" : [
+               {
+                  "shopID" : "shop_2",
+                  "shopName" : "服饰店"
+               }
+            ]
+         }
+      ],
+      "property" : {
+         "description" : "江湖儿女，没有一身好的行头可不行，",
+         "modelId" : 2004,
+         "name" : "服饰店老板"
+      },
+      "refId" : "npc_5",
+      "sight" : "衣"
+   },
+   "npc_50" : {
+      "head" : {
+         "head" : "npc_2021"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "在我们村子里，我的箭术是最好的，因为村子里就我一个猎人，哈哈……",
+         "modelId" : 2021,
+         "name" : "猎户"
+      },
+      "refId" : "npc_50",
+      "sight" : ""
+   },
+   "npc_51" : {
+      "head" : {
+         "head" : "npc_2016"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "哎呀，小朋友，我这里有各种从云岐城带过来的货物呦，你要不要来一点？",
+         "modelId" : 2016,
+         "name" : "行脚商人"
+      },
+      "refId" : "npc_51",
+      "sight" : ""
+   },
+   "npc_52" : {
+      "head" : {
+         "head" : "npc_2015"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "该死，被这些怪物偷袭了……",
+         "modelId" : 2015,
+         "name" : "受伤的自卫队员"
+      },
+      "refId" : "npc_52",
+      "sight" : ""
+   },
+   "npc_53" : {
+      "head" : {
+         "head" : "npc_2024"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "我在这里监视这些野猪人好久了，他们的一切我都了如指掌！",
+         "modelId" : 2024,
+         "name" : "巢穴密探"
+      },
+      "refId" : "npc_53",
+      "sight" : ""
+   },
+   "npc_54" : {
+      "head" : {
+         "head" : "npc_2014"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "快来个人帮我救救我的小伙伴吧！",
+         "modelId" : 2014,
+         "name" : "渔夫"
+      },
+      "refId" : "npc_54",
+      "sight" : ""
+   },
+   "npc_55" : {
+      "head" : {
+         "head" : "npc_2024"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "这下面可是一个名符其实的蜘蛛王国，胆小的人可前往别进去！",
+         "modelId" : 2024,
+         "name" : "峡谷守卫"
+      },
+      "refId" : "npc_55",
+      "sight" : ""
+   },
+   "npc_56" : {
+      "head" : {
+         "head" : "npc_2017"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "只有不断磨练自己的剑技，才能成为一个出色的剑客。",
+         "modelId" : 2017,
+         "name" : "流浪剑客"
+      },
+      "refId" : "npc_56",
+      "sight" : ""
+   },
+   "npc_57" : {
+      "head" : {
+         "head" : "npc_2024"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "天天守着这群蜘蛛可真无聊啊，有没有人来陪我聊聊天？",
+         "modelId" : 2024,
+         "name" : "峡谷哨兵"
+      },
+      "refId" : "npc_57",
+      "sight" : ""
+   },
+   "npc_58" : {
+      "head" : {
+         "head" : "npc_2015"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "哎呦，救命……",
+         "modelId" : 2015,
+         "name" : "受伤的渔夫"
+      },
+      "refId" : "npc_58",
+      "sight" : ""
+   },
+   "npc_59" : {
+      "head" : {
+         "head" : "npc_2016"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "万兽皆有灵，只要驯养得当，没有什么是不能驯服的。",
+         "modelId" : 2016,
+         "name" : "蛇盘驯兽师"
+      },
+      "refId" : "npc_59",
+      "sight" : ""
+   },
+   "npc_6" : {
+      "head" : {
+         "head" : "npc_2005"
+      },
+      "job" : [
+         {
+            "jobType" : 3,
+            "shopList" : [
+               {
+                  "shopID" : "shop_3",
+                  "shopName" : "首饰店"
+               }
+            ]
+         }
+      ],
+      "property" : {
+         "description" : "本店出售各种精品戒指和项链，各位走过路过的帅哥美女，千万不要错过呦！",
+         "modelId" : 2005,
+         "name" : "首饰店老板"
+      },
+      "refId" : "npc_6",
+      "sight" : "饰"
+   },
+   "npc_60" : {
+      "head" : {
+         "head" : "npc_2019"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "我是要成为大陆最强药剂师的人，区区万毒窟怎么可能难倒…哎呀，救命……",
+         "modelId" : 2019,
+         "name" : "药店学徒"
+      },
+      "refId" : "npc_60",
+      "sight" : ""
+   },
+   "npc_61" : {
+      "head" : {
+         "head" : "npc_2017"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "该死，这些杀人蜂的毒可真要命啊……",
+         "modelId" : 2017,
+         "name" : "被困的剑客"
+      },
+      "refId" : "npc_61",
+      "sight" : ""
+   },
+   "npc_7" : {
+      "head" : {
+         "head" : "npc_2006"
+      },
+      "job" : [
+         {
+            "jobType" : 3,
+            "shopList" : [
+               {
+                  "shopID" : "shop_5",
+                  "shopName" : "杂货店"
+               }
+            ]
+         }
+      ],
+      "property" : {
+         "description" : "小店出售各种杂货物件，货品齐全，应有尽有！",
+         "modelId" : 2006,
+         "name" : "杂货铺老板"
+      },
+      "refId" : "npc_7",
+      "sight" : "杂"
+   },
+   "npc_8" : {
+      "head" : {
+         "head" : "npc_2007"
+      },
+      "job" : [
+         {
+            "jobType" : 2,
+            "link" : 4
+         }
+      ],
+      "property" : {
+         "description" : "如果你有什么暂时用不上的东西，可以先存在我这里，放心，不收你保管费！",
+         "modelId" : 2007,
+         "name" : "仓库管理员"
+      },
+      "refId" : "npc_8",
+      "sight" : "仓"
+   },
+   "npc_9" : {
+      "head" : {
+         "head" : "npc_2008"
+      },
+      "job" : null,
+      "property" : {
+         "description" : "我这里收藏了许多前辈高人留下的修炼秘籍，你要看看吗？",
+         "modelId" : 2008,
+         "name" : "书店老板"
+      },
+      "refId" : "npc_9",
+      "sight" : ""
+   },
+   "npc_digs" : {
+      "head" : {
+         "head" : "npc_2018"
+      },
+      "job" : [
+         {
+            "jobType" : 3,
+            "shopList" : [
+               {
+                  "shopID" : "shop_digs",
+                  "shopName" : "挖宝积分兑换"
+               }
+            ]
+         }
+      ],
+      "property" : {
+         "description" : "挖宝越多，获得的积分也越多。",
+         "modelId" : 2018,
+         "name" : "挖宝积分兑换"
+      },
+      "refId" : "npc_digs",
+      "sight" : ""
+   },
+   "npc_fortuneWay" : {
+      "head" : {
+         "head" : "npc_2018"
+      },
+      "job" : [
+         {
+            "jobType" : 3,
+            "shopList" : [
+               {
+                  "shopID" : "shop_fortuneWay",
+                  "shopName" : "挖宝积分兑换"
+               }
+            ]
+         }
+      ],
+      "property" : {
+         "description" : "财神积分可通过财神闯关获得。",
+         "modelId" : 2018,
+         "name" : "财神积分兑换"
+      },
+      "refId" : "npc_fortuneWay",
+      "sight" : ""
+   },
+   "npc_ride" : {
+      "head" : {
+         "head" : ""
+      },
+      "job" : [
+         {
+            "jobType" : 5,
+            "viewName" : "MountView"
+         }
+      ],
+      "property" : {
+         "description" : "",
+         "modelId" : 1036,
+         "name" : "坐骑系统"
+      },
+      "refId" : "npc_ride",
+      "sight" : ""
+   },
+   "npc_wing" : {
+      "head" : {
+         "head" : ""
+      },
+      "job" : [
+         {
+            "jobType" : 5,
+            "viewName" : "WindView"
+         }
+      ],
+      "property" : {
+         "description" : "",
+         "modelId" : 1039,
+         "name" : "翅膀系统"
+      },
+      "refId" : "npc_wing",
+      "sight" : ""
+   }
+}
+

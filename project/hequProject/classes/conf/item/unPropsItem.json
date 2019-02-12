@@ -1,0 +1,99 @@
+{
+   "achievement" : {
+      "property" : {
+         "description" : "可兑换勋章",
+         "iconId" : "item_achievement",
+         "name" : "成就点"
+      },
+      "refId" : "achievement"
+   },
+   "bindedGold" : {
+      "property" : {
+         "description" : "绑定元宝",
+         "iconId" : "item_bindedGold",
+         "name" : "绑定元宝"
+      },
+      "refId" : "bindedGold"
+   },
+   "contribute" : {
+      "property" : {
+         "description" : "公会商店可兑换道具",
+         "iconId" : "item_contribute",
+         "name" : "公会贡献度"
+      },
+      "refId" : "contribute"
+   },
+   "courage" : {
+      "property" : {
+         "description" : "可兑换道具",
+         "iconId" : "item_courage",
+         "name" : "勇气积分"
+      },
+      "refId" : "courage"
+   },
+   "digsPoints" : {
+      "property" : {
+         "description" : "可兑换道具",
+         "iconId" : "item_digsPoints",
+         "name" : "挖宝积分"
+      },
+      "refId" : "digsPoints"
+   },
+   "exp" : {
+      "property" : {
+         "description" : "经验",
+         "iconId" : "item_exp",
+         "name" : "经验"
+      },
+      "refId" : "exp"
+   },
+   "fortunePoints" : {
+      "property" : {
+         "description" : "可兑换道具",
+         "iconId" : "item_fortunePoints",
+         "name" : "财神积分"
+      },
+      "refId" : "fortunePoints"
+   },
+   "gold" : {
+      "property" : {
+         "description" : "金币",
+         "iconId" : "item_gold",
+         "name" : "金币"
+      },
+      "refId" : "gold"
+   },
+   "merit" : {
+      "property" : {
+         "description" : "可升级爵位",
+         "iconId" : "item_merit",
+         "name" : "功勋"
+      },
+      "refId" : "merit"
+   },
+   "newYearDigPoint" : {
+      "property" : {
+         "description" : "可兑换道具",
+         "iconId" : "item_newYearDigPoint",
+         "name" : "砸蛋积分"
+      },
+      "refId" : "newYearDigPoint"
+   },
+   "rechargePoint" : {
+      "property" : {
+         "description" : "可兑换道具",
+         "iconId" : "item_rechargePoint",
+         "name" : "充值积分"
+      },
+      "refId" : "rechargePoint"
+   },
+   "unbindedGold" : {
+      "property" : {
+         "description" : "元宝",
+         "iconId" : "item_unbindedGold",
+         "name" : "元宝"
+      },
+      "refId" : "unbindedGold"
+   }
+}
+

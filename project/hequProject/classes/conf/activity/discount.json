@@ -1,0 +1,425 @@
+{
+   "discount_item" : {
+      "configData" : {
+         "discount_batch1_1" : {
+            "discountData" : {
+               "OriginalsaleCurrency" : 1,
+               "OriginalsalePrice" : 100,
+               "bindStatus" : 1,
+               "itemId" : "item_shenqiExp",
+               "itemLimitNum" : 30000,
+               "privateLimitNum" : 10000,
+               "saleCurrency" : 1,
+               "salePrice" : 35
+            },
+            "refId" : "discount_batch1_1"
+         },
+         "discount_batch1_2" : {
+            "discountData" : {
+               "OriginalsaleCurrency" : 1,
+               "OriginalsalePrice" : 500,
+               "bindStatus" : 1,
+               "itemId" : "item_exp_5",
+               "itemLimitNum" : 10000,
+               "privateLimitNum" : 1000,
+               "saleCurrency" : 1,
+               "salePrice" : 150
+            },
+            "refId" : "discount_batch1_2"
+         },
+         "discount_batch1_3" : {
+            "discountData" : {
+               "OriginalsaleCurrency" : 1,
+               "OriginalsalePrice" : 750,
+               "bindStatus" : 1,
+               "itemId" : "item_lingpai_1",
+               "itemLimitNum" : 10000,
+               "privateLimitNum" : 1000,
+               "saleCurrency" : 1,
+               "salePrice" : 300
+            },
+            "refId" : "discount_batch1_3"
+         },
+         "discount_batch1_4" : {
+            "discountData" : {
+               "OriginalsaleCurrency" : 1,
+               "OriginalsalePrice" : 166,
+               "bindStatus" : 1,
+               "itemId" : "item_exp_4",
+               "itemLimitNum" : 1000,
+               "privateLimitNum" : 6,
+               "saleCurrency" : 2,
+               "salePrice" : 880000
+            },
+            "refId" : "discount_batch1_4"
+         },
+         "discount_batch2_1" : {
+            "discountData" : {
+               "OriginalsaleCurrency" : 1,
+               "OriginalsalePrice" : 45,
+               "bindStatus" : 1,
+               "itemId" : "item_zuoqiExp",
+               "itemLimitNum" : 30000,
+               "privateLimitNum" : 10000,
+               "saleCurrency" : 1,
+               "salePrice" : 25
+            },
+            "refId" : "discount_batch2_1"
+         },
+         "discount_batch2_2" : {
+            "discountData" : {
+               "OriginalsaleCurrency" : 1,
+               "OriginalsalePrice" : 700,
+               "bindStatus" : 1,
+               "itemId" : "item_exp_6",
+               "itemLimitNum" : 10000,
+               "privateLimitNum" : 1000,
+               "saleCurrency" : 1,
+               "salePrice" : 200
+            },
+            "refId" : "discount_batch2_2"
+         },
+         "discount_batch2_3" : {
+            "discountData" : {
+               "OriginalsaleCurrency" : 1,
+               "OriginalsalePrice" : 100,
+               "bindStatus" : 1,
+               "itemId" : "item_ins",
+               "itemLimitNum" : 10000,
+               "privateLimitNum" : 100,
+               "saleCurrency" : 1,
+               "salePrice" : 40
+            },
+            "refId" : "discount_batch2_3"
+         },
+         "discount_batch2_4" : {
+            "discountData" : {
+               "OriginalsaleCurrency" : 1,
+               "OriginalsalePrice" : 88,
+               "bindStatus" : 1,
+               "itemId" : "item_exp_3",
+               "itemLimitNum" : 1000,
+               "privateLimitNum" : 6,
+               "saleCurrency" : 2,
+               "salePrice" : 440000
+            },
+            "refId" : "discount_batch2_4"
+         },
+         "discount_batch3_1" : {
+            "discountData" : {
+               "OriginalsaleCurrency" : 1,
+               "OriginalsalePrice" : 45,
+               "bindStatus" : 1,
+               "itemId" : "item_chibangExp",
+               "itemLimitNum" : 30000,
+               "privateLimitNum" : 10000,
+               "saleCurrency" : 1,
+               "salePrice" : 20
+            },
+            "refId" : "discount_batch3_1"
+         },
+         "discount_batch3_2" : {
+            "discountData" : {
+               "OriginalsaleCurrency" : 1,
+               "OriginalsalePrice" : 500,
+               "bindStatus" : 1,
+               "itemId" : "item_exp_5",
+               "itemLimitNum" : 10000,
+               "privateLimitNum" : 1000,
+               "saleCurrency" : 1,
+               "salePrice" : 150
+            },
+            "refId" : "discount_batch3_2"
+         },
+         "discount_batch3_3" : {
+            "discountData" : {
+               "OriginalsaleCurrency" : 1,
+               "OriginalsalePrice" : 750,
+               "bindStatus" : 1,
+               "itemId" : "item_lingpai_3",
+               "itemLimitNum" : 10000,
+               "privateLimitNum" : 1000,
+               "saleCurrency" : 1,
+               "salePrice" : 300
+            },
+            "refId" : "discount_batch3_3"
+         },
+         "discount_batch3_4" : {
+            "discountData" : {
+               "OriginalsaleCurrency" : 1,
+               "OriginalsalePrice" : 475,
+               "bindStatus" : 1,
+               "itemId" : "item_3exp",
+               "itemLimitNum" : 200,
+               "privateLimitNum" : 5,
+               "saleCurrency" : 2,
+               "salePrice" : 1880000
+            },
+            "refId" : "discount_batch3_4"
+         },
+         "discount_batch4_1" : {
+            "discountData" : {
+               "OriginalsaleCurrency" : 1,
+               "OriginalsalePrice" : 250,
+               "bindStatus" : 1,
+               "itemId" : "item_moshi",
+               "itemLimitNum" : 30000,
+               "privateLimitNum" : 10000,
+               "saleCurrency" : 1,
+               "salePrice" : 110
+            },
+            "refId" : "discount_batch4_1"
+         },
+         "discount_batch4_2" : {
+            "discountData" : {
+               "OriginalsaleCurrency" : 1,
+               "OriginalsalePrice" : 700,
+               "bindStatus" : 1,
+               "itemId" : "item_exp_6",
+               "itemLimitNum" : 10000,
+               "privateLimitNum" : 1000,
+               "saleCurrency" : 1,
+               "salePrice" : 200
+            },
+            "refId" : "discount_batch4_2"
+         },
+         "discount_batch4_3" : {
+            "discountData" : {
+               "OriginalsaleCurrency" : 1,
+               "OriginalsalePrice" : 250,
+               "bindStatus" : 1,
+               "itemId" : "item_relive",
+               "itemLimitNum" : 10000,
+               "privateLimitNum" : 1000,
+               "saleCurrency" : 1,
+               "salePrice" : 240
+            },
+            "refId" : "discount_batch4_3"
+         },
+         "discount_batch4_4" : {
+            "discountData" : {
+               "OriginalsaleCurrency" : 1,
+               "OriginalsalePrice" : 250,
+               "bindStatus" : 1,
+               "itemId" : "item_2exp",
+               "itemLimitNum" : 200,
+               "privateLimitNum" : 5,
+               "saleCurrency" : 2,
+               "salePrice" : 1000000
+            },
+            "refId" : "discount_batch4_4"
+         },
+         "discount_batch5_1" : {
+            "discountData" : {
+               "OriginalsaleCurrency" : 1,
+               "OriginalsalePrice" : 120,
+               "bindStatus" : 1,
+               "itemId" : "item_juexingshi_01",
+               "itemLimitNum" : 30000,
+               "privateLimitNum" : 10000,
+               "saleCurrency" : 1,
+               "salePrice" : 110
+            },
+            "refId" : "discount_batch5_1"
+         },
+         "discount_batch5_2" : {
+            "discountData" : {
+               "OriginalsaleCurrency" : 1,
+               "OriginalsalePrice" : 500,
+               "bindStatus" : 1,
+               "itemId" : "item_exp_5",
+               "itemLimitNum" : 10000,
+               "privateLimitNum" : 1000,
+               "saleCurrency" : 1,
+               "salePrice" : 150
+            },
+            "refId" : "discount_batch5_2"
+         },
+         "discount_batch5_3" : {
+            "discountData" : {
+               "OriginalsaleCurrency" : 1,
+               "OriginalsalePrice" : 250,
+               "bindStatus" : 1,
+               "itemId" : "item_relive",
+               "itemLimitNum" : 10000,
+               "privateLimitNum" : 1000,
+               "saleCurrency" : 1,
+               "salePrice" : 240
+            },
+            "refId" : "discount_batch5_3"
+         },
+         "discount_batch5_4" : {
+            "discountData" : {
+               "OriginalsaleCurrency" : 1,
+               "OriginalsalePrice" : 150,
+               "bindStatus" : 1,
+               "itemId" : "item_moxueshi_1",
+               "itemLimitNum" : 100,
+               "privateLimitNum" : 2,
+               "saleCurrency" : 2,
+               "salePrice" : 1000000
+            },
+            "refId" : "discount_batch5_4"
+         },
+         "discount_batch6_1" : {
+            "discountData" : {
+               "OriginalsaleCurrency" : 1,
+               "OriginalsalePrice" : 100,
+               "bindStatus" : 1,
+               "itemId" : "item_shenqiExp",
+               "itemLimitNum" : 30000,
+               "privateLimitNum" : 10000,
+               "saleCurrency" : 1,
+               "salePrice" : 35
+            },
+            "refId" : "discount_batch6_1"
+         },
+         "discount_batch6_2" : {
+            "discountData" : {
+               "OriginalsaleCurrency" : 1,
+               "OriginalsalePrice" : 700,
+               "bindStatus" : 1,
+               "itemId" : "item_exp_6",
+               "itemLimitNum" : 10000,
+               "privateLimitNum" : 1000,
+               "saleCurrency" : 1,
+               "salePrice" : 200
+            },
+            "refId" : "discount_batch6_2"
+         },
+         "discount_batch6_3" : {
+            "discountData" : {
+               "OriginalsaleCurrency" : 1,
+               "OriginalsalePrice" : 500,
+               "bindStatus" : 1,
+               "itemId" : "item_lingpai_7",
+               "itemLimitNum" : 10000,
+               "privateLimitNum" : 1000,
+               "saleCurrency" : 1,
+               "salePrice" : 150
+            },
+            "refId" : "discount_batch6_3"
+         },
+         "discount_batch6_4" : {
+            "discountData" : {
+               "OriginalsaleCurrency" : 1,
+               "OriginalsalePrice" : 25,
+               "bindStatus" : 1,
+               "itemId" : "item_zhenmoling_1",
+               "itemLimitNum" : 1000,
+               "privateLimitNum" : 20,
+               "saleCurrency" : 2,
+               "salePrice" : 200000
+            },
+            "refId" : "discount_batch6_4"
+         },
+         "discount_batch7_1" : {
+            "discountData" : {
+               "OriginalsaleCurrency" : 1,
+               "OriginalsalePrice" : 45,
+               "bindStatus" : 1,
+               "itemId" : "item_zuoqiExp",
+               "itemLimitNum" : 30000,
+               "privateLimitNum" : 10000,
+               "saleCurrency" : 1,
+               "salePrice" : 25
+            },
+            "refId" : "discount_batch7_1"
+         },
+         "discount_batch7_2" : {
+            "discountData" : {
+               "OriginalsaleCurrency" : 1,
+               "OriginalsalePrice" : 500,
+               "bindStatus" : 1,
+               "itemId" : "item_exp_5",
+               "itemLimitNum" : 10000,
+               "privateLimitNum" : 1000,
+               "saleCurrency" : 1,
+               "salePrice" : 150
+            },
+            "refId" : "discount_batch7_2"
+         },
+         "discount_batch7_3" : {
+            "discountData" : {
+               "OriginalsaleCurrency" : 1,
+               "OriginalsalePrice" : 1160,
+               "bindStatus" : 1,
+               "itemId" : "item_pk0",
+               "itemLimitNum" : 10000,
+               "privateLimitNum" : 1000,
+               "saleCurrency" : 1,
+               "salePrice" : 550
+            },
+            "refId" : "discount_batch7_3"
+         },
+         "discount_batch7_4" : {
+            "discountData" : {
+               "OriginalsaleCurrency" : 1,
+               "OriginalsalePrice" : 250,
+               "bindStatus" : 1,
+               "itemId" : "item_moshi",
+               "itemLimitNum" : 30000,
+               "privateLimitNum" : 10000,
+               "saleCurrency" : 1,
+               "salePrice" : 110
+            },
+            "refId" : "discount_batch7_4"
+         },
+         "discount_batch8_1" : {
+            "discountData" : {
+               "OriginalsaleCurrency" : 1,
+               "OriginalsalePrice" : 45,
+               "bindStatus" : 1,
+               "itemId" : "item_chibangExp",
+               "itemLimitNum" : 30000,
+               "privateLimitNum" : 10000,
+               "saleCurrency" : 1,
+               "salePrice" : 20
+            },
+            "refId" : "discount_batch8_1"
+         },
+         "discount_batch8_2" : {
+            "discountData" : {
+               "OriginalsaleCurrency" : 1,
+               "OriginalsalePrice" : 700,
+               "bindStatus" : 1,
+               "itemId" : "item_exp_6",
+               "itemLimitNum" : 10000,
+               "privateLimitNum" : 1000,
+               "saleCurrency" : 1,
+               "salePrice" : 200
+            },
+            "refId" : "discount_batch8_2"
+         },
+         "discount_batch8_3" : {
+            "discountData" : {
+               "OriginalsaleCurrency" : 1,
+               "OriginalsalePrice" : 250,
+               "bindStatus" : 1,
+               "itemId" : "item_jinengExp",
+               "itemLimitNum" : 10000,
+               "privateLimitNum" : 1000,
+               "saleCurrency" : 1,
+               "salePrice" : 100
+            },
+            "refId" : "discount_batch8_3"
+         },
+         "discount_batch8_4" : {
+            "discountData" : {
+               "OriginalsaleCurrency" : 1,
+               "OriginalsalePrice" : 120,
+               "bindStatus" : 1,
+               "itemId" : "item_juexingshi_01",
+               "itemLimitNum" : 30000,
+               "privateLimitNum" : 10000,
+               "saleCurrency" : 1,
+               "salePrice" : 110
+            },
+            "refId" : "discount_batch8_4"
+         }
+      },
+      "name" : "打折道具",
+      "refId" : "discount_item"
+   }
+}
+

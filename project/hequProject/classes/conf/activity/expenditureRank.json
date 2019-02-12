@@ -1,0 +1,208 @@
+{
+   "expenditureRank" : {
+      "configData" : {
+         "limitTimeRank_9_1" : {
+            "rankInterval" : "1-1",
+            "rankReward" : {
+               "rankReward" : {
+                  "itemReward" : {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 200,
+                           "itemRefId" : "item_goldMedal"
+                        },
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 5,
+                           "itemRefId" : "item_qianghuajuan_11"
+                        },
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 5,
+                           "itemRefId" : "item_lingpai_8"
+                        },
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1000,
+                           "itemRefId" : "item_zuoqiExp"
+                        },
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1000,
+                           "itemRefId" : "item_chibangExp"
+                        }
+                     ],
+                     "relatedType" : 0
+                  }
+               }
+            },
+            "rankType" : 9,
+            "refId" : "limitTimeRank_9_1"
+         },
+         "limitTimeRank_9_2" : {
+            "rankInterval" : "2-2",
+            "rankReward" : {
+               "rankReward" : {
+                  "itemReward" : {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 150,
+                           "itemRefId" : "item_goldMedal"
+                        },
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 3,
+                           "itemRefId" : "item_qianghuajuan_11"
+                        },
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 3,
+                           "itemRefId" : "item_lingpai_8"
+                        },
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 800,
+                           "itemRefId" : "item_zuoqiExp"
+                        },
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 800,
+                           "itemRefId" : "item_chibangExp"
+                        }
+                     ],
+                     "relatedType" : 0
+                  }
+               }
+            },
+            "rankType" : 9,
+            "refId" : "limitTimeRank_9_2"
+         },
+         "limitTimeRank_9_3" : {
+            "rankInterval" : "3-3",
+            "rankReward" : {
+               "rankReward" : {
+                  "itemReward" : {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 100,
+                           "itemRefId" : "item_goldMedal"
+                        },
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 2,
+                           "itemRefId" : "item_qianghuajuan_11"
+                        },
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 2,
+                           "itemRefId" : "item_lingpai_8"
+                        },
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 400,
+                           "itemRefId" : "item_zuoqiExp"
+                        },
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 400,
+                           "itemRefId" : "item_chibangExp"
+                        }
+                     ],
+                     "relatedType" : 0
+                  }
+               }
+            },
+            "rankType" : 9,
+            "refId" : "limitTimeRank_9_3"
+         },
+         "limitTimeRank_9_4" : {
+            "rankInterval" : "4-6",
+            "rankReward" : {
+               "rankReward" : {
+                  "itemReward" : {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 100,
+                           "itemRefId" : "item_goldMedal"
+                        },
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 2,
+                           "itemRefId" : "item_qianghuajuan_10"
+                        },
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "item_lingpai_8"
+                        },
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 200,
+                           "itemRefId" : "item_zuoqiExp"
+                        },
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 200,
+                           "itemRefId" : "item_chibangExp"
+                        }
+                     ],
+                     "relatedType" : 0
+                  }
+               }
+            },
+            "rankType" : 9,
+            "refId" : "limitTimeRank_9_4"
+         },
+         "limitTimeRank_9_5" : {
+            "rankInterval" : "7-10",
+            "rankReward" : {
+               "rankReward" : {
+                  "itemReward" : {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 10,
+                           "itemRefId" : "item_goldMedal"
+                        },
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "item_qianghuajuan_10"
+                        },
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "item_lingpai_8"
+                        },
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 100,
+                           "itemRefId" : "item_zuoqiExp"
+                        },
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 100,
+                           "itemRefId" : "item_chibangExp"
+                        }
+                     ],
+                     "relatedType" : 0
+                  }
+               }
+            },
+            "rankType" : 9,
+            "refId" : "limitTimeRank_9_5"
+         }
+      },
+      "endRefTime" : "120:00:00",
+      "endTime" : "2015-12-28",
+      "minimumExpenditure" : 20000,
+      "name" : "消费排行榜",
+      "openRefTime" : "00:00:00",
+      "openTime" : "2015-12-24",
+      "refId" : "expenditureRank"
+   }
+}

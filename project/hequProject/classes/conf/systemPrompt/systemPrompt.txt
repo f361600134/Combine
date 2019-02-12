@@ -1,0 +1,172 @@
+﻿﻿system_prompt_config_1   @领取%1$s  														@玩家奖励信息
+system_prompt_config_2   @玩家%1$s通过抽奖获得%2$s个%3$s  									@玩家抽奖信息
+system_prompt_config_3   @使用%1$s成功  													@使用道具信息
+system_prompt_config_4   @背包剩余格子不足%1$s个，请先清理背包  									@背包剩余格子不足m个，清先清理背包
+system_prompt_config_5   @挖宝仓库位置不足，请提取后再进行挖宝  										@挖宝仓库信息
+system_prompt_config_6   @背包已满，%1$s获得的物品已通过邮件发送给您，请查收！  							@背包满发邮件信息
+system_prompt_config_7   @王城争霸已结束，%s 公会攻打王城成功，成为新的王城公会。  						@攻城战结束广播
+system_prompt_config_8   @王城争霸10分钟后开始，请王城公会进入皇宫守卫瑞兽！  							@攻城战预开始广播
+system_prompt_config_9   @王城争霸正式开始，请参战公会进入皇宫争夺瑞兽的归属！  							@攻城战开始广播
+system_prompt_config_10  @背包已满，副本任务奖励将由邮件发送。  										@副本任务奖励邮件信息
+system_prompt_config_11  @背包已满，日常任务：%s奖励将由邮件发送。  									@日常任务奖励邮件信息
+system_prompt_config_12  @挖矿活动5分钟后结束，请矿工们抓紧时间！  									@挖矿预结束广播
+system_prompt_config_13  @挖矿活动已结束，请等待下一次活动开启！  									@挖矿结束广播
+system_prompt_config_14  @魔宫挑战活动已经开启！  												@魔宫挑战开始广播
+system_prompt_config_15  @魔宫挑战活动已经结束，请等待下一次活动开启！  								@魔宫挑战结束广播
+system_prompt_config_16  @王城争霸已结束，争夺瑞兽失败。  											@攻城战失败广播
+system_prompt_config_17  @%1$s出现在%2$s，众英雄可前往挑战！  									@世界怪物刷新
+system_prompt_config_18  @挖矿活动已开始，大家可前往冰岛挖取稀有矿石！  								@挖矿开始广播
+system_prompt_config_19  @活动时间为每日%1$s-%2$s、%3$s-%4$s，请在活动时间进入  						@非魔宫挑战活动时间
+system_prompt_config_20  @魔宫挑战活动5分钟后结束，请抓紧时间！  										@魔宫挑战预结束广播
+system_prompt_config_21  @%1$s公会的%2$s击败了祥瑞麒麟，真乃盖世英雄！  								@玩家击杀麒麟广播
+system_prompt_config_22  @全服第一战士【%1$s】上线了！  											@第一战士上线广播
+system_prompt_config_23  @全服第一法师【%1$s】上线了！  											@第一法师上线广播
+system_prompt_config_24  @全服第一道士【%1$s】上线了！  											@第一道士上线广播
+system_prompt_config_25  @王城城主【%1$s】上线了！  											@龙城城主
+system_prompt_config_26  @四处游荡的江洋大盗已被击败，掉落了满地宝藏。  								@小偷怪
+system_prompt_config_27  @全服双倍经验活动已开始！  												@全服双倍经验开始广播
+system_prompt_config_28  @全服双倍经验活动已结束！  												@全服双倍经验结束广播
+system_prompt_config_29  @%1$s通过挖宝获得%2$s  											@XXX通过挖宝获得XXX
+system_prompt_config_30  @恶魔城活动10分钟后开启，请做好准备！  										@恶魔城预开始广播
+system_prompt_config_31  @恶魔城活动已经开启，众英雄可进入挑战！  									@恶魔城开始广播
+system_prompt_config_32  @恶魔城活动已经结束，请等待下一次活动开启。  									@恶魔城结束广播
+system_prompt_config_33  @活动时间为每日%1$s-%2$s，请在活动时间进入  								@恶魔城活动时间
+system_prompt_config_34  @{p=%1$s<%2$s>}使用黄金会员卡，成为尊贵的{l=%3$s<%4$s>}  				@xxx使用黄金会员卡，成为尊贵的黄金会员
+system_prompt_config_35  @{p=%1$s<%2$s>}成功获得神器{l=%3$s<%4$s>}  						@XXX成功获得神器XXX
+system_prompt_config_36  @{p=%1$s<%2$s>}成功升级坐骑到%3$s阶{l=%4$s<%5$s>}  					@xxx成功升级坐骑到XXX阶
+system_prompt_config_37  @{p=%1$s<%2$s>}成功升级翅膀到%3$s阶{l=%4$s<%5$s>}  					@xxx成功升级翅膀到XXX阶
+system_prompt_config_38  @魔狱活动已经开启，众英雄可前往挑战魔王，夺取丰厚奖励！  						@魔狱开始广播
+system_prompt_config_39  @魔狱活动10分钟后开启，请做好准备！  									@魔狱预开始广播
+system_prompt_config_40  @魔狱活动已经结束，诸魔王已被重新封印！  									@魔狱结束广播
+system_prompt_config_41  @魔狱活动5分钟后结束，请抓紧时间击败魔王！  								@魔狱预结束广播
+system_prompt_config_42  @魔域活动已经开启，众英雄可前往参加，夺取丰厚奖励！  							@魔域开始广播
+system_prompt_config_43  @魔域活动10分钟后开启，请做好准备！  										@魔域预开始广播
+system_prompt_config_44  @本次魔域活动已经结束，请期待下一次开启  									@魔域结束广播
+system_prompt_config_45  @魔域活动5分钟后结束，请众英雄抓紧时间！  									@魔域预结束广播
+system_prompt_config_46  @猪妖会活动10分钟后开启，请做好准备！ 										@猪妖会预开始广播
+system_prompt_config_47  @猪妖会活动已经开启，众英雄可前往挑战野猪，夺取丰厚奖励！  							@猪妖会开始广播
+system_prompt_config_48  @猪妖会活动已经结束，猪妖会入口已被封印，请等待下一次活动开启。  						@猪妖会结束广播
+system_prompt_config_49  @猪妖会活动5分钟后结束，请抓紧时间！  										@猪妖会预结束广播
+system_prompt_config_50  @魔王宝库活动已开始，众英雄可前往宝物秘境，夺取高级宝箱！  						@魔王宝库开始广播
+system_prompt_config_51  @魔王宝库活动5分钟后结束，大家抓紧时间抢宝！  									@魔王宝库预结束广播
+system_prompt_config_52  @魔王宝库活动已结束，请等待下一次宝物秘境开启！  								@魔王宝库结束广播
+system_prompt_config_53  @深渊之门将于10分钟后开启，届时血神殿二层将出现大量首领！  						@深渊之门预开始广播
+system_prompt_config_54  @深渊之门已开启，开启期间内血神殿二层随时可能出现首领，请勇士们抓紧前往！  			@深渊之门开始广播s
+system_prompt_config_55  @深渊之门还有5分钟就要关闭了，关闭后首领会立即消失，请勇士们尽快行动！  				@深渊之门预结束广播
+system_prompt_config_56  @深渊之门已关闭，期待下次开启！  											@深渊之门结束广播
+system_prompt_config_57  @{p=%1$s<%2$s>}挖到{g=%3$s<%4$s>}  								@XXX挖宝获得XXX
+system_prompt_config_58  @{p=%1$s<%2$s>}通过挖宝获得{g=%3$s<%4$s>}  						@XXX通过挖宝获得XXX
+system_prompt_config_59  @{p=%1$s<%2$s>}消灭了{m=%3$s<%4$s>}&&,并爆出了  						@【玩家名字】杀死了【首领名字】,并爆出了【道具名1】【道具名2】【道具名3】
+system_prompt_config_60  @{p=%1$s<%2$s><%3$d>}霸气外露，在竞技场达到了15连胜  						@竞技场15连杀
+system_prompt_config_61  @{p=%1$s<%2$s><%3$d>}击败{p=%4$s<%5$s><%6$d>} 成为竞技场第1名，称霸天梯  	@竞技场 第一名
+system_prompt_config_62  @{p=%1$s<%2$s><%3$d>}连升 %4$d名，成为竞技场的新星  						@竞技场 新星
+system_prompt_config_63  @恭喜{p=%1$s<%2$s><%3$d>}在竞技场脱颖而出，称霸天梯，获得%4$d功勋，金币%5$d，元宝%12$d，绑元%13$d奖励，{p=%6$s<%7$s><%8$d>}和{p=%9$s<%10$s><%11$d>}分获2、3名  	@竞技场 2、3名
+
+system_prompt_config_64  @你对%1%s发起挑战,你胜利了，排名上升到%2%d                                @竞技场
+system_prompt_config_65  @你对%1%s发起挑战,你失败了，排名不变                                                                                                                @竞技场
+system_prompt_config_66  @你对%1%s发起挑战,你胜利了，排名不变                                                                                                                @竞技场
+system_prompt_config_67  @你对%1%s发起挑战,你失败了，排名不变                                                                                                                @竞技场
+system_prompt_config_68  @%1%s对你发起挑战,你胜利了，排名不变                                                                                                                @竞技场
+system_prompt_config_69  @%1%s对你发起挑战,你失败了，排名不变                                                                                                                @竞技场
+system_prompt_config_70  @%1%s对你发起挑战,你胜利了，排名不变                                                                                                                @竞技场
+system_prompt_config_71  @%1%s对你发起挑战,你失败了，排名下降到%2%d                                @竞技场
+
+system_prompt_config_72  @由于背包满，礼包卡奖励改为邮件发送。                               							@礼包卡
+system_prompt_config_73  @您出售的%1$s24小时内无人购买，请在附件中收取物品                              					@拍卖行过期
+system_prompt_config_74  @拍卖行出售物品失败                             											@拍卖行过期
+
+system_prompt_config_75  @由于背包满，打折活动商品改为邮件发送。                             							@天天淘
+system_prompt_config_76  @财神闯关奖励                           												@财神闯关
+system_prompt_config_77  @至尊基金奖励通过邮件发送                       										@遮天基金
+system_prompt_config_78  @活动结束,升级奖励通过邮件发送                     									@升级奖励
+system_prompt_config_79  @由于背包满，神秘商店商品改为邮件发送。                     								@神秘商店
+
+system_prompt_config_80  @您在拍卖行寄卖的%1$s已成功出售，出售价格为%2$d元宝，扣除(出售价格*%3$s四舍五入)元宝的交易税，请在附件处收取元宝。          @拍卖行出售    
+system_prompt_config_81  @拍卖行出售物品成功                             																 @拍卖行出售       											@拍卖行过期
+system_prompt_config_82  @您在拍卖行花费%1$d元宝成功购买了%2$s,请在附件处提取物品。        									     @拍卖行购买   
+system_prompt_config_83  @拍卖行购买物品成功        									    							 @拍卖行购买
+system_prompt_config_84  @您已经成功的在拍卖行取消了对%1$s的出售，请在附件中收取物品        										 @拍卖行取消   
+system_prompt_config_85  @取消拍卖物品成功        									    							     @拍卖行取消
+
+system_prompt_config_86  @由于背包满，神器任务奖励改为邮件发送。                     													 @神器任务
+system_prompt_config_87  @公会报名公会副本成功，请于%1$s准时参加公会副本，夺取极品装备及大量公会贡献        								  @公会副本
+system_prompt_config_88  @消灭公会副本首领礼包奖励        								  								  @公会副本 
+
+system_prompt_config_89  @您所在的公会[%1$s]已解散        								  								  @公会
+system_prompt_config_90  @您已加入公会[%1$s]       								  								  @公会
+system_prompt_config_91  @您被踢出公会[%1$s]       								  								  @公会
+system_prompt_config_92  @您对[%1$s]公会的申请被拒绝      								  								  @公会
+
+system_prompt_config_93  @背包已满，会员抽奖获得的物品已通过邮件发送给您，请查收！   								  			  @会员抽奖
+system_prompt_config_94  @您本次分解装备，获得   								  			 						 @装备分解
+system_prompt_config_95  @由于背包已满，部分开出道具请在邮箱查收   								  			 			 @装备分解
+
+system_prompt_config_96  @武林争霸即将开始，勇士们，请抓紧时间备战！		                          					     @武林争霸
+system_prompt_config_97  @一声锣响，武林争霸已开启！                               														 @武林争霸
+system_prompt_config_98  @武林争霸已结束，此次角逐出的武林至尊是【%1$s】！                           										 @武林争霸
+
+system_prompt_config_99   @限时团购活动已开启，折扣多多，还不快快行动！		                           						 @团购
+system_prompt_config_100  @限时团购活动火热开启中，物美价廉，抢购抢到手软！！                               										 @团购
+system_prompt_config_101  @限时团购活动已结束，下次的优惠更精彩！                          					     					     @团购
+
+system_prompt_config_102  @富豪榜活动已开启，上榜者有丰厚奖励，土豪们还不快快动！                     					     		     	@富豪榜   _ 为分隔符
+system_prompt_config_103  @富豪榜活动已结束，期待下次活动开启！                          					     					     	@富豪榜
+system_prompt_config_104  @富豪榜最终排名                          					     					     				@富豪榜
+system_prompt_config_105  @富豪榜活动已圆满结束！现公布活动结果：_以上玩家奖励均已以邮件形式发放，请注意查收。                        		   		   	@富豪榜
+system_prompt_config_106  @富豪榜（_）奖励_恭喜！您在富豪榜(_)活动中排名第_，活动奖励已附上。                          					 	   	@富豪榜
+system_prompt_config_107  @富豪榜意外中止_富豪榜因为意外原因而中止。                          					     					    @富豪榜
+system_prompt_config_108  @翅膀_坐骑                          					     					  						@富豪榜
+
+
+system_prompt_config_109  @团购成功		                           					                         @团购
+system_prompt_config_110  @恭喜！您之前参与的团购活动已成功，团购商品已附上。                               										 @团购
+system_prompt_config_111  @团购失败                          					     					     					 @团购
+system_prompt_config_112  @您之前参与的团购活动由于参与人数不足而失败，系统已原数退还您的预付款。		                           	 @团购
+system_prompt_config_113  @团购失败                               										 							 @团购
+system_prompt_config_114  @您之前参与的团购活动由于意外原因而失败，系统已原数退还您的预付款。                         					     		 @团购
+system_prompt_config_115  @囚魔殿将于10分钟后开启，届时囚魔殿一层将出现首领！  						@囚魔殿预开始广播
+system_prompt_config_116  @囚魔殿已开启，开启期间内暗囚魔殿一层随时可能出现首领，请勇士们抓紧前往！  			@囚魔殿开始广播s
+system_prompt_config_117  @囚魔殿还有5分钟就要关闭了，关闭后首领会立即消失，请勇士们尽快行动！  				@囚魔殿预结束广播
+system_prompt_config_118  @魔神殿10分钟后开启，请做好准备！                                                             @魔神殿预开始广播
+system_prompt_config_119  @魔神殿已经开启，请前往挑战众魔神，多起丰厚奖励！                                             @魔神殿开始广播
+system_prompt_config_120  @魔神殿将于5分钟后结束，请抓紧时间！                                                          @魔神殿预结束广播
+
+system_prompt_config_121   @圣诞老人感受到了{p=%1$s<%2$s>}的心愿，将{g=%3$s<%4$s>}偷偷的塞进了他的背包里。						@许愿
+system_prompt_config_122   @圣诞老人感受到了%1$s的心愿，将%2$s偷偷的塞进了他的背包里。  	                                                @wish
+system_prompt_config_123   @{p=%1$s<%2$s>}在吹气球时用力过度，炸开的气球中掉出了{g=%3$s<%4$s>}。						@元旦砸金蛋
+system_prompt_config_124   @%1$s在吹气球时用力过度，炸开的气球中掉出了%2$s。  	                                                @元旦砸金蛋
+
+system_prompt_config_125   @群英会将于10分钟后开始，请做好准备！						        @群英会预开始广播
+system_prompt_config_126   @群英会活动已经开始！	                                                                @群英会开始广播
+system_prompt_config_127   @群英会将于5分钟后结束，请抓紧时间！						                @群英会预结束广播
+system_prompt_config_128   @群英会已经结束，会场已关闭，请等待下一次活动！	                                        @群英会结束广播
+
+system_prompt_config_129   @老玩家回归奖励                                                                   @回归邮件标题
+system_prompt_config_130   @亲爱的老玩家您好，欢迎您回归，以下是我们为您精心准备的礼物，请注意查收！         @回归邮件内容
+system_prompt_config_131   @{p=%1$s<%2$s>}申请将姓名修改为{p=%3$s<%4$s>}获得批准从此改头换面。           @改名
+system_prompt_config_132   @{p=%1$s<%2$s>}打开{g=%3$s<%4$s>}&&,获得了  						@【玩家名字】打开【宝箱名字】,得到了【道具名1】【道具名2】【道具名3】
+system_prompt_config_133   @%1$s打开%2$s,获得了  						@【玩家名字】打开【宝箱名字】,获得了【道具名1】,【道具名2】,【道具名3】
+system_prompt_config_134   @你已充值%1$d元宝，还需充值%2$d元宝即可打开礼包。            @ 玩家开充值礼包
+system_prompt_config_135   @限时购好礼            @ 限时购好礼邮件标题
+system_prompt_config_136   @限时购好礼的货物已经送到，请注意查收。            @ 限时购好礼邮件内容
+system_prompt_config_137   @限时购好礼礼包已通过邮件发送，请注意查收。            @ 限时购好礼购买提示
+system_prompt_config_138   @该类礼包每天限制只能打开一个。            @ 玩家开充值礼包
+
+system_prompt_config_139   @首充豪礼活动奖励	            @ 首充豪礼活动邮件标题
+system_prompt_config_140   @感谢您参与首充豪礼活动，获得的奖励已经发送，请注意查收！           @首充豪礼邮件内容
+system_prompt_config_141   @首充豪礼活动奖励已通过邮件发送，请注意查收。            @首充豪礼奖励领取提示
+system_prompt_config_142   @限时消费排行榜！           @限时消费排行
+system_prompt_config_143   @恭喜您在限时消费排行榜活动中取得第%1$s名，以下是您的奖励。            @限时消费排行
+system_prompt_config_144   @王城争霸胜出奖           @公会战会长奖励
+system_prompt_config_145   @恭喜您的公会在王城争霸公会赛中胜出，以下是王城公会会长的奖励。            @公会战会长奖励
+system_prompt_config_146   @超过【%1$s】的最大追击距离，强制返回到出生点！            @BOSS超过追击范围强制拉回
+
+system_prompt_config_147   @{p=%1$s<%2$s>}打开{g=%3$s<%4$s>}&&*%5$s,获得了  						@【玩家名字】打开【宝箱名字】,得到了【道具名1】【道具名2】【道具名3】
+system_prompt_config_148   @%1$s打开%2$s*%3$s,获得了  						@【玩家名字】打开【宝箱名字】,获得了【道具名1】,【道具名2】,【道具名3】
+
+system_prompt_config_149  @VIP到期提醒                                                                                                                                                          @VIP到期邮件标题
+system_prompt_config_150  @亲爱的玩家，您的VIP已经到期，成为VIP可享受免费无限传送特权、属性加成、每日VIP礼包和多倍经验加成等超值福利。@VIP到期邮件内容
+
+system_prompt_config_151  @新服开服的前5天，全服开启双倍爆率活动，赶紧去抢boss吧！								@新服双倍爆率开启
+system_prompt_config_152  @全服双倍爆率活动已结束！  											@双倍爆率结束
+system_prompt_config_153  @合服完成后的前5天，全服开启双倍爆率活动，赶紧去抢boss吧！  								@合服双倍爆率开启

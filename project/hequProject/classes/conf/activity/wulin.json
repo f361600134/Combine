@@ -1,0 +1,33 @@
+{
+   "wulin_1" : {
+      "activityData" : [
+         {
+            "buffRefId" : "buff_wulin_1",
+            "joinItems" : [
+               {
+                  "number" : 100000,
+                  "refId" : "gold"
+               }
+            ],
+            "limitLevel" : 60,
+            "rewardLevel" : "1-10",
+            "signLimit" : 300,
+            "sortboardReward" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_gift_wulin",
+                  "number" : 1
+               }
+            ]
+         }
+      ],
+      "refId" : "wulin_1",
+      "sceneRefId" : "S250",
+      "time" : {
+         "duration" : "6|19:30:00|20:00:00",
+         "preEndTime" : 300,
+         "preStartTime" : 600
+      }
+   }
+}
+

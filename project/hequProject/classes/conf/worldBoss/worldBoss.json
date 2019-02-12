@@ -1,0 +1,4750 @@
+{
+   "boss_1" : {
+      "property" : {
+         "activityRefId" : "",
+         "description" : "有几率掉落50级魂铸套装与以下展示物品：",
+         "iconId" : "Ins_4",
+         "isScrollNotice" : 0,
+         "isTwinkle" : 1,
+         "itemSortId" : 1,
+         "kind" : 0,
+         "monsterRefId" : "monster_20",
+         "refreshTime" : 30,
+         "sceneRefId" : "S032"
+      },
+      "refId" : "boss_1",
+      "sceneTranferIn" : {
+         "sceneTranferInId" : "S032",
+         "tranferInId" : 649
+      },
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_suipian_5",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_ironMedal",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "equip_50_1100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_50_1100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_50_1200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_50_1200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_50_1300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_50_1300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_50_2110",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_50_2120",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_50_2210",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_50_2220",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_50_2310",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_50_2320",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_50_3100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_50_3100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_50_3200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_50_3200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_50_3300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_50_3300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_50_4100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_50_4100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_50_4200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_50_4200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_50_4300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_50_4300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         }
+      ]
+   },
+   "boss_10" : {
+      "property" : {
+         "activityRefId" : "",
+         "description" : "有几率掉落60级堕龙套装与以下展示物品：",
+         "iconId" : "Ins_8",
+         "isScrollNotice" : 0,
+         "isTwinkle" : 1,
+         "itemSortId" : 10,
+         "kind" : 0,
+         "monsterRefId" : "monster_2024",
+         "refreshTime" : 30,
+         "sceneRefId" : "S067"
+      },
+      "refId" : "boss_10",
+      "sceneTranferIn" : {
+         "sceneTranferInId" : "S067",
+         "tranferInId" : 729
+      },
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_suipian_6",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_ironMedal",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "equip_60_1100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_60_1100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_60_1200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_60_1200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_60_1300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_60_1300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_60_2110",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_60_2120",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_60_2210",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_60_2220",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_60_2310",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_60_2320",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_60_3100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_60_3100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_60_3200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_60_3200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_60_3300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_60_3300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_60_4100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_60_4100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_60_4200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_60_4200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_60_4300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_60_4300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         }
+      ]
+   },
+   "boss_11" : {
+      "property" : {
+         "activityRefId" : "",
+         "description" : "有几率掉落70级清辉套装与以下展示物品：",
+         "iconId" : "Ins_1",
+         "isScrollNotice" : 0,
+         "isTwinkle" : 1,
+         "itemSortId" : 11,
+         "kind" : 0,
+         "monsterRefId" : "monster_2030",
+         "refreshTime" : 30,
+         "sceneRefId" : "S067"
+      },
+      "refId" : "boss_11",
+      "sceneTranferIn" : {
+         "sceneTranferInId" : "S067",
+         "tranferInId" : 729
+      },
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_gonghuiling",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_ironMedal",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "equip_70_3100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_70_3100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_70_3200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_70_3200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_70_3300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_70_3300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_70_4100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_70_4100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_70_4200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_70_4200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_70_4300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_70_4300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_70_5100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_70_5100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_70_5200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_70_5200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_70_5300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_70_5300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_70_6100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_70_6100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_70_6200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_70_6200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_70_6300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_70_6300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         }
+      ]
+   },
+   "boss_12" : {
+      "property" : {
+         "activityRefId" : "",
+         "description" : "有几率掉落80级风灵套装与以下展示物品：",
+         "iconId" : "Ins_3",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 12,
+         "kind" : 0,
+         "monsterRefId" : "monster_2041",
+         "refreshTime" : 60,
+         "sceneRefId" : "S067"
+      },
+      "refId" : "boss_12",
+      "sceneTranferIn" : {
+         "sceneTranferInId" : "S067",
+         "tranferInId" : 729
+      },
+      "showItems" : [
+         {
+            "itemRefId" : "item_chibangExp",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_suipian_4",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_copperMedal",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "equip_80_3100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_80_3100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_80_3200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_80_3200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_80_3300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_80_3300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_80_4100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_80_4100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_80_4200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_80_4200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_80_4300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_80_4300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_80_5100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_80_5100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_80_5200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_80_5200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_80_5300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_80_5300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_80_6100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_80_6100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_80_6200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_80_6200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_80_6300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_80_6300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         }
+      ]
+   },
+   "boss_13" : {
+      "property" : {
+         "activityRefId" : "",
+         "description" : "有几率掉落1转星落套装与以下展示物品：",
+         "iconId" : "Ins_2",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 13,
+         "kind" : 0,
+         "monsterRefId" : "monster_2045",
+         "refreshTime" : 60,
+         "sceneRefId" : "S068"
+      },
+      "refId" : "boss_13",
+      "sceneTranferIn" : {
+         "sceneTranferInId" : "S068",
+         "tranferInId" : 733
+      },
+      "showItems" : [
+         {
+            "itemRefId" : "item_shuye",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_chibangExp",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_suipian_9",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_copperMedal",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "equip_90_3100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_90_3100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_90_3200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_90_3200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_90_3300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_90_3300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_90_4100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_90_4100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_90_4200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_90_4200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_90_4300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_90_4300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_90_5100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_90_5100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_90_5200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_90_5200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_90_5300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_90_5300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_90_6100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_90_6100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_90_6200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_90_6200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_90_6300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_90_6300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         }
+      ]
+   },
+   "boss_14" : {
+      "property" : {
+         "activityRefId" : "",
+         "description" : "有几率掉落2转月魄套装与以下展示物品：",
+         "iconId" : "Ins_5",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 14,
+         "kind" : 0,
+         "monsterRefId" : "monster_2053",
+         "refreshTime" : 60,
+         "sceneRefId" : "S068"
+      },
+      "refId" : "boss_14",
+      "sceneTranferIn" : {
+         "sceneTranferInId" : "S068",
+         "tranferInId" : 733
+      },
+      "showItems" : [
+         {
+            "itemRefId" : "item_shuye",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_shenqiExp",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_suipian_1",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_copperMedal",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "equip_100_3100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_100_3100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_100_3200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_100_3200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_100_3300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_100_3300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_100_4100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_100_4100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_100_4200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_100_4200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_100_4300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_100_4300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_100_5100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_100_5100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_100_5200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_100_5200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_100_5300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_100_5300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_100_6100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_100_6100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_100_6200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_100_6200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_100_6300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_100_6300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         }
+      ]
+   },
+   "boss_15" : {
+      "property" : {
+         "activityRefId" : "",
+         "description" : "有几率掉落3转套装、转生技能书与以下展示物品：",
+         "iconId" : "Ins_9",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 15,
+         "kind" : 0,
+         "monsterRefId" : "monster_2034",
+         "refreshTime" : 60,
+         "sceneRefId" : "S069"
+      },
+      "refId" : "boss_15",
+      "sceneTranferIn" : {
+         "sceneTranferInId" : "S069",
+         "tranferInId" : 737
+      },
+      "showItems" : [
+         {
+            "itemRefId" : "item_gongcheng",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_shenqiExp",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_suipian_7",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_silverMedal",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "equip_110_3100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_3100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_3200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_3200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_3300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_3300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_110_4100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_4100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_4200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_4200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_4300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_4300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_110_5100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_5100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_5200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_5200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_5300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_5300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_110_6100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_6100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_6200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_6200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_6300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_6300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         }
+      ]
+   },
+   "boss_16" : {
+      "property" : {
+         "activityRefId" : "",
+         "description" : "有几率掉落4转套装、5转套装与以下展示物品：",
+         "iconId" : "Ins_7",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 16,
+         "kind" : 0,
+         "monsterRefId" : "monster_2056",
+         "refreshTime" : 60,
+         "sceneRefId" : "S069"
+      },
+      "refId" : "boss_16",
+      "sceneTranferIn" : {
+         "sceneTranferInId" : "S069",
+         "tranferInId" : 737
+      },
+      "showItems" : [
+         {
+            "itemRefId" : "item_chibangExp",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_shenqiExp",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_suipian_8",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_goldMedal",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "equip_130_3100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_130_3100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_130_3200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_130_3200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_130_3300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_130_3300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_130_4100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_130_4100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_130_4200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_130_4200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_130_4300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_130_4300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_130_5100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_130_5100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_130_5200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_130_5200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_130_5300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_130_5300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_130_6100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_130_6100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_130_6200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_130_6200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_130_6300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_130_6300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         }
+      ]
+   },
+   "boss_17" : {
+      "property" : {
+         "activityRefId" : "",
+         "description" : "有几率掉落4转、5转套装与以下展示物品：",
+         "iconId" : "Ins_10",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 17,
+         "kind" : 0,
+         "monsterRefId" : "monster_66",
+         "refreshTime" : 90,
+         "sceneRefId" : "S074"
+      },
+      "refId" : "boss_17",
+      "sceneTranferIn" : {
+         "sceneTranferInId" : "S074",
+         "tranferInId" : 765
+      },
+      "showItems" : [
+         {
+            "itemRefId" : "item_skill_zs_52",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_skill_fs_52",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_skill_ds_52",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "equip_110_21101",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_21101",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_21202",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_21202",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_21301",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_21301",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_110_22111",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_22121",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_22211",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_22221",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_22312",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_22322",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_110_26101",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_26101",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_26103",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_26103",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_26301",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_26301",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_50_31100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_50_31100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_50_31200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_50_31200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_50_31300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_50_31300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_120_43100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_120_43100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_120_43200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_120_43200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_120_43300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_120_43300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         }
+      ]
+   },
+   "boss_18" : {
+      "property" : {
+         "activityRefId" : "",
+         "description" : "有几率掉落4转、5转套装与以下展示物品：",
+         "iconId" : "Ins_10",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 18,
+         "kind" : 0,
+         "monsterRefId" : "monster_66_01",
+         "refreshTime" : 90,
+         "sceneRefId" : "S074"
+      },
+      "refId" : "boss_18",
+      "sceneTranferIn" : {
+         "sceneTranferInId" : "S074",
+         "tranferInId" : 765
+      },
+      "showItems" : [
+         {
+            "itemRefId" : "item_skill_zs_52",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_skill_fs_52",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_skill_ds_52",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "equip_110_21101",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_21101",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_21202",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_21202",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_21301",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_21301",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_110_22111",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_22121",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_22211",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_22221",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_22312",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_22322",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_110_26101",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_26101",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_26103",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_26103",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_26301",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_26301",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_50_31100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_50_31100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_50_31200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_50_31200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_50_31300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_50_31300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_120_44100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_120_44100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_120_44200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_120_44200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_120_44300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_120_44300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         }
+      ]
+   },
+   "boss_19" : {
+      "property" : {
+         "activityRefId" : "",
+         "description" : "有几率掉落4转、5转套装与以下展示物品：",
+         "iconId" : "Ins_10",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 19,
+         "kind" : 0,
+         "monsterRefId" : "monster_66",
+         "refreshTime" : 90,
+         "sceneRefId" : "S075"
+      },
+      "refId" : "boss_19",
+      "sceneTranferIn" : {
+         "sceneTranferInId" : "S075",
+         "tranferInId" : 769
+      },
+      "showItems" : [
+         {
+            "itemRefId" : "item_skill_zs_52",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_skill_fs_52",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_skill_ds_52",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "equip_110_21101",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_21101",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_21202",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_21202",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_21301",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_21301",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_110_22111",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_22121",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_22211",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_22221",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_22312",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_22322",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_110_26101",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_26101",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_26103",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_26103",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_26301",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_26301",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_50_31100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_50_31100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_50_31200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_50_31200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_50_31300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_50_31300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_120_45100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_120_45100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_120_45200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_120_45200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_120_45300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_120_45300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         }
+      ]
+   },
+   "boss_2" : {
+      "property" : {
+         "activityRefId" : "",
+         "description" : "有几率掉落60级堕龙套装与以下展示物品：",
+         "iconId" : "Ins_8",
+         "isScrollNotice" : 0,
+         "isTwinkle" : 1,
+         "itemSortId" : 2,
+         "kind" : 0,
+         "monsterRefId" : "monster_24",
+         "refreshTime" : 30,
+         "sceneRefId" : "S034"
+      },
+      "refId" : "boss_2",
+      "sceneTranferIn" : {
+         "sceneTranferInId" : "S034",
+         "tranferInId" : 645
+      },
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_suipian_6",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_ironMedal",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "equip_60_1100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_60_1100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_60_1200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_60_1200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_60_1300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_60_1300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_60_2110",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_60_2120",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_60_2210",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_60_2220",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_60_2310",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_60_2320",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_60_3100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_60_3100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_60_3200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_60_3200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_60_3300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_60_3300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_60_4100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_60_4100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_60_4200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_60_4200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_60_4300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_60_4300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         }
+      ]
+   },
+   "boss_20" : {
+      "property" : {
+         "activityRefId" : "",
+         "description" : "有几率掉落4转、5转套装与以下展示物品：",
+         "iconId" : "Ins_10",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 20,
+         "kind" : 0,
+         "monsterRefId" : "monster_66_01",
+         "refreshTime" : 90,
+         "sceneRefId" : "S075"
+      },
+      "refId" : "boss_20",
+      "sceneTranferIn" : {
+         "sceneTranferInId" : "S075",
+         "tranferInId" : 769
+      },
+      "showItems" : [
+         {
+            "itemRefId" : "item_skill_zs_52",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_skill_fs_52",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_skill_ds_52",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "equip_110_21101",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_21101",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_21202",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_21202",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_21301",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_21301",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_110_22111",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_22121",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_22211",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_22221",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_22312",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_22322",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_110_26101",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_26101",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_26103",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_26103",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_26301",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_26301",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_50_31100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_50_31100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_50_31200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_50_31200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_50_31300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_50_31300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_120_47100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_120_47100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_120_47200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_120_47200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_120_47300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_120_47300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         }
+      ]
+   },
+   "boss_21" : {
+      "property" : {
+         "activityRefId" : "",
+         "description" : "有几率掉落4转、5转套装与以下展示物品：",
+         "iconId" : "Ins_11",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 21,
+         "kind" : 0,
+         "monsterRefId" : "monster_67",
+         "refreshTime" : 90,
+         "sceneRefId" : "S081"
+      },
+      "refId" : "boss_21",
+      "sceneTranferIn" : {
+         "sceneTranferInId" : "S081",
+         "tranferInId" : 777
+      },
+      "showItems" : [
+         {
+            "itemRefId" : "item_skill_zs_52",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_skill_fs_52",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_skill_ds_52",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "equip_110_21101",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_21101",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_21202",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_21202",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_21301",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_21301",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_110_22111",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_22121",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_22211",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_22221",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_22312",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_22322",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_110_26101",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_26101",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_26103",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_26103",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_26301",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_26301",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_50_31100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_50_31100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_50_31200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_50_31200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_50_31300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_50_31300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_120_48100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_120_48100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_120_48200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_120_48200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_120_48300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_120_48300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         }
+      ]
+   },
+   "boss_22" : {
+      "property" : {
+         "activityRefId" : "",
+         "description" : "有几率掉落4转、5转套装与以下展示物品：",
+         "iconId" : "Ins_11",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 22,
+         "kind" : 0,
+         "monsterRefId" : "monster_67",
+         "refreshTime" : 90,
+         "sceneRefId" : "S082"
+      },
+      "refId" : "boss_22",
+      "sceneTranferIn" : {
+         "sceneTranferInId" : "S082",
+         "tranferInId" : 781
+      },
+      "showItems" : [
+         {
+            "itemRefId" : "item_skill_zs_52",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_skill_fs_52",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_skill_ds_52",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "equip_110_21101",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_21101",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_21202",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_21202",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_21301",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_21301",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_110_22111",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_22121",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_22211",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_22221",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_22312",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_22322",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_110_26101",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_26101",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_26103",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_26103",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_26301",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_26301",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_50_31100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_50_31100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_50_31200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_50_31200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_50_31300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_50_31300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_120_43100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_120_43100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_120_43200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_120_43200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_120_43300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_120_43300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         }
+      ]
+   },
+   "boss_23" : {
+      "property" : {
+         "activityRefId" : "",
+         "description" : "有几率掉落4转、5转套装与以下展示物品：",
+         "iconId" : "Ins_11",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 23,
+         "kind" : 0,
+         "monsterRefId" : "monster_67_01",
+         "refreshTime" : 90,
+         "sceneRefId" : "S082"
+      },
+      "refId" : "boss_23",
+      "sceneTranferIn" : {
+         "sceneTranferInId" : "S082",
+         "tranferInId" : 781
+      },
+      "showItems" : [
+         {
+            "itemRefId" : "item_skill_zs_52",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_skill_fs_52",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_skill_ds_52",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "equip_110_21101",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_21101",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_21202",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_21202",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_21301",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_21301",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_110_22111",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_22121",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_22211",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_22221",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_22312",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_22322",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_110_26101",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_26101",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_26103",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_26103",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_26301",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_26301",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_50_31100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_50_31100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_50_31200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_50_31200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_50_31300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_50_31300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_120_44100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_120_44100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_120_44200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_120_44200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_120_44300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_120_44300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         }
+      ]
+   },
+   "boss_24" : {
+      "property" : {
+         "activityRefId" : "",
+         "description" : "有几率掉落4转、5转套装与以下展示物品：",
+         "iconId" : "Ins_11",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 24,
+         "kind" : 0,
+         "monsterRefId" : "monster_67",
+         "refreshTime" : 90,
+         "sceneRefId" : "S083"
+      },
+      "refId" : "boss_24",
+      "sceneTranferIn" : {
+         "sceneTranferInId" : "S083",
+         "tranferInId" : 785
+      },
+      "showItems" : [
+         {
+            "itemRefId" : "item_skill_zs_52",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_skill_fs_52",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_skill_ds_52",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "equip_110_21101",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_21101",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_21202",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_21202",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_21301",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_21301",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_110_22111",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_22121",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_22211",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_22221",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_22312",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_22322",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_110_26101",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_26101",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_26103",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_26103",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_26301",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_26301",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_50_31100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_50_31100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_50_31200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_50_31200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_50_31300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_50_31300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_120_45100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_120_45100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_120_45200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_120_45200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_120_45300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_120_45300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         }
+      ]
+   },
+   "boss_25" : {
+      "property" : {
+         "activityRefId" : "",
+         "description" : "有几率掉落4转、5转套装与以下展示物品：",
+         "iconId" : "Ins_11",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 25,
+         "kind" : 0,
+         "monsterRefId" : "monster_67_01",
+         "refreshTime" : 90,
+         "sceneRefId" : "S083"
+      },
+      "refId" : "boss_25",
+      "sceneTranferIn" : {
+         "sceneTranferInId" : "S083",
+         "tranferInId" : 785
+      },
+      "showItems" : [
+         {
+            "itemRefId" : "item_skill_zs_52",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_skill_fs_52",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_skill_ds_52",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "equip_110_21101",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_21101",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_21202",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_21202",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_21301",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_21301",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_110_22111",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_22121",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_22211",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_22221",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_22312",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_22322",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_110_26101",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_26101",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_26103",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_26103",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_26301",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_26301",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_50_31100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_50_31100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_50_31200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_50_31200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_50_31300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_50_31300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_120_47100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_120_47100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_120_47200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_120_47200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_120_47300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_120_47300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         }
+      ]
+   },
+   "boss_26" : {
+      "property" : {
+         "activityRefId" : "",
+         "description" : "有几率掉落4转、5转套装与以下展示物品：",
+         "iconId" : "Ins_11",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 26,
+         "kind" : 0,
+         "monsterRefId" : "monster_67_02",
+         "refreshTime" : 90,
+         "sceneRefId" : "S083"
+      },
+      "refId" : "boss_26",
+      "sceneTranferIn" : {
+         "sceneTranferInId" : "S083",
+         "tranferInId" : 785
+      },
+      "showItems" : [
+         {
+            "itemRefId" : "item_skill_zs_52",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_skill_fs_52",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_skill_ds_52",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "equip_110_21101",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_21101",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_21202",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_21202",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_21301",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_21301",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_110_22111",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_22121",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_22211",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_22221",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_22312",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_22322",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_110_26101",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_26101",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_26103",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_26103",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_26301",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_26301",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_50_31100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_50_31100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_50_31200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_50_31200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_50_31300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_50_31300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_120_48100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_120_48100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_120_48200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_120_48200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_120_48300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_120_48300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         }
+      ]
+   },
+   "boss_27" : {
+      "property" : {
+         "activityRefId" : "",
+         "description" : "有几率掉落4转、5转套装与以下展示物品：",
+         "iconId" : "Ins_11",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 27,
+         "kind" : 0,
+         "monsterRefId" : "monster_67_03",
+         "refreshTime" : 90,
+         "sceneRefId" : "S083"
+      },
+      "refId" : "boss_27",
+      "sceneTranferIn" : {
+         "sceneTranferInId" : "S083",
+         "tranferInId" : 785
+      },
+      "showItems" : [
+         {
+            "itemRefId" : "item_skill_zs_52",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_skill_fs_52",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_skill_ds_52",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "equip_110_21101",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_21101",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_21202",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_21202",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_21301",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_21301",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_110_22111",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_22121",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_22211",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_22221",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_22312",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_22322",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_110_26101",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_26101",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_26103",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_26103",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_26301",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_26301",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_50_31100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_50_31100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_50_31200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_50_31200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_50_31300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_50_31300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_120_43100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_120_43100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_120_43200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_120_43200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_120_43300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_120_43300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         }
+      ]
+   },
+   "boss_3" : {
+      "property" : {
+         "activityRefId" : "",
+         "description" : "有几率掉落70级清辉套装与以下展示物品：",
+         "iconId" : "Ins_1",
+         "isScrollNotice" : 0,
+         "isTwinkle" : 1,
+         "itemSortId" : 3,
+         "kind" : 0,
+         "monsterRefId" : "monster_30",
+         "refreshTime" : 30,
+         "sceneRefId" : "S036"
+      },
+      "refId" : "boss_3",
+      "sceneTranferIn" : {
+         "sceneTranferInId" : "S036",
+         "tranferInId" : 653
+      },
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_gonghuiling",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_ironMedal",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "equip_70_3100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_70_3100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_70_3200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_70_3200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_70_3300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_70_3300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_70_4100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_70_4100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_70_4200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_70_4200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_70_4300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_70_4300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_70_5100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_70_5100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_70_5200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_70_5200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_70_5300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_70_5300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_70_6100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_70_6100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_70_6200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_70_6200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_70_6300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_70_6300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         }
+      ]
+   },
+   "boss_4" : {
+      "property" : {
+         "activityRefId" : "",
+         "description" : "有几率掉落80级风灵套装与以下展示物品：",
+         "iconId" : "Ins_3",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 4,
+         "kind" : 0,
+         "monsterRefId" : "monster_41",
+         "refreshTime" : 60,
+         "sceneRefId" : "S038"
+      },
+      "refId" : "boss_4",
+      "sceneTranferIn" : {
+         "sceneTranferInId" : "S038",
+         "tranferInId" : 661
+      },
+      "showItems" : [
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_suipian_4",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_copperMedal",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "equip_80_3100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_80_3100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_80_3200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_80_3200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_80_3300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_80_3300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_80_4100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_80_4100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_80_4200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_80_4200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_80_4300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_80_4300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_50_2111",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_50_2121",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_50_2211",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_50_2221",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_50_2311",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_50_2321",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_50_6101",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_50_6101",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_50_6201",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_50_6201",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_50_6301",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_50_6301",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "item_equip_50_1100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "item_equip_50_1101",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "item_equip_50_1200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "item_equip_50_1201",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "item_equip_50_1300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "item_equip_50_1301",
+            "number" : "1",
+            "proffessionRefId" : 6
+         }
+      ]
+   },
+   "boss_5" : {
+      "property" : {
+         "activityRefId" : "",
+         "description" : "有几率掉落1转星落套装与以下展示物品：",
+         "iconId" : "Ins_2",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 5,
+         "kind" : 0,
+         "monsterRefId" : "monster_45",
+         "refreshTime" : 60,
+         "sceneRefId" : "S040"
+      },
+      "refId" : "boss_5",
+      "sceneTranferIn" : {
+         "sceneTranferInId" : "S040",
+         "tranferInId" : 657
+      },
+      "showItems" : [
+         {
+            "itemRefId" : "item_chibangExp",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_suipian_9",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_copperMedal",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "equip_90_3100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_90_3100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_90_3200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_90_3200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_90_3300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_90_3300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_90_4100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_90_4100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_90_4200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_90_4200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_90_4300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_90_4300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_60_1101",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_60_1101",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_60_1201",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_60_1201",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_60_1301",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_60_1301",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "item_equip_50_1100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "item_equip_50_1100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "item_equip_50_1200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "item_equip_50_1200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "item_equip_50_1300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "item_equip_50_1300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_50_2111",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_50_2121",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_50_2212",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_50_2222",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_50_2311",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_50_2321",
+            "number" : "1",
+            "proffessionRefId" : 6
+         }
+      ]
+   },
+   "boss_6" : {
+      "property" : {
+         "activityRefId" : "",
+         "description" : "有几率掉落2转月魄套装与以下展示物品：",
+         "iconId" : "Ins_5",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 6,
+         "kind" : 0,
+         "monsterRefId" : "monster_53",
+         "refreshTime" : 60,
+         "sceneRefId" : "S042"
+      },
+      "refId" : "boss_6",
+      "sceneTranferIn" : {
+         "sceneTranferInId" : "S042",
+         "tranferInId" : 669
+      },
+      "showItems" : [
+         {
+            "itemRefId" : "item_shenqiExp",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_suipian_1",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_copperMedal",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "equip_100_3100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_100_3100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_100_3200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_100_3200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_100_3300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_100_3300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_100_4100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_100_4100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_100_4200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_100_4200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_100_4300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_100_4300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_60_1101",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_60_1101",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_60_1201",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_60_1201",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_60_1301",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_60_1301",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_70_2111",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_70_2121",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_70_2211",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_70_2221",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_70_2312",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_70_2322",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_70_6101",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_70_6101",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_70_6201",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_70_6201",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_70_6301",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_70_6301",
+            "number" : "1",
+            "proffessionRefId" : 6
+         }
+      ]
+   },
+   "boss_7" : {
+      "property" : {
+         "activityRefId" : "",
+         "description" : "有几率掉落3转套装、转生技能书与以下展示物品：",
+         "iconId" : "Ins_9",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 7,
+         "kind" : 0,
+         "monsterRefId" : "monster_34",
+         "refreshTime" : 60,
+         "sceneRefId" : "S046"
+      },
+      "refId" : "boss_7",
+      "sceneTranferIn" : {
+         "sceneTranferInId" : "S046",
+         "tranferInId" : 677
+      },
+      "showItems" : [
+         {
+            "itemRefId" : "item_shenqiExp",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_suipian_7",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_silverMedal",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "equip_110_3100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_3100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_3200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_3200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_3300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_3300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_110_4100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_110_4100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_110_4200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_110_4200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_110_4300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_110_4300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_120_43100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_120_43100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_120_43200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_120_43200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_120_43300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_120_43300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_120_47100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_120_47100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_120_47200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_120_47200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_120_47300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_120_47300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_70_1101",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_70_1101",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_70_1201",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_70_1201",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_70_1301",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_70_1301",
+            "number" : "1",
+            "proffessionRefId" : 6
+         }
+      ]
+   },
+   "boss_8" : {
+      "property" : {
+         "activityRefId" : "",
+         "description" : "有几率掉落4转套装、5转套装与以下展示物品：",
+         "iconId" : "Ins_7",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 8,
+         "kind" : 0,
+         "monsterRefId" : "monster_56",
+         "refreshTime" : 60,
+         "sceneRefId" : "S044"
+      },
+      "refId" : "boss_8",
+      "sceneTranferIn" : {
+         "sceneTranferInId" : "S044",
+         "tranferInId" : 665
+      },
+      "showItems" : [
+         {
+            "itemRefId" : "item_shenqiExp",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_suipian_8",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_goldMedal",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "equip_130_3100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_130_3100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_130_3200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_130_3200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_130_3300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_130_3300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_130_4100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_130_4100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_130_4200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_130_4200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_130_4300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_130_4300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_120_43100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_120_43100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_120_43200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_120_43200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_120_43300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_120_43300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_120_45100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_120_45100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_120_45200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_120_45200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_120_45300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_120_45300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_120_48100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_120_48100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_120_48200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_120_48200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_120_48300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_120_48300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         }
+      ]
+   },
+   "boss_9" : {
+      "property" : {
+         "activityRefId" : "",
+         "description" : "有几率掉落50级魂铸套装与以下展示物品：",
+         "iconId" : "Ins_4",
+         "isScrollNotice" : 0,
+         "isTwinkle" : 1,
+         "itemSortId" : 9,
+         "kind" : 0,
+         "monsterRefId" : "monster_2020",
+         "refreshTime" : 30,
+         "sceneRefId" : "S067"
+      },
+      "refId" : "boss_9",
+      "sceneTranferIn" : {
+         "sceneTranferInId" : "S067",
+         "tranferInId" : 729
+      },
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_suipian_5",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "item_ironMedal",
+            "number" : "1",
+            "proffessionRefId" : 0
+         },
+         {
+            "itemRefId" : "equip_50_1100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_50_1100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_50_1200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_50_1200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_50_1300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_50_1300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_50_2110",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_50_2120",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_50_2210",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_50_2220",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_50_2310",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_50_2320",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_50_3100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_50_3100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_50_3200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_50_3200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_50_3300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_50_3300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         },
+         {
+            "itemRefId" : "equip_50_4100",
+            "number" : "1",
+            "proffessionRefId" : 1
+         },
+         {
+            "itemRefId" : "equip_50_4100",
+            "number" : "1",
+            "proffessionRefId" : 2
+         },
+         {
+            "itemRefId" : "equip_50_4200",
+            "number" : "1",
+            "proffessionRefId" : 3
+         },
+         {
+            "itemRefId" : "equip_50_4200",
+            "number" : "1",
+            "proffessionRefId" : 4
+         },
+         {
+            "itemRefId" : "equip_50_4300",
+            "number" : "1",
+            "proffessionRefId" : 5
+         },
+         {
+            "itemRefId" : "equip_50_4300",
+            "number" : "1",
+            "proffessionRefId" : 6
+         }
+      ]
+   }
+}
+

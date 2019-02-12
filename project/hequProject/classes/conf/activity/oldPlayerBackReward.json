@@ -1,0 +1,282 @@
+{
+   "oldPlayerBackReward" : {
+      "configData" : {
+         "oldPlayerBackReward_1" : {
+            "days" : 7,
+            "level" : 40,
+            "refId" : "oldPlayerBackReward_1",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "bindedGold",
+                  "number" : "3000",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_chibangExp",
+                  "number" : "200",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_zuoqiExp",
+                  "number" : "200",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_vip_1",
+                  "number" : "1",
+                  "proffessionRefId" : 0
+               }
+            ],
+            "switchState" : 0
+         },
+         "oldPlayerBackReward_2" : {
+            "days" : 7,
+            "level" : 81,
+            "refId" : "oldPlayerBackReward_2",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "unbindedGold",
+                  "number" : "1000",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "bindedGold",
+                  "number" : "4000",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_chibangExp",
+                  "number" : "300",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_zuoqiExp",
+                  "number" : "300",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_vip_3",
+                  "number" : "1",
+                  "proffessionRefId" : 0
+               }
+            ],
+            "switchState" : 0
+         },
+         "oldPlayerBackReward_3" : {
+            "days" : 7,
+            "level" : 168,
+            "refId" : "oldPlayerBackReward_3",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "unbindedGold",
+                  "number" : "3000",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "bindedGold",
+                  "number" : "6000",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_chibangExp",
+                  "number" : "400",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_zuoqiExp",
+                  "number" : "400",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_120_48100",
+                  "number" : "1",
+                  "proffessionRefId" : 1
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_120_48100",
+                  "number" : "1",
+                  "proffessionRefId" : 2
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_120_48200",
+                  "number" : "1",
+                  "proffessionRefId" : 3
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_120_48200",
+                  "number" : "1",
+                  "proffessionRefId" : 4
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_120_48300",
+                  "number" : "1",
+                  "proffessionRefId" : 5
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_120_48300",
+                  "number" : "1",
+                  "proffessionRefId" : 6
+               }
+            ],
+            "switchState" : 0
+         },
+         "oldPlayerBackReward_4" : {
+            "days" : 7,
+            "level" : 265,
+            "refId" : "oldPlayerBackReward_4",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "unbindedGold",
+                  "number" : "4000",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "bindedGold",
+                  "number" : "8000",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_chibangExp",
+                  "number" : "500",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_zuoqiExp",
+                  "number" : "500",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_50_31100",
+                  "number" : "1",
+                  "proffessionRefId" : 1
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_50_31100",
+                  "number" : "1",
+                  "proffessionRefId" : 2
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_50_31200",
+                  "number" : "1",
+                  "proffessionRefId" : 3
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_50_31200",
+                  "number" : "1",
+                  "proffessionRefId" : 4
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_50_31300",
+                  "number" : "1",
+                  "proffessionRefId" : 5
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_50_31300",
+                  "number" : "1",
+                  "proffessionRefId" : 6
+               }
+            ],
+            "switchState" : 0
+         },
+         "oldPlayerBackReward_5" : {
+            "days" : 7,
+            "level" : 372,
+            "refId" : "oldPlayerBackReward_5",
+            "rewardItems" : [
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "unbindedGold",
+                  "number" : "5000",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "bindedGold",
+                  "number" : "10000",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_chibangExp",
+                  "number" : "600",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "item_zuoqiExp",
+                  "number" : "600",
+                  "proffessionRefId" : 0
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_130_47100",
+                  "number" : "1",
+                  "proffessionRefId" : 1
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_130_47100",
+                  "number" : "1",
+                  "proffessionRefId" : 2
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_130_47200",
+                  "number" : "1",
+                  "proffessionRefId" : 3
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_130_47200",
+                  "number" : "1",
+                  "proffessionRefId" : 4
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_130_47300",
+                  "number" : "1",
+                  "proffessionRefId" : 5
+               },
+               {
+                  "bindStatus" : "1",
+                  "itemRefId" : "equip_130_47300",
+                  "number" : "1",
+                  "proffessionRefId" : 6
+               }
+            ],
+            "switchState" : 0
+         }
+      },
+      "refId" : "oldPlayerBackReward"
+   }
+}
+

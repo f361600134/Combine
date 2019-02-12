@@ -1,0 +1,33 @@
+{
+   "extend.zpk" : {
+      "refId" : "extend.zpk",
+      "reward" : [
+         {
+            "bindStatus" : "1",
+            "number" : 10,
+            "refId" : "item_qianghuashi"
+         },
+         {
+            "bindStatus" : "1",
+            "number" : 1,
+            "refId" : "item_giftcard"
+         },
+         {
+            "bindStatus" : "1",
+            "number" : 5,
+            "refId" : "item_duihuanquan_1"
+         },
+         {
+            "bindStatus" : "1",
+            "number" : 1,
+            "refId" : "item_suipian"
+         },
+         {
+            "bindStatus" : "1",
+            "number" : 500000,
+            "refId" : "gold"
+         }
+      ]
+   }
+}
+

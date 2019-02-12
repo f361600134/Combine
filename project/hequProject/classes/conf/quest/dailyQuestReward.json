@@ -1,0 +1,3420 @@
+{
+   "dailyQuestReward" : {
+      "basicReward" : {
+         "1" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 30500,
+            "refId" : "1"
+         },
+         "10" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 35000,
+            "refId" : "10"
+         },
+         "100" : {
+            "basicRwardExp" : 53000,
+            "basicRwardGold" : 69000,
+            "refId" : "100"
+         },
+         "101" : {
+            "basicRwardExp" : 55000,
+            "basicRwardGold" : 70000,
+            "refId" : "101"
+         },
+         "102" : {
+            "basicRwardExp" : 57000,
+            "basicRwardGold" : 71000,
+            "refId" : "102"
+         },
+         "103" : {
+            "basicRwardExp" : 59000,
+            "basicRwardGold" : 72000,
+            "refId" : "103"
+         },
+         "104" : {
+            "basicRwardExp" : 61000,
+            "basicRwardGold" : 73000,
+            "refId" : "104"
+         },
+         "105" : {
+            "basicRwardExp" : 63000,
+            "basicRwardGold" : 74000,
+            "refId" : "105"
+         },
+         "106" : {
+            "basicRwardExp" : 65000,
+            "basicRwardGold" : 75000,
+            "refId" : "106"
+         },
+         "107" : {
+            "basicRwardExp" : 67000,
+            "basicRwardGold" : 76000,
+            "refId" : "107"
+         },
+         "108" : {
+            "basicRwardExp" : 69000,
+            "basicRwardGold" : 77000,
+            "refId" : "108"
+         },
+         "109" : {
+            "basicRwardExp" : 71000,
+            "basicRwardGold" : 78000,
+            "refId" : "109"
+         },
+         "11" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 35500,
+            "refId" : "11"
+         },
+         "110" : {
+            "basicRwardExp" : 73000,
+            "basicRwardGold" : 79000,
+            "refId" : "110"
+         },
+         "111" : {
+            "basicRwardExp" : 75000,
+            "basicRwardGold" : 80000,
+            "refId" : "111"
+         },
+         "112" : {
+            "basicRwardExp" : 77000,
+            "basicRwardGold" : 81000,
+            "refId" : "112"
+         },
+         "113" : {
+            "basicRwardExp" : 79000,
+            "basicRwardGold" : 82000,
+            "refId" : "113"
+         },
+         "114" : {
+            "basicRwardExp" : 81000,
+            "basicRwardGold" : 83000,
+            "refId" : "114"
+         },
+         "115" : {
+            "basicRwardExp" : 83000,
+            "basicRwardGold" : 84000,
+            "refId" : "115"
+         },
+         "116" : {
+            "basicRwardExp" : 85000,
+            "basicRwardGold" : 85000,
+            "refId" : "116"
+         },
+         "117" : {
+            "basicRwardExp" : 87000,
+            "basicRwardGold" : 86000,
+            "refId" : "117"
+         },
+         "118" : {
+            "basicRwardExp" : 89000,
+            "basicRwardGold" : 87000,
+            "refId" : "118"
+         },
+         "119" : {
+            "basicRwardExp" : 91000,
+            "basicRwardGold" : 88000,
+            "refId" : "119"
+         },
+         "12" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 36000,
+            "refId" : "12"
+         },
+         "120" : {
+            "basicRwardExp" : 93000,
+            "basicRwardGold" : 89000,
+            "refId" : "120"
+         },
+         "121" : {
+            "basicRwardExp" : 95000,
+            "basicRwardGold" : 90000,
+            "refId" : "121"
+         },
+         "122" : {
+            "basicRwardExp" : 15000,
+            "basicRwardGold" : 50000,
+            "refId" : "122"
+         },
+         "123" : {
+            "basicRwardExp" : 17000,
+            "basicRwardGold" : 51000,
+            "refId" : "123"
+         },
+         "124" : {
+            "basicRwardExp" : 19000,
+            "basicRwardGold" : 52000,
+            "refId" : "124"
+         },
+         "125" : {
+            "basicRwardExp" : 21000,
+            "basicRwardGold" : 53000,
+            "refId" : "125"
+         },
+         "126" : {
+            "basicRwardExp" : 23000,
+            "basicRwardGold" : 54000,
+            "refId" : "126"
+         },
+         "127" : {
+            "basicRwardExp" : 25000,
+            "basicRwardGold" : 55000,
+            "refId" : "127"
+         },
+         "128" : {
+            "basicRwardExp" : 27000,
+            "basicRwardGold" : 56000,
+            "refId" : "128"
+         },
+         "129" : {
+            "basicRwardExp" : 29000,
+            "basicRwardGold" : 57000,
+            "refId" : "129"
+         },
+         "13" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 36500,
+            "refId" : "13"
+         },
+         "130" : {
+            "basicRwardExp" : 31000,
+            "basicRwardGold" : 58000,
+            "refId" : "130"
+         },
+         "131" : {
+            "basicRwardExp" : 33000,
+            "basicRwardGold" : 59000,
+            "refId" : "131"
+         },
+         "132" : {
+            "basicRwardExp" : 35000,
+            "basicRwardGold" : 60000,
+            "refId" : "132"
+         },
+         "133" : {
+            "basicRwardExp" : 37000,
+            "basicRwardGold" : 61000,
+            "refId" : "133"
+         },
+         "134" : {
+            "basicRwardExp" : 39000,
+            "basicRwardGold" : 62000,
+            "refId" : "134"
+         },
+         "135" : {
+            "basicRwardExp" : 41000,
+            "basicRwardGold" : 63000,
+            "refId" : "135"
+         },
+         "136" : {
+            "basicRwardExp" : 43000,
+            "basicRwardGold" : 64000,
+            "refId" : "136"
+         },
+         "137" : {
+            "basicRwardExp" : 45000,
+            "basicRwardGold" : 65000,
+            "refId" : "137"
+         },
+         "138" : {
+            "basicRwardExp" : 47000,
+            "basicRwardGold" : 66000,
+            "refId" : "138"
+         },
+         "139" : {
+            "basicRwardExp" : 49000,
+            "basicRwardGold" : 67000,
+            "refId" : "139"
+         },
+         "14" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 37000,
+            "refId" : "14"
+         },
+         "140" : {
+            "basicRwardExp" : 51000,
+            "basicRwardGold" : 68000,
+            "refId" : "140"
+         },
+         "141" : {
+            "basicRwardExp" : 53000,
+            "basicRwardGold" : 69000,
+            "refId" : "141"
+         },
+         "142" : {
+            "basicRwardExp" : 55000,
+            "basicRwardGold" : 70000,
+            "refId" : "142"
+         },
+         "143" : {
+            "basicRwardExp" : 57000,
+            "basicRwardGold" : 71000,
+            "refId" : "143"
+         },
+         "144" : {
+            "basicRwardExp" : 59000,
+            "basicRwardGold" : 72000,
+            "refId" : "144"
+         },
+         "145" : {
+            "basicRwardExp" : 61000,
+            "basicRwardGold" : 73000,
+            "refId" : "145"
+         },
+         "146" : {
+            "basicRwardExp" : 63000,
+            "basicRwardGold" : 74000,
+            "refId" : "146"
+         },
+         "147" : {
+            "basicRwardExp" : 65000,
+            "basicRwardGold" : 75000,
+            "refId" : "147"
+         },
+         "148" : {
+            "basicRwardExp" : 67000,
+            "basicRwardGold" : 76000,
+            "refId" : "148"
+         },
+         "149" : {
+            "basicRwardExp" : 69000,
+            "basicRwardGold" : 77000,
+            "refId" : "149"
+         },
+         "15" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 37500,
+            "refId" : "15"
+         },
+         "150" : {
+            "basicRwardExp" : 71000,
+            "basicRwardGold" : 78000,
+            "refId" : "150"
+         },
+         "151" : {
+            "basicRwardExp" : 73000,
+            "basicRwardGold" : 79000,
+            "refId" : "151"
+         },
+         "152" : {
+            "basicRwardExp" : 75000,
+            "basicRwardGold" : 80000,
+            "refId" : "152"
+         },
+         "153" : {
+            "basicRwardExp" : 77000,
+            "basicRwardGold" : 81000,
+            "refId" : "153"
+         },
+         "154" : {
+            "basicRwardExp" : 79000,
+            "basicRwardGold" : 82000,
+            "refId" : "154"
+         },
+         "155" : {
+            "basicRwardExp" : 81000,
+            "basicRwardGold" : 83000,
+            "refId" : "155"
+         },
+         "156" : {
+            "basicRwardExp" : 83000,
+            "basicRwardGold" : 84000,
+            "refId" : "156"
+         },
+         "157" : {
+            "basicRwardExp" : 85000,
+            "basicRwardGold" : 85000,
+            "refId" : "157"
+         },
+         "158" : {
+            "basicRwardExp" : 87000,
+            "basicRwardGold" : 86000,
+            "refId" : "158"
+         },
+         "159" : {
+            "basicRwardExp" : 89000,
+            "basicRwardGold" : 87000,
+            "refId" : "159"
+         },
+         "16" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 38000,
+            "refId" : "16"
+         },
+         "160" : {
+            "basicRwardExp" : 91000,
+            "basicRwardGold" : 88000,
+            "refId" : "160"
+         },
+         "161" : {
+            "basicRwardExp" : 93000,
+            "basicRwardGold" : 89000,
+            "refId" : "161"
+         },
+         "162" : {
+            "basicRwardExp" : 95000,
+            "basicRwardGold" : 90000,
+            "refId" : "162"
+         },
+         "163" : {
+            "basicRwardExp" : 97000,
+            "basicRwardGold" : 91000,
+            "refId" : "163"
+         },
+         "164" : {
+            "basicRwardExp" : 99000,
+            "basicRwardGold" : 92000,
+            "refId" : "164"
+         },
+         "165" : {
+            "basicRwardExp" : 101000,
+            "basicRwardGold" : 93000,
+            "refId" : "165"
+         },
+         "166" : {
+            "basicRwardExp" : 103000,
+            "basicRwardGold" : 94000,
+            "refId" : "166"
+         },
+         "167" : {
+            "basicRwardExp" : 105000,
+            "basicRwardGold" : 95000,
+            "refId" : "167"
+         },
+         "168" : {
+            "basicRwardExp" : 15000,
+            "basicRwardGold" : 50000,
+            "refId" : "168"
+         },
+         "169" : {
+            "basicRwardExp" : 17000,
+            "basicRwardGold" : 51000,
+            "refId" : "169"
+         },
+         "17" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 38500,
+            "refId" : "17"
+         },
+         "170" : {
+            "basicRwardExp" : 19000,
+            "basicRwardGold" : 52000,
+            "refId" : "170"
+         },
+         "171" : {
+            "basicRwardExp" : 21000,
+            "basicRwardGold" : 53000,
+            "refId" : "171"
+         },
+         "172" : {
+            "basicRwardExp" : 23000,
+            "basicRwardGold" : 54000,
+            "refId" : "172"
+         },
+         "173" : {
+            "basicRwardExp" : 25000,
+            "basicRwardGold" : 55000,
+            "refId" : "173"
+         },
+         "174" : {
+            "basicRwardExp" : 27000,
+            "basicRwardGold" : 56000,
+            "refId" : "174"
+         },
+         "175" : {
+            "basicRwardExp" : 29000,
+            "basicRwardGold" : 57000,
+            "refId" : "175"
+         },
+         "176" : {
+            "basicRwardExp" : 31000,
+            "basicRwardGold" : 58000,
+            "refId" : "176"
+         },
+         "177" : {
+            "basicRwardExp" : 33000,
+            "basicRwardGold" : 59000,
+            "refId" : "177"
+         },
+         "178" : {
+            "basicRwardExp" : 35000,
+            "basicRwardGold" : 60000,
+            "refId" : "178"
+         },
+         "179" : {
+            "basicRwardExp" : 37000,
+            "basicRwardGold" : 61000,
+            "refId" : "179"
+         },
+         "18" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 39000,
+            "refId" : "18"
+         },
+         "180" : {
+            "basicRwardExp" : 39000,
+            "basicRwardGold" : 62000,
+            "refId" : "180"
+         },
+         "181" : {
+            "basicRwardExp" : 41000,
+            "basicRwardGold" : 63000,
+            "refId" : "181"
+         },
+         "182" : {
+            "basicRwardExp" : 43000,
+            "basicRwardGold" : 64000,
+            "refId" : "182"
+         },
+         "183" : {
+            "basicRwardExp" : 45000,
+            "basicRwardGold" : 65000,
+            "refId" : "183"
+         },
+         "184" : {
+            "basicRwardExp" : 47000,
+            "basicRwardGold" : 66000,
+            "refId" : "184"
+         },
+         "185" : {
+            "basicRwardExp" : 49000,
+            "basicRwardGold" : 67000,
+            "refId" : "185"
+         },
+         "186" : {
+            "basicRwardExp" : 51000,
+            "basicRwardGold" : 68000,
+            "refId" : "186"
+         },
+         "187" : {
+            "basicRwardExp" : 53000,
+            "basicRwardGold" : 69000,
+            "refId" : "187"
+         },
+         "188" : {
+            "basicRwardExp" : 55000,
+            "basicRwardGold" : 70000,
+            "refId" : "188"
+         },
+         "189" : {
+            "basicRwardExp" : 57000,
+            "basicRwardGold" : 71000,
+            "refId" : "189"
+         },
+         "19" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 39500,
+            "refId" : "19"
+         },
+         "190" : {
+            "basicRwardExp" : 59000,
+            "basicRwardGold" : 72000,
+            "refId" : "190"
+         },
+         "191" : {
+            "basicRwardExp" : 61000,
+            "basicRwardGold" : 73000,
+            "refId" : "191"
+         },
+         "192" : {
+            "basicRwardExp" : 63000,
+            "basicRwardGold" : 74000,
+            "refId" : "192"
+         },
+         "193" : {
+            "basicRwardExp" : 65000,
+            "basicRwardGold" : 75000,
+            "refId" : "193"
+         },
+         "194" : {
+            "basicRwardExp" : 67000,
+            "basicRwardGold" : 76000,
+            "refId" : "194"
+         },
+         "195" : {
+            "basicRwardExp" : 69000,
+            "basicRwardGold" : 77000,
+            "refId" : "195"
+         },
+         "196" : {
+            "basicRwardExp" : 71000,
+            "basicRwardGold" : 78000,
+            "refId" : "196"
+         },
+         "197" : {
+            "basicRwardExp" : 73000,
+            "basicRwardGold" : 79000,
+            "refId" : "197"
+         },
+         "198" : {
+            "basicRwardExp" : 75000,
+            "basicRwardGold" : 80000,
+            "refId" : "198"
+         },
+         "199" : {
+            "basicRwardExp" : 77000,
+            "basicRwardGold" : 81000,
+            "refId" : "199"
+         },
+         "2" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 31000,
+            "refId" : "2"
+         },
+         "20" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 40000,
+            "refId" : "20"
+         },
+         "200" : {
+            "basicRwardExp" : 79000,
+            "basicRwardGold" : 82000,
+            "refId" : "200"
+         },
+         "201" : {
+            "basicRwardExp" : 81000,
+            "basicRwardGold" : 83000,
+            "refId" : "201"
+         },
+         "202" : {
+            "basicRwardExp" : 83000,
+            "basicRwardGold" : 84000,
+            "refId" : "202"
+         },
+         "203" : {
+            "basicRwardExp" : 85000,
+            "basicRwardGold" : 85000,
+            "refId" : "203"
+         },
+         "204" : {
+            "basicRwardExp" : 87000,
+            "basicRwardGold" : 86000,
+            "refId" : "204"
+         },
+         "205" : {
+            "basicRwardExp" : 89000,
+            "basicRwardGold" : 87000,
+            "refId" : "205"
+         },
+         "206" : {
+            "basicRwardExp" : 91000,
+            "basicRwardGold" : 88000,
+            "refId" : "206"
+         },
+         "207" : {
+            "basicRwardExp" : 93000,
+            "basicRwardGold" : 89000,
+            "refId" : "207"
+         },
+         "208" : {
+            "basicRwardExp" : 95000,
+            "basicRwardGold" : 90000,
+            "refId" : "208"
+         },
+         "209" : {
+            "basicRwardExp" : 97000,
+            "basicRwardGold" : 91000,
+            "refId" : "209"
+         },
+         "21" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 40500,
+            "refId" : "21"
+         },
+         "210" : {
+            "basicRwardExp" : 99000,
+            "basicRwardGold" : 92000,
+            "refId" : "210"
+         },
+         "211" : {
+            "basicRwardExp" : 101000,
+            "basicRwardGold" : 93000,
+            "refId" : "211"
+         },
+         "212" : {
+            "basicRwardExp" : 103000,
+            "basicRwardGold" : 94000,
+            "refId" : "212"
+         },
+         "213" : {
+            "basicRwardExp" : 105000,
+            "basicRwardGold" : 95000,
+            "refId" : "213"
+         },
+         "214" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 50000,
+            "refId" : "214"
+         },
+         "215" : {
+            "basicRwardExp" : 11000,
+            "basicRwardGold" : 51000,
+            "refId" : "215"
+         },
+         "216" : {
+            "basicRwardExp" : 12000,
+            "basicRwardGold" : 52000,
+            "refId" : "216"
+         },
+         "217" : {
+            "basicRwardExp" : 13000,
+            "basicRwardGold" : 53000,
+            "refId" : "217"
+         },
+         "218" : {
+            "basicRwardExp" : 14000,
+            "basicRwardGold" : 54000,
+            "refId" : "218"
+         },
+         "219" : {
+            "basicRwardExp" : 15000,
+            "basicRwardGold" : 55000,
+            "refId" : "219"
+         },
+         "22" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 41000,
+            "refId" : "22"
+         },
+         "220" : {
+            "basicRwardExp" : 16000,
+            "basicRwardGold" : 56000,
+            "refId" : "220"
+         },
+         "221" : {
+            "basicRwardExp" : 17000,
+            "basicRwardGold" : 57000,
+            "refId" : "221"
+         },
+         "222" : {
+            "basicRwardExp" : 18000,
+            "basicRwardGold" : 58000,
+            "refId" : "222"
+         },
+         "223" : {
+            "basicRwardExp" : 19000,
+            "basicRwardGold" : 59000,
+            "refId" : "223"
+         },
+         "224" : {
+            "basicRwardExp" : 20000,
+            "basicRwardGold" : 60000,
+            "refId" : "224"
+         },
+         "225" : {
+            "basicRwardExp" : 21000,
+            "basicRwardGold" : 61000,
+            "refId" : "225"
+         },
+         "226" : {
+            "basicRwardExp" : 22000,
+            "basicRwardGold" : 62000,
+            "refId" : "226"
+         },
+         "227" : {
+            "basicRwardExp" : 23000,
+            "basicRwardGold" : 63000,
+            "refId" : "227"
+         },
+         "228" : {
+            "basicRwardExp" : 24000,
+            "basicRwardGold" : 64000,
+            "refId" : "228"
+         },
+         "229" : {
+            "basicRwardExp" : 25000,
+            "basicRwardGold" : 65000,
+            "refId" : "229"
+         },
+         "23" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 41500,
+            "refId" : "23"
+         },
+         "230" : {
+            "basicRwardExp" : 26000,
+            "basicRwardGold" : 66000,
+            "refId" : "230"
+         },
+         "231" : {
+            "basicRwardExp" : 27000,
+            "basicRwardGold" : 67000,
+            "refId" : "231"
+         },
+         "232" : {
+            "basicRwardExp" : 28000,
+            "basicRwardGold" : 68000,
+            "refId" : "232"
+         },
+         "233" : {
+            "basicRwardExp" : 29000,
+            "basicRwardGold" : 69000,
+            "refId" : "233"
+         },
+         "234" : {
+            "basicRwardExp" : 30000,
+            "basicRwardGold" : 70000,
+            "refId" : "234"
+         },
+         "235" : {
+            "basicRwardExp" : 31000,
+            "basicRwardGold" : 71000,
+            "refId" : "235"
+         },
+         "236" : {
+            "basicRwardExp" : 32000,
+            "basicRwardGold" : 72000,
+            "refId" : "236"
+         },
+         "237" : {
+            "basicRwardExp" : 33000,
+            "basicRwardGold" : 73000,
+            "refId" : "237"
+         },
+         "238" : {
+            "basicRwardExp" : 34000,
+            "basicRwardGold" : 74000,
+            "refId" : "238"
+         },
+         "239" : {
+            "basicRwardExp" : 35000,
+            "basicRwardGold" : 75000,
+            "refId" : "239"
+         },
+         "24" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 42000,
+            "refId" : "24"
+         },
+         "240" : {
+            "basicRwardExp" : 36000,
+            "basicRwardGold" : 76000,
+            "refId" : "240"
+         },
+         "241" : {
+            "basicRwardExp" : 37000,
+            "basicRwardGold" : 77000,
+            "refId" : "241"
+         },
+         "242" : {
+            "basicRwardExp" : 38000,
+            "basicRwardGold" : 78000,
+            "refId" : "242"
+         },
+         "243" : {
+            "basicRwardExp" : 39000,
+            "basicRwardGold" : 79000,
+            "refId" : "243"
+         },
+         "244" : {
+            "basicRwardExp" : 40000,
+            "basicRwardGold" : 80000,
+            "refId" : "244"
+         },
+         "245" : {
+            "basicRwardExp" : 41000,
+            "basicRwardGold" : 81000,
+            "refId" : "245"
+         },
+         "246" : {
+            "basicRwardExp" : 42000,
+            "basicRwardGold" : 82000,
+            "refId" : "246"
+         },
+         "247" : {
+            "basicRwardExp" : 43000,
+            "basicRwardGold" : 83000,
+            "refId" : "247"
+         },
+         "248" : {
+            "basicRwardExp" : 44000,
+            "basicRwardGold" : 84000,
+            "refId" : "248"
+         },
+         "249" : {
+            "basicRwardExp" : 45000,
+            "basicRwardGold" : 85000,
+            "refId" : "249"
+         },
+         "25" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 42500,
+            "refId" : "25"
+         },
+         "250" : {
+            "basicRwardExp" : 46000,
+            "basicRwardGold" : 86000,
+            "refId" : "250"
+         },
+         "251" : {
+            "basicRwardExp" : 47000,
+            "basicRwardGold" : 87000,
+            "refId" : "251"
+         },
+         "252" : {
+            "basicRwardExp" : 48000,
+            "basicRwardGold" : 88000,
+            "refId" : "252"
+         },
+         "253" : {
+            "basicRwardExp" : 49000,
+            "basicRwardGold" : 89000,
+            "refId" : "253"
+         },
+         "254" : {
+            "basicRwardExp" : 50000,
+            "basicRwardGold" : 90000,
+            "refId" : "254"
+         },
+         "255" : {
+            "basicRwardExp" : 51000,
+            "basicRwardGold" : 91000,
+            "refId" : "255"
+         },
+         "256" : {
+            "basicRwardExp" : 52000,
+            "basicRwardGold" : 92000,
+            "refId" : "256"
+         },
+         "257" : {
+            "basicRwardExp" : 53000,
+            "basicRwardGold" : 93000,
+            "refId" : "257"
+         },
+         "258" : {
+            "basicRwardExp" : 54000,
+            "basicRwardGold" : 94000,
+            "refId" : "258"
+         },
+         "259" : {
+            "basicRwardExp" : 55000,
+            "basicRwardGold" : 95000,
+            "refId" : "259"
+         },
+         "26" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 43000,
+            "refId" : "26"
+         },
+         "260" : {
+            "basicRwardExp" : 56000,
+            "basicRwardGold" : 96000,
+            "refId" : "260"
+         },
+         "261" : {
+            "basicRwardExp" : 57000,
+            "basicRwardGold" : 97000,
+            "refId" : "261"
+         },
+         "262" : {
+            "basicRwardExp" : 58000,
+            "basicRwardGold" : 98000,
+            "refId" : "262"
+         },
+         "263" : {
+            "basicRwardExp" : 59000,
+            "basicRwardGold" : 99000,
+            "refId" : "263"
+         },
+         "264" : {
+            "basicRwardExp" : 60000,
+            "basicRwardGold" : 100000,
+            "refId" : "264"
+         },
+         "265" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 50000,
+            "refId" : "265"
+         },
+         "266" : {
+            "basicRwardExp" : 11000,
+            "basicRwardGold" : 51000,
+            "refId" : "266"
+         },
+         "267" : {
+            "basicRwardExp" : 12000,
+            "basicRwardGold" : 52000,
+            "refId" : "267"
+         },
+         "268" : {
+            "basicRwardExp" : 13000,
+            "basicRwardGold" : 53000,
+            "refId" : "268"
+         },
+         "269" : {
+            "basicRwardExp" : 14000,
+            "basicRwardGold" : 54000,
+            "refId" : "269"
+         },
+         "27" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 43500,
+            "refId" : "27"
+         },
+         "270" : {
+            "basicRwardExp" : 15000,
+            "basicRwardGold" : 55000,
+            "refId" : "270"
+         },
+         "271" : {
+            "basicRwardExp" : 16000,
+            "basicRwardGold" : 56000,
+            "refId" : "271"
+         },
+         "272" : {
+            "basicRwardExp" : 17000,
+            "basicRwardGold" : 57000,
+            "refId" : "272"
+         },
+         "273" : {
+            "basicRwardExp" : 18000,
+            "basicRwardGold" : 58000,
+            "refId" : "273"
+         },
+         "274" : {
+            "basicRwardExp" : 19000,
+            "basicRwardGold" : 59000,
+            "refId" : "274"
+         },
+         "275" : {
+            "basicRwardExp" : 20000,
+            "basicRwardGold" : 60000,
+            "refId" : "275"
+         },
+         "276" : {
+            "basicRwardExp" : 21000,
+            "basicRwardGold" : 61000,
+            "refId" : "276"
+         },
+         "277" : {
+            "basicRwardExp" : 22000,
+            "basicRwardGold" : 62000,
+            "refId" : "277"
+         },
+         "278" : {
+            "basicRwardExp" : 23000,
+            "basicRwardGold" : 63000,
+            "refId" : "278"
+         },
+         "279" : {
+            "basicRwardExp" : 24000,
+            "basicRwardGold" : 64000,
+            "refId" : "279"
+         },
+         "28" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 44000,
+            "refId" : "28"
+         },
+         "280" : {
+            "basicRwardExp" : 25000,
+            "basicRwardGold" : 65000,
+            "refId" : "280"
+         },
+         "281" : {
+            "basicRwardExp" : 26000,
+            "basicRwardGold" : 66000,
+            "refId" : "281"
+         },
+         "282" : {
+            "basicRwardExp" : 27000,
+            "basicRwardGold" : 67000,
+            "refId" : "282"
+         },
+         "283" : {
+            "basicRwardExp" : 28000,
+            "basicRwardGold" : 68000,
+            "refId" : "283"
+         },
+         "284" : {
+            "basicRwardExp" : 29000,
+            "basicRwardGold" : 69000,
+            "refId" : "284"
+         },
+         "285" : {
+            "basicRwardExp" : 30000,
+            "basicRwardGold" : 70000,
+            "refId" : "285"
+         },
+         "286" : {
+            "basicRwardExp" : 31000,
+            "basicRwardGold" : 71000,
+            "refId" : "286"
+         },
+         "287" : {
+            "basicRwardExp" : 32000,
+            "basicRwardGold" : 72000,
+            "refId" : "287"
+         },
+         "288" : {
+            "basicRwardExp" : 33000,
+            "basicRwardGold" : 73000,
+            "refId" : "288"
+         },
+         "289" : {
+            "basicRwardExp" : 34000,
+            "basicRwardGold" : 74000,
+            "refId" : "289"
+         },
+         "29" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 44500,
+            "refId" : "29"
+         },
+         "290" : {
+            "basicRwardExp" : 35000,
+            "basicRwardGold" : 75000,
+            "refId" : "290"
+         },
+         "291" : {
+            "basicRwardExp" : 36000,
+            "basicRwardGold" : 76000,
+            "refId" : "291"
+         },
+         "292" : {
+            "basicRwardExp" : 37000,
+            "basicRwardGold" : 77000,
+            "refId" : "292"
+         },
+         "293" : {
+            "basicRwardExp" : 38000,
+            "basicRwardGold" : 78000,
+            "refId" : "293"
+         },
+         "294" : {
+            "basicRwardExp" : 39000,
+            "basicRwardGold" : 79000,
+            "refId" : "294"
+         },
+         "295" : {
+            "basicRwardExp" : 40000,
+            "basicRwardGold" : 80000,
+            "refId" : "295"
+         },
+         "296" : {
+            "basicRwardExp" : 41000,
+            "basicRwardGold" : 81000,
+            "refId" : "296"
+         },
+         "297" : {
+            "basicRwardExp" : 42000,
+            "basicRwardGold" : 82000,
+            "refId" : "297"
+         },
+         "298" : {
+            "basicRwardExp" : 43000,
+            "basicRwardGold" : 83000,
+            "refId" : "298"
+         },
+         "299" : {
+            "basicRwardExp" : 44000,
+            "basicRwardGold" : 84000,
+            "refId" : "299"
+         },
+         "3" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 31500,
+            "refId" : "3"
+         },
+         "30" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 45000,
+            "refId" : "30"
+         },
+         "300" : {
+            "basicRwardExp" : 45000,
+            "basicRwardGold" : 85000,
+            "refId" : "300"
+         },
+         "301" : {
+            "basicRwardExp" : 46000,
+            "basicRwardGold" : 86000,
+            "refId" : "301"
+         },
+         "302" : {
+            "basicRwardExp" : 47000,
+            "basicRwardGold" : 87000,
+            "refId" : "302"
+         },
+         "303" : {
+            "basicRwardExp" : 48000,
+            "basicRwardGold" : 88000,
+            "refId" : "303"
+         },
+         "304" : {
+            "basicRwardExp" : 49000,
+            "basicRwardGold" : 89000,
+            "refId" : "304"
+         },
+         "305" : {
+            "basicRwardExp" : 50000,
+            "basicRwardGold" : 90000,
+            "refId" : "305"
+         },
+         "306" : {
+            "basicRwardExp" : 51000,
+            "basicRwardGold" : 91000,
+            "refId" : "306"
+         },
+         "307" : {
+            "basicRwardExp" : 52000,
+            "basicRwardGold" : 92000,
+            "refId" : "307"
+         },
+         "308" : {
+            "basicRwardExp" : 53000,
+            "basicRwardGold" : 93000,
+            "refId" : "308"
+         },
+         "309" : {
+            "basicRwardExp" : 54000,
+            "basicRwardGold" : 94000,
+            "refId" : "309"
+         },
+         "31" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 45500,
+            "refId" : "31"
+         },
+         "310" : {
+            "basicRwardExp" : 55000,
+            "basicRwardGold" : 95000,
+            "refId" : "310"
+         },
+         "311" : {
+            "basicRwardExp" : 56000,
+            "basicRwardGold" : 96000,
+            "refId" : "311"
+         },
+         "312" : {
+            "basicRwardExp" : 57000,
+            "basicRwardGold" : 97000,
+            "refId" : "312"
+         },
+         "313" : {
+            "basicRwardExp" : 58000,
+            "basicRwardGold" : 98000,
+            "refId" : "313"
+         },
+         "314" : {
+            "basicRwardExp" : 59000,
+            "basicRwardGold" : 99000,
+            "refId" : "314"
+         },
+         "315" : {
+            "basicRwardExp" : 60000,
+            "basicRwardGold" : 100000,
+            "refId" : "315"
+         },
+         "316" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 50000,
+            "refId" : "316"
+         },
+         "317" : {
+            "basicRwardExp" : 11000,
+            "basicRwardGold" : 51000,
+            "refId" : "317"
+         },
+         "318" : {
+            "basicRwardExp" : 12000,
+            "basicRwardGold" : 52000,
+            "refId" : "318"
+         },
+         "319" : {
+            "basicRwardExp" : 13000,
+            "basicRwardGold" : 53000,
+            "refId" : "319"
+         },
+         "32" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 46000,
+            "refId" : "32"
+         },
+         "320" : {
+            "basicRwardExp" : 14000,
+            "basicRwardGold" : 54000,
+            "refId" : "320"
+         },
+         "321" : {
+            "basicRwardExp" : 15000,
+            "basicRwardGold" : 55000,
+            "refId" : "321"
+         },
+         "322" : {
+            "basicRwardExp" : 16000,
+            "basicRwardGold" : 56000,
+            "refId" : "322"
+         },
+         "323" : {
+            "basicRwardExp" : 17000,
+            "basicRwardGold" : 57000,
+            "refId" : "323"
+         },
+         "324" : {
+            "basicRwardExp" : 18000,
+            "basicRwardGold" : 58000,
+            "refId" : "324"
+         },
+         "325" : {
+            "basicRwardExp" : 19000,
+            "basicRwardGold" : 59000,
+            "refId" : "325"
+         },
+         "326" : {
+            "basicRwardExp" : 20000,
+            "basicRwardGold" : 60000,
+            "refId" : "326"
+         },
+         "327" : {
+            "basicRwardExp" : 21000,
+            "basicRwardGold" : 61000,
+            "refId" : "327"
+         },
+         "328" : {
+            "basicRwardExp" : 22000,
+            "basicRwardGold" : 62000,
+            "refId" : "328"
+         },
+         "329" : {
+            "basicRwardExp" : 23000,
+            "basicRwardGold" : 63000,
+            "refId" : "329"
+         },
+         "33" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 46500,
+            "refId" : "33"
+         },
+         "330" : {
+            "basicRwardExp" : 24000,
+            "basicRwardGold" : 64000,
+            "refId" : "330"
+         },
+         "331" : {
+            "basicRwardExp" : 25000,
+            "basicRwardGold" : 65000,
+            "refId" : "331"
+         },
+         "332" : {
+            "basicRwardExp" : 26000,
+            "basicRwardGold" : 66000,
+            "refId" : "332"
+         },
+         "333" : {
+            "basicRwardExp" : 27000,
+            "basicRwardGold" : 67000,
+            "refId" : "333"
+         },
+         "334" : {
+            "basicRwardExp" : 28000,
+            "basicRwardGold" : 68000,
+            "refId" : "334"
+         },
+         "335" : {
+            "basicRwardExp" : 29000,
+            "basicRwardGold" : 69000,
+            "refId" : "335"
+         },
+         "336" : {
+            "basicRwardExp" : 30000,
+            "basicRwardGold" : 70000,
+            "refId" : "336"
+         },
+         "337" : {
+            "basicRwardExp" : 31000,
+            "basicRwardGold" : 71000,
+            "refId" : "337"
+         },
+         "338" : {
+            "basicRwardExp" : 32000,
+            "basicRwardGold" : 72000,
+            "refId" : "338"
+         },
+         "339" : {
+            "basicRwardExp" : 33000,
+            "basicRwardGold" : 73000,
+            "refId" : "339"
+         },
+         "34" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 47000,
+            "refId" : "34"
+         },
+         "340" : {
+            "basicRwardExp" : 34000,
+            "basicRwardGold" : 74000,
+            "refId" : "340"
+         },
+         "341" : {
+            "basicRwardExp" : 35000,
+            "basicRwardGold" : 75000,
+            "refId" : "341"
+         },
+         "342" : {
+            "basicRwardExp" : 36000,
+            "basicRwardGold" : 76000,
+            "refId" : "342"
+         },
+         "343" : {
+            "basicRwardExp" : 37000,
+            "basicRwardGold" : 77000,
+            "refId" : "343"
+         },
+         "344" : {
+            "basicRwardExp" : 38000,
+            "basicRwardGold" : 78000,
+            "refId" : "344"
+         },
+         "345" : {
+            "basicRwardExp" : 39000,
+            "basicRwardGold" : 79000,
+            "refId" : "345"
+         },
+         "346" : {
+            "basicRwardExp" : 40000,
+            "basicRwardGold" : 80000,
+            "refId" : "346"
+         },
+         "347" : {
+            "basicRwardExp" : 41000,
+            "basicRwardGold" : 81000,
+            "refId" : "347"
+         },
+         "348" : {
+            "basicRwardExp" : 42000,
+            "basicRwardGold" : 82000,
+            "refId" : "348"
+         },
+         "349" : {
+            "basicRwardExp" : 43000,
+            "basicRwardGold" : 83000,
+            "refId" : "349"
+         },
+         "35" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 47500,
+            "refId" : "35"
+         },
+         "350" : {
+            "basicRwardExp" : 44000,
+            "basicRwardGold" : 84000,
+            "refId" : "350"
+         },
+         "351" : {
+            "basicRwardExp" : 45000,
+            "basicRwardGold" : 85000,
+            "refId" : "351"
+         },
+         "352" : {
+            "basicRwardExp" : 46000,
+            "basicRwardGold" : 86000,
+            "refId" : "352"
+         },
+         "353" : {
+            "basicRwardExp" : 47000,
+            "basicRwardGold" : 87000,
+            "refId" : "353"
+         },
+         "354" : {
+            "basicRwardExp" : 48000,
+            "basicRwardGold" : 88000,
+            "refId" : "354"
+         },
+         "355" : {
+            "basicRwardExp" : 49000,
+            "basicRwardGold" : 89000,
+            "refId" : "355"
+         },
+         "356" : {
+            "basicRwardExp" : 50000,
+            "basicRwardGold" : 90000,
+            "refId" : "356"
+         },
+         "357" : {
+            "basicRwardExp" : 51000,
+            "basicRwardGold" : 91000,
+            "refId" : "357"
+         },
+         "358" : {
+            "basicRwardExp" : 52000,
+            "basicRwardGold" : 92000,
+            "refId" : "358"
+         },
+         "359" : {
+            "basicRwardExp" : 53000,
+            "basicRwardGold" : 93000,
+            "refId" : "359"
+         },
+         "36" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 48000,
+            "refId" : "36"
+         },
+         "360" : {
+            "basicRwardExp" : 54000,
+            "basicRwardGold" : 94000,
+            "refId" : "360"
+         },
+         "361" : {
+            "basicRwardExp" : 55000,
+            "basicRwardGold" : 95000,
+            "refId" : "361"
+         },
+         "362" : {
+            "basicRwardExp" : 56000,
+            "basicRwardGold" : 96000,
+            "refId" : "362"
+         },
+         "363" : {
+            "basicRwardExp" : 57000,
+            "basicRwardGold" : 97000,
+            "refId" : "363"
+         },
+         "364" : {
+            "basicRwardExp" : 58000,
+            "basicRwardGold" : 98000,
+            "refId" : "364"
+         },
+         "365" : {
+            "basicRwardExp" : 59000,
+            "basicRwardGold" : 99000,
+            "refId" : "365"
+         },
+         "366" : {
+            "basicRwardExp" : 60000,
+            "basicRwardGold" : 100000,
+            "refId" : "366"
+         },
+         "367" : {
+            "basicRwardExp" : 61000,
+            "basicRwardGold" : 101000,
+            "refId" : "367"
+         },
+         "368" : {
+            "basicRwardExp" : 62000,
+            "basicRwardGold" : 102000,
+            "refId" : "368"
+         },
+         "369" : {
+            "basicRwardExp" : 63000,
+            "basicRwardGold" : 103000,
+            "refId" : "369"
+         },
+         "37" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 48500,
+            "refId" : "37"
+         },
+         "370" : {
+            "basicRwardExp" : 64000,
+            "basicRwardGold" : 104000,
+            "refId" : "370"
+         },
+         "371" : {
+            "basicRwardExp" : 65000,
+            "basicRwardGold" : 105000,
+            "refId" : "371"
+         },
+         "372" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 50000,
+            "refId" : "372"
+         },
+         "373" : {
+            "basicRwardExp" : 11000,
+            "basicRwardGold" : 51000,
+            "refId" : "373"
+         },
+         "374" : {
+            "basicRwardExp" : 12000,
+            "basicRwardGold" : 52000,
+            "refId" : "374"
+         },
+         "375" : {
+            "basicRwardExp" : 13000,
+            "basicRwardGold" : 53000,
+            "refId" : "375"
+         },
+         "376" : {
+            "basicRwardExp" : 14000,
+            "basicRwardGold" : 54000,
+            "refId" : "376"
+         },
+         "377" : {
+            "basicRwardExp" : 15000,
+            "basicRwardGold" : 55000,
+            "refId" : "377"
+         },
+         "378" : {
+            "basicRwardExp" : 16000,
+            "basicRwardGold" : 56000,
+            "refId" : "378"
+         },
+         "379" : {
+            "basicRwardExp" : 17000,
+            "basicRwardGold" : 57000,
+            "refId" : "379"
+         },
+         "38" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 49000,
+            "refId" : "38"
+         },
+         "380" : {
+            "basicRwardExp" : 18000,
+            "basicRwardGold" : 58000,
+            "refId" : "380"
+         },
+         "381" : {
+            "basicRwardExp" : 19000,
+            "basicRwardGold" : 59000,
+            "refId" : "381"
+         },
+         "382" : {
+            "basicRwardExp" : 20000,
+            "basicRwardGold" : 60000,
+            "refId" : "382"
+         },
+         "383" : {
+            "basicRwardExp" : 21000,
+            "basicRwardGold" : 61000,
+            "refId" : "383"
+         },
+         "384" : {
+            "basicRwardExp" : 22000,
+            "basicRwardGold" : 62000,
+            "refId" : "384"
+         },
+         "385" : {
+            "basicRwardExp" : 23000,
+            "basicRwardGold" : 63000,
+            "refId" : "385"
+         },
+         "386" : {
+            "basicRwardExp" : 24000,
+            "basicRwardGold" : 64000,
+            "refId" : "386"
+         },
+         "387" : {
+            "basicRwardExp" : 25000,
+            "basicRwardGold" : 65000,
+            "refId" : "387"
+         },
+         "388" : {
+            "basicRwardExp" : 26000,
+            "basicRwardGold" : 66000,
+            "refId" : "388"
+         },
+         "389" : {
+            "basicRwardExp" : 27000,
+            "basicRwardGold" : 67000,
+            "refId" : "389"
+         },
+         "39" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 49500,
+            "refId" : "39"
+         },
+         "390" : {
+            "basicRwardExp" : 28000,
+            "basicRwardGold" : 68000,
+            "refId" : "390"
+         },
+         "391" : {
+            "basicRwardExp" : 29000,
+            "basicRwardGold" : 69000,
+            "refId" : "391"
+         },
+         "392" : {
+            "basicRwardExp" : 30000,
+            "basicRwardGold" : 70000,
+            "refId" : "392"
+         },
+         "393" : {
+            "basicRwardExp" : 31000,
+            "basicRwardGold" : 71000,
+            "refId" : "393"
+         },
+         "394" : {
+            "basicRwardExp" : 32000,
+            "basicRwardGold" : 72000,
+            "refId" : "394"
+         },
+         "395" : {
+            "basicRwardExp" : 33000,
+            "basicRwardGold" : 73000,
+            "refId" : "395"
+         },
+         "396" : {
+            "basicRwardExp" : 34000,
+            "basicRwardGold" : 74000,
+            "refId" : "396"
+         },
+         "397" : {
+            "basicRwardExp" : 35000,
+            "basicRwardGold" : 75000,
+            "refId" : "397"
+         },
+         "398" : {
+            "basicRwardExp" : 36000,
+            "basicRwardGold" : 76000,
+            "refId" : "398"
+         },
+         "399" : {
+            "basicRwardExp" : 37000,
+            "basicRwardGold" : 77000,
+            "refId" : "399"
+         },
+         "4" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 32000,
+            "refId" : "4"
+         },
+         "40" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 50000,
+            "refId" : "40"
+         },
+         "400" : {
+            "basicRwardExp" : 38000,
+            "basicRwardGold" : 78000,
+            "refId" : "400"
+         },
+         "401" : {
+            "basicRwardExp" : 39000,
+            "basicRwardGold" : 79000,
+            "refId" : "401"
+         },
+         "402" : {
+            "basicRwardExp" : 40000,
+            "basicRwardGold" : 80000,
+            "refId" : "402"
+         },
+         "403" : {
+            "basicRwardExp" : 41000,
+            "basicRwardGold" : 81000,
+            "refId" : "403"
+         },
+         "404" : {
+            "basicRwardExp" : 42000,
+            "basicRwardGold" : 82000,
+            "refId" : "404"
+         },
+         "405" : {
+            "basicRwardExp" : 43000,
+            "basicRwardGold" : 83000,
+            "refId" : "405"
+         },
+         "406" : {
+            "basicRwardExp" : 44000,
+            "basicRwardGold" : 84000,
+            "refId" : "406"
+         },
+         "407" : {
+            "basicRwardExp" : 45000,
+            "basicRwardGold" : 85000,
+            "refId" : "407"
+         },
+         "408" : {
+            "basicRwardExp" : 46000,
+            "basicRwardGold" : 86000,
+            "refId" : "408"
+         },
+         "409" : {
+            "basicRwardExp" : 47000,
+            "basicRwardGold" : 87000,
+            "refId" : "409"
+         },
+         "41" : {
+            "basicRwardExp" : 11000,
+            "basicRwardGold" : 51000,
+            "refId" : "41"
+         },
+         "410" : {
+            "basicRwardExp" : 48000,
+            "basicRwardGold" : 88000,
+            "refId" : "410"
+         },
+         "411" : {
+            "basicRwardExp" : 49000,
+            "basicRwardGold" : 89000,
+            "refId" : "411"
+         },
+         "412" : {
+            "basicRwardExp" : 50000,
+            "basicRwardGold" : 90000,
+            "refId" : "412"
+         },
+         "413" : {
+            "basicRwardExp" : 51000,
+            "basicRwardGold" : 91000,
+            "refId" : "413"
+         },
+         "414" : {
+            "basicRwardExp" : 52000,
+            "basicRwardGold" : 92000,
+            "refId" : "414"
+         },
+         "415" : {
+            "basicRwardExp" : 53000,
+            "basicRwardGold" : 93000,
+            "refId" : "415"
+         },
+         "416" : {
+            "basicRwardExp" : 54000,
+            "basicRwardGold" : 94000,
+            "refId" : "416"
+         },
+         "417" : {
+            "basicRwardExp" : 55000,
+            "basicRwardGold" : 95000,
+            "refId" : "417"
+         },
+         "418" : {
+            "basicRwardExp" : 56000,
+            "basicRwardGold" : 96000,
+            "refId" : "418"
+         },
+         "419" : {
+            "basicRwardExp" : 57000,
+            "basicRwardGold" : 97000,
+            "refId" : "419"
+         },
+         "42" : {
+            "basicRwardExp" : 12000,
+            "basicRwardGold" : 52000,
+            "refId" : "42"
+         },
+         "420" : {
+            "basicRwardExp" : 58000,
+            "basicRwardGold" : 98000,
+            "refId" : "420"
+         },
+         "421" : {
+            "basicRwardExp" : 59000,
+            "basicRwardGold" : 99000,
+            "refId" : "421"
+         },
+         "422" : {
+            "basicRwardExp" : 60000,
+            "basicRwardGold" : 100000,
+            "refId" : "422"
+         },
+         "423" : {
+            "basicRwardExp" : 61000,
+            "basicRwardGold" : 101000,
+            "refId" : "423"
+         },
+         "424" : {
+            "basicRwardExp" : 62000,
+            "basicRwardGold" : 102000,
+            "refId" : "424"
+         },
+         "425" : {
+            "basicRwardExp" : 63000,
+            "basicRwardGold" : 103000,
+            "refId" : "425"
+         },
+         "426" : {
+            "basicRwardExp" : 64000,
+            "basicRwardGold" : 104000,
+            "refId" : "426"
+         },
+         "427" : {
+            "basicRwardExp" : 65000,
+            "basicRwardGold" : 105000,
+            "refId" : "427"
+         },
+         "428" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 50000,
+            "refId" : "428"
+         },
+         "429" : {
+            "basicRwardExp" : 11000,
+            "basicRwardGold" : 51000,
+            "refId" : "429"
+         },
+         "43" : {
+            "basicRwardExp" : 13000,
+            "basicRwardGold" : 53000,
+            "refId" : "43"
+         },
+         "430" : {
+            "basicRwardExp" : 12000,
+            "basicRwardGold" : 52000,
+            "refId" : "430"
+         },
+         "431" : {
+            "basicRwardExp" : 13000,
+            "basicRwardGold" : 53000,
+            "refId" : "431"
+         },
+         "432" : {
+            "basicRwardExp" : 14000,
+            "basicRwardGold" : 54000,
+            "refId" : "432"
+         },
+         "433" : {
+            "basicRwardExp" : 15000,
+            "basicRwardGold" : 55000,
+            "refId" : "433"
+         },
+         "434" : {
+            "basicRwardExp" : 16000,
+            "basicRwardGold" : 56000,
+            "refId" : "434"
+         },
+         "435" : {
+            "basicRwardExp" : 17000,
+            "basicRwardGold" : 57000,
+            "refId" : "435"
+         },
+         "436" : {
+            "basicRwardExp" : 18000,
+            "basicRwardGold" : 58000,
+            "refId" : "436"
+         },
+         "437" : {
+            "basicRwardExp" : 19000,
+            "basicRwardGold" : 59000,
+            "refId" : "437"
+         },
+         "438" : {
+            "basicRwardExp" : 20000,
+            "basicRwardGold" : 60000,
+            "refId" : "438"
+         },
+         "439" : {
+            "basicRwardExp" : 21000,
+            "basicRwardGold" : 61000,
+            "refId" : "439"
+         },
+         "44" : {
+            "basicRwardExp" : 14000,
+            "basicRwardGold" : 54000,
+            "refId" : "44"
+         },
+         "440" : {
+            "basicRwardExp" : 22000,
+            "basicRwardGold" : 62000,
+            "refId" : "440"
+         },
+         "441" : {
+            "basicRwardExp" : 23000,
+            "basicRwardGold" : 63000,
+            "refId" : "441"
+         },
+         "442" : {
+            "basicRwardExp" : 24000,
+            "basicRwardGold" : 64000,
+            "refId" : "442"
+         },
+         "443" : {
+            "basicRwardExp" : 25000,
+            "basicRwardGold" : 65000,
+            "refId" : "443"
+         },
+         "444" : {
+            "basicRwardExp" : 26000,
+            "basicRwardGold" : 66000,
+            "refId" : "444"
+         },
+         "445" : {
+            "basicRwardExp" : 27000,
+            "basicRwardGold" : 67000,
+            "refId" : "445"
+         },
+         "446" : {
+            "basicRwardExp" : 28000,
+            "basicRwardGold" : 68000,
+            "refId" : "446"
+         },
+         "447" : {
+            "basicRwardExp" : 29000,
+            "basicRwardGold" : 69000,
+            "refId" : "447"
+         },
+         "448" : {
+            "basicRwardExp" : 30000,
+            "basicRwardGold" : 70000,
+            "refId" : "448"
+         },
+         "449" : {
+            "basicRwardExp" : 31000,
+            "basicRwardGold" : 71000,
+            "refId" : "449"
+         },
+         "45" : {
+            "basicRwardExp" : 15000,
+            "basicRwardGold" : 55000,
+            "refId" : "45"
+         },
+         "450" : {
+            "basicRwardExp" : 32000,
+            "basicRwardGold" : 72000,
+            "refId" : "450"
+         },
+         "451" : {
+            "basicRwardExp" : 33000,
+            "basicRwardGold" : 73000,
+            "refId" : "451"
+         },
+         "452" : {
+            "basicRwardExp" : 34000,
+            "basicRwardGold" : 74000,
+            "refId" : "452"
+         },
+         "453" : {
+            "basicRwardExp" : 35000,
+            "basicRwardGold" : 75000,
+            "refId" : "453"
+         },
+         "454" : {
+            "basicRwardExp" : 36000,
+            "basicRwardGold" : 76000,
+            "refId" : "454"
+         },
+         "455" : {
+            "basicRwardExp" : 37000,
+            "basicRwardGold" : 77000,
+            "refId" : "455"
+         },
+         "456" : {
+            "basicRwardExp" : 38000,
+            "basicRwardGold" : 78000,
+            "refId" : "456"
+         },
+         "457" : {
+            "basicRwardExp" : 39000,
+            "basicRwardGold" : 79000,
+            "refId" : "457"
+         },
+         "458" : {
+            "basicRwardExp" : 40000,
+            "basicRwardGold" : 80000,
+            "refId" : "458"
+         },
+         "459" : {
+            "basicRwardExp" : 41000,
+            "basicRwardGold" : 81000,
+            "refId" : "459"
+         },
+         "46" : {
+            "basicRwardExp" : 16000,
+            "basicRwardGold" : 56000,
+            "refId" : "46"
+         },
+         "460" : {
+            "basicRwardExp" : 42000,
+            "basicRwardGold" : 82000,
+            "refId" : "460"
+         },
+         "461" : {
+            "basicRwardExp" : 43000,
+            "basicRwardGold" : 83000,
+            "refId" : "461"
+         },
+         "462" : {
+            "basicRwardExp" : 44000,
+            "basicRwardGold" : 84000,
+            "refId" : "462"
+         },
+         "463" : {
+            "basicRwardExp" : 45000,
+            "basicRwardGold" : 85000,
+            "refId" : "463"
+         },
+         "464" : {
+            "basicRwardExp" : 46000,
+            "basicRwardGold" : 86000,
+            "refId" : "464"
+         },
+         "465" : {
+            "basicRwardExp" : 47000,
+            "basicRwardGold" : 87000,
+            "refId" : "465"
+         },
+         "466" : {
+            "basicRwardExp" : 48000,
+            "basicRwardGold" : 88000,
+            "refId" : "466"
+         },
+         "467" : {
+            "basicRwardExp" : 49000,
+            "basicRwardGold" : 89000,
+            "refId" : "467"
+         },
+         "468" : {
+            "basicRwardExp" : 50000,
+            "basicRwardGold" : 90000,
+            "refId" : "468"
+         },
+         "469" : {
+            "basicRwardExp" : 51000,
+            "basicRwardGold" : 91000,
+            "refId" : "469"
+         },
+         "47" : {
+            "basicRwardExp" : 17000,
+            "basicRwardGold" : 57000,
+            "refId" : "47"
+         },
+         "470" : {
+            "basicRwardExp" : 52000,
+            "basicRwardGold" : 92000,
+            "refId" : "470"
+         },
+         "471" : {
+            "basicRwardExp" : 53000,
+            "basicRwardGold" : 93000,
+            "refId" : "471"
+         },
+         "472" : {
+            "basicRwardExp" : 54000,
+            "basicRwardGold" : 94000,
+            "refId" : "472"
+         },
+         "473" : {
+            "basicRwardExp" : 55000,
+            "basicRwardGold" : 95000,
+            "refId" : "473"
+         },
+         "474" : {
+            "basicRwardExp" : 56000,
+            "basicRwardGold" : 96000,
+            "refId" : "474"
+         },
+         "475" : {
+            "basicRwardExp" : 57000,
+            "basicRwardGold" : 97000,
+            "refId" : "475"
+         },
+         "476" : {
+            "basicRwardExp" : 58000,
+            "basicRwardGold" : 98000,
+            "refId" : "476"
+         },
+         "477" : {
+            "basicRwardExp" : 59000,
+            "basicRwardGold" : 99000,
+            "refId" : "477"
+         },
+         "478" : {
+            "basicRwardExp" : 60000,
+            "basicRwardGold" : 100000,
+            "refId" : "478"
+         },
+         "479" : {
+            "basicRwardExp" : 61000,
+            "basicRwardGold" : 101000,
+            "refId" : "479"
+         },
+         "48" : {
+            "basicRwardExp" : 18000,
+            "basicRwardGold" : 58000,
+            "refId" : "48"
+         },
+         "480" : {
+            "basicRwardExp" : 62000,
+            "basicRwardGold" : 102000,
+            "refId" : "480"
+         },
+         "481" : {
+            "basicRwardExp" : 63000,
+            "basicRwardGold" : 103000,
+            "refId" : "481"
+         },
+         "482" : {
+            "basicRwardExp" : 64000,
+            "basicRwardGold" : 104000,
+            "refId" : "482"
+         },
+         "483" : {
+            "basicRwardExp" : 65000,
+            "basicRwardGold" : 105000,
+            "refId" : "483"
+         },
+         "484" : {
+            "basicRwardExp" : 66000,
+            "basicRwardGold" : 106000,
+            "refId" : "484"
+         },
+         "485" : {
+            "basicRwardExp" : 67000,
+            "basicRwardGold" : 107000,
+            "refId" : "485"
+         },
+         "486" : {
+            "basicRwardExp" : 68000,
+            "basicRwardGold" : 108000,
+            "refId" : "486"
+         },
+         "487" : {
+            "basicRwardExp" : 69000,
+            "basicRwardGold" : 109000,
+            "refId" : "487"
+         },
+         "488" : {
+            "basicRwardExp" : 70000,
+            "basicRwardGold" : 110000,
+            "refId" : "488"
+         },
+         "489" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 50000,
+            "refId" : "489"
+         },
+         "49" : {
+            "basicRwardExp" : 19000,
+            "basicRwardGold" : 59000,
+            "refId" : "49"
+         },
+         "490" : {
+            "basicRwardExp" : 11000,
+            "basicRwardGold" : 51000,
+            "refId" : "490"
+         },
+         "491" : {
+            "basicRwardExp" : 12000,
+            "basicRwardGold" : 52000,
+            "refId" : "491"
+         },
+         "492" : {
+            "basicRwardExp" : 13000,
+            "basicRwardGold" : 53000,
+            "refId" : "492"
+         },
+         "493" : {
+            "basicRwardExp" : 14000,
+            "basicRwardGold" : 54000,
+            "refId" : "493"
+         },
+         "494" : {
+            "basicRwardExp" : 15000,
+            "basicRwardGold" : 55000,
+            "refId" : "494"
+         },
+         "495" : {
+            "basicRwardExp" : 16000,
+            "basicRwardGold" : 56000,
+            "refId" : "495"
+         },
+         "496" : {
+            "basicRwardExp" : 17000,
+            "basicRwardGold" : 57000,
+            "refId" : "496"
+         },
+         "497" : {
+            "basicRwardExp" : 18000,
+            "basicRwardGold" : 58000,
+            "refId" : "497"
+         },
+         "498" : {
+            "basicRwardExp" : 19000,
+            "basicRwardGold" : 59000,
+            "refId" : "498"
+         },
+         "499" : {
+            "basicRwardExp" : 20000,
+            "basicRwardGold" : 60000,
+            "refId" : "499"
+         },
+         "5" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 32500,
+            "refId" : "5"
+         },
+         "50" : {
+            "basicRwardExp" : 20000,
+            "basicRwardGold" : 60000,
+            "refId" : "50"
+         },
+         "500" : {
+            "basicRwardExp" : 21000,
+            "basicRwardGold" : 61000,
+            "refId" : "500"
+         },
+         "501" : {
+            "basicRwardExp" : 22000,
+            "basicRwardGold" : 62000,
+            "refId" : "501"
+         },
+         "502" : {
+            "basicRwardExp" : 23000,
+            "basicRwardGold" : 63000,
+            "refId" : "502"
+         },
+         "503" : {
+            "basicRwardExp" : 24000,
+            "basicRwardGold" : 64000,
+            "refId" : "503"
+         },
+         "504" : {
+            "basicRwardExp" : 25000,
+            "basicRwardGold" : 65000,
+            "refId" : "504"
+         },
+         "505" : {
+            "basicRwardExp" : 26000,
+            "basicRwardGold" : 66000,
+            "refId" : "505"
+         },
+         "506" : {
+            "basicRwardExp" : 27000,
+            "basicRwardGold" : 67000,
+            "refId" : "506"
+         },
+         "507" : {
+            "basicRwardExp" : 28000,
+            "basicRwardGold" : 68000,
+            "refId" : "507"
+         },
+         "508" : {
+            "basicRwardExp" : 29000,
+            "basicRwardGold" : 69000,
+            "refId" : "508"
+         },
+         "509" : {
+            "basicRwardExp" : 30000,
+            "basicRwardGold" : 70000,
+            "refId" : "509"
+         },
+         "51" : {
+            "basicRwardExp" : 21000,
+            "basicRwardGold" : 61000,
+            "refId" : "51"
+         },
+         "510" : {
+            "basicRwardExp" : 31000,
+            "basicRwardGold" : 71000,
+            "refId" : "510"
+         },
+         "511" : {
+            "basicRwardExp" : 32000,
+            "basicRwardGold" : 72000,
+            "refId" : "511"
+         },
+         "512" : {
+            "basicRwardExp" : 33000,
+            "basicRwardGold" : 73000,
+            "refId" : "512"
+         },
+         "513" : {
+            "basicRwardExp" : 34000,
+            "basicRwardGold" : 74000,
+            "refId" : "513"
+         },
+         "514" : {
+            "basicRwardExp" : 35000,
+            "basicRwardGold" : 75000,
+            "refId" : "514"
+         },
+         "515" : {
+            "basicRwardExp" : 36000,
+            "basicRwardGold" : 76000,
+            "refId" : "515"
+         },
+         "516" : {
+            "basicRwardExp" : 37000,
+            "basicRwardGold" : 77000,
+            "refId" : "516"
+         },
+         "517" : {
+            "basicRwardExp" : 38000,
+            "basicRwardGold" : 78000,
+            "refId" : "517"
+         },
+         "518" : {
+            "basicRwardExp" : 39000,
+            "basicRwardGold" : 79000,
+            "refId" : "518"
+         },
+         "519" : {
+            "basicRwardExp" : 40000,
+            "basicRwardGold" : 80000,
+            "refId" : "519"
+         },
+         "52" : {
+            "basicRwardExp" : 40000,
+            "basicRwardGold" : 62000,
+            "refId" : "52"
+         },
+         "520" : {
+            "basicRwardExp" : 41000,
+            "basicRwardGold" : 81000,
+            "refId" : "520"
+         },
+         "521" : {
+            "basicRwardExp" : 42000,
+            "basicRwardGold" : 82000,
+            "refId" : "521"
+         },
+         "522" : {
+            "basicRwardExp" : 43000,
+            "basicRwardGold" : 83000,
+            "refId" : "522"
+         },
+         "523" : {
+            "basicRwardExp" : 44000,
+            "basicRwardGold" : 84000,
+            "refId" : "523"
+         },
+         "524" : {
+            "basicRwardExp" : 45000,
+            "basicRwardGold" : 85000,
+            "refId" : "524"
+         },
+         "525" : {
+            "basicRwardExp" : 46000,
+            "basicRwardGold" : 86000,
+            "refId" : "525"
+         },
+         "526" : {
+            "basicRwardExp" : 47000,
+            "basicRwardGold" : 87000,
+            "refId" : "526"
+         },
+         "527" : {
+            "basicRwardExp" : 48000,
+            "basicRwardGold" : 88000,
+            "refId" : "527"
+         },
+         "528" : {
+            "basicRwardExp" : 49000,
+            "basicRwardGold" : 89000,
+            "refId" : "528"
+         },
+         "529" : {
+            "basicRwardExp" : 50000,
+            "basicRwardGold" : 90000,
+            "refId" : "529"
+         },
+         "53" : {
+            "basicRwardExp" : 42000,
+            "basicRwardGold" : 63000,
+            "refId" : "53"
+         },
+         "530" : {
+            "basicRwardExp" : 51000,
+            "basicRwardGold" : 91000,
+            "refId" : "530"
+         },
+         "531" : {
+            "basicRwardExp" : 52000,
+            "basicRwardGold" : 92000,
+            "refId" : "531"
+         },
+         "532" : {
+            "basicRwardExp" : 53000,
+            "basicRwardGold" : 93000,
+            "refId" : "532"
+         },
+         "533" : {
+            "basicRwardExp" : 54000,
+            "basicRwardGold" : 94000,
+            "refId" : "533"
+         },
+         "534" : {
+            "basicRwardExp" : 55000,
+            "basicRwardGold" : 95000,
+            "refId" : "534"
+         },
+         "535" : {
+            "basicRwardExp" : 56000,
+            "basicRwardGold" : 96000,
+            "refId" : "535"
+         },
+         "536" : {
+            "basicRwardExp" : 57000,
+            "basicRwardGold" : 97000,
+            "refId" : "536"
+         },
+         "537" : {
+            "basicRwardExp" : 58000,
+            "basicRwardGold" : 98000,
+            "refId" : "537"
+         },
+         "538" : {
+            "basicRwardExp" : 59000,
+            "basicRwardGold" : 99000,
+            "refId" : "538"
+         },
+         "539" : {
+            "basicRwardExp" : 60000,
+            "basicRwardGold" : 100000,
+            "refId" : "539"
+         },
+         "54" : {
+            "basicRwardExp" : 44000,
+            "basicRwardGold" : 64000,
+            "refId" : "54"
+         },
+         "540" : {
+            "basicRwardExp" : 61000,
+            "basicRwardGold" : 101000,
+            "refId" : "540"
+         },
+         "541" : {
+            "basicRwardExp" : 62000,
+            "basicRwardGold" : 102000,
+            "refId" : "541"
+         },
+         "542" : {
+            "basicRwardExp" : 63000,
+            "basicRwardGold" : 103000,
+            "refId" : "542"
+         },
+         "543" : {
+            "basicRwardExp" : 64000,
+            "basicRwardGold" : 104000,
+            "refId" : "543"
+         },
+         "544" : {
+            "basicRwardExp" : 65000,
+            "basicRwardGold" : 105000,
+            "refId" : "544"
+         },
+         "545" : {
+            "basicRwardExp" : 66000,
+            "basicRwardGold" : 106000,
+            "refId" : "545"
+         },
+         "546" : {
+            "basicRwardExp" : 67000,
+            "basicRwardGold" : 107000,
+            "refId" : "546"
+         },
+         "547" : {
+            "basicRwardExp" : 68000,
+            "basicRwardGold" : 108000,
+            "refId" : "547"
+         },
+         "548" : {
+            "basicRwardExp" : 69000,
+            "basicRwardGold" : 109000,
+            "refId" : "548"
+         },
+         "549" : {
+            "basicRwardExp" : 70000,
+            "basicRwardGold" : 110000,
+            "refId" : "549"
+         },
+         "55" : {
+            "basicRwardExp" : 46000,
+            "basicRwardGold" : 65000,
+            "refId" : "55"
+         },
+         "550" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 50000,
+            "refId" : "550"
+         },
+         "551" : {
+            "basicRwardExp" : 11000,
+            "basicRwardGold" : 51000,
+            "refId" : "551"
+         },
+         "552" : {
+            "basicRwardExp" : 12000,
+            "basicRwardGold" : 52000,
+            "refId" : "552"
+         },
+         "553" : {
+            "basicRwardExp" : 13000,
+            "basicRwardGold" : 53000,
+            "refId" : "553"
+         },
+         "554" : {
+            "basicRwardExp" : 14000,
+            "basicRwardGold" : 54000,
+            "refId" : "554"
+         },
+         "555" : {
+            "basicRwardExp" : 15000,
+            "basicRwardGold" : 55000,
+            "refId" : "555"
+         },
+         "556" : {
+            "basicRwardExp" : 16000,
+            "basicRwardGold" : 56000,
+            "refId" : "556"
+         },
+         "557" : {
+            "basicRwardExp" : 17000,
+            "basicRwardGold" : 57000,
+            "refId" : "557"
+         },
+         "558" : {
+            "basicRwardExp" : 18000,
+            "basicRwardGold" : 58000,
+            "refId" : "558"
+         },
+         "559" : {
+            "basicRwardExp" : 19000,
+            "basicRwardGold" : 59000,
+            "refId" : "559"
+         },
+         "56" : {
+            "basicRwardExp" : 48000,
+            "basicRwardGold" : 66000,
+            "refId" : "56"
+         },
+         "560" : {
+            "basicRwardExp" : 20000,
+            "basicRwardGold" : 60000,
+            "refId" : "560"
+         },
+         "561" : {
+            "basicRwardExp" : 21000,
+            "basicRwardGold" : 61000,
+            "refId" : "561"
+         },
+         "562" : {
+            "basicRwardExp" : 22000,
+            "basicRwardGold" : 62000,
+            "refId" : "562"
+         },
+         "563" : {
+            "basicRwardExp" : 23000,
+            "basicRwardGold" : 63000,
+            "refId" : "563"
+         },
+         "564" : {
+            "basicRwardExp" : 24000,
+            "basicRwardGold" : 64000,
+            "refId" : "564"
+         },
+         "565" : {
+            "basicRwardExp" : 25000,
+            "basicRwardGold" : 65000,
+            "refId" : "565"
+         },
+         "566" : {
+            "basicRwardExp" : 26000,
+            "basicRwardGold" : 66000,
+            "refId" : "566"
+         },
+         "567" : {
+            "basicRwardExp" : 27000,
+            "basicRwardGold" : 67000,
+            "refId" : "567"
+         },
+         "568" : {
+            "basicRwardExp" : 28000,
+            "basicRwardGold" : 68000,
+            "refId" : "568"
+         },
+         "569" : {
+            "basicRwardExp" : 29000,
+            "basicRwardGold" : 69000,
+            "refId" : "569"
+         },
+         "57" : {
+            "basicRwardExp" : 50000,
+            "basicRwardGold" : 67000,
+            "refId" : "57"
+         },
+         "570" : {
+            "basicRwardExp" : 30000,
+            "basicRwardGold" : 70000,
+            "refId" : "570"
+         },
+         "571" : {
+            "basicRwardExp" : 31000,
+            "basicRwardGold" : 71000,
+            "refId" : "571"
+         },
+         "572" : {
+            "basicRwardExp" : 32000,
+            "basicRwardGold" : 72000,
+            "refId" : "572"
+         },
+         "573" : {
+            "basicRwardExp" : 33000,
+            "basicRwardGold" : 73000,
+            "refId" : "573"
+         },
+         "574" : {
+            "basicRwardExp" : 34000,
+            "basicRwardGold" : 74000,
+            "refId" : "574"
+         },
+         "575" : {
+            "basicRwardExp" : 35000,
+            "basicRwardGold" : 75000,
+            "refId" : "575"
+         },
+         "576" : {
+            "basicRwardExp" : 36000,
+            "basicRwardGold" : 76000,
+            "refId" : "576"
+         },
+         "577" : {
+            "basicRwardExp" : 37000,
+            "basicRwardGold" : 77000,
+            "refId" : "577"
+         },
+         "578" : {
+            "basicRwardExp" : 38000,
+            "basicRwardGold" : 78000,
+            "refId" : "578"
+         },
+         "579" : {
+            "basicRwardExp" : 39000,
+            "basicRwardGold" : 79000,
+            "refId" : "579"
+         },
+         "58" : {
+            "basicRwardExp" : 52000,
+            "basicRwardGold" : 68000,
+            "refId" : "58"
+         },
+         "580" : {
+            "basicRwardExp" : 40000,
+            "basicRwardGold" : 80000,
+            "refId" : "580"
+         },
+         "581" : {
+            "basicRwardExp" : 41000,
+            "basicRwardGold" : 81000,
+            "refId" : "581"
+         },
+         "582" : {
+            "basicRwardExp" : 42000,
+            "basicRwardGold" : 82000,
+            "refId" : "582"
+         },
+         "583" : {
+            "basicRwardExp" : 43000,
+            "basicRwardGold" : 83000,
+            "refId" : "583"
+         },
+         "584" : {
+            "basicRwardExp" : 44000,
+            "basicRwardGold" : 84000,
+            "refId" : "584"
+         },
+         "585" : {
+            "basicRwardExp" : 45000,
+            "basicRwardGold" : 85000,
+            "refId" : "585"
+         },
+         "586" : {
+            "basicRwardExp" : 46000,
+            "basicRwardGold" : 86000,
+            "refId" : "586"
+         },
+         "587" : {
+            "basicRwardExp" : 47000,
+            "basicRwardGold" : 87000,
+            "refId" : "587"
+         },
+         "588" : {
+            "basicRwardExp" : 48000,
+            "basicRwardGold" : 88000,
+            "refId" : "588"
+         },
+         "589" : {
+            "basicRwardExp" : 49000,
+            "basicRwardGold" : 89000,
+            "refId" : "589"
+         },
+         "59" : {
+            "basicRwardExp" : 54000,
+            "basicRwardGold" : 69000,
+            "refId" : "59"
+         },
+         "590" : {
+            "basicRwardExp" : 50000,
+            "basicRwardGold" : 90000,
+            "refId" : "590"
+         },
+         "591" : {
+            "basicRwardExp" : 51000,
+            "basicRwardGold" : 91000,
+            "refId" : "591"
+         },
+         "592" : {
+            "basicRwardExp" : 52000,
+            "basicRwardGold" : 92000,
+            "refId" : "592"
+         },
+         "593" : {
+            "basicRwardExp" : 53000,
+            "basicRwardGold" : 93000,
+            "refId" : "593"
+         },
+         "594" : {
+            "basicRwardExp" : 54000,
+            "basicRwardGold" : 94000,
+            "refId" : "594"
+         },
+         "595" : {
+            "basicRwardExp" : 55000,
+            "basicRwardGold" : 95000,
+            "refId" : "595"
+         },
+         "596" : {
+            "basicRwardExp" : 56000,
+            "basicRwardGold" : 96000,
+            "refId" : "596"
+         },
+         "597" : {
+            "basicRwardExp" : 57000,
+            "basicRwardGold" : 97000,
+            "refId" : "597"
+         },
+         "598" : {
+            "basicRwardExp" : 58000,
+            "basicRwardGold" : 98000,
+            "refId" : "598"
+         },
+         "599" : {
+            "basicRwardExp" : 59000,
+            "basicRwardGold" : 99000,
+            "refId" : "599"
+         },
+         "6" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 33000,
+            "refId" : "6"
+         },
+         "60" : {
+            "basicRwardExp" : 56000,
+            "basicRwardGold" : 70000,
+            "refId" : "60"
+         },
+         "600" : {
+            "basicRwardExp" : 60000,
+            "basicRwardGold" : 100000,
+            "refId" : "600"
+         },
+         "601" : {
+            "basicRwardExp" : 61000,
+            "basicRwardGold" : 101000,
+            "refId" : "601"
+         },
+         "602" : {
+            "basicRwardExp" : 62000,
+            "basicRwardGold" : 102000,
+            "refId" : "602"
+         },
+         "603" : {
+            "basicRwardExp" : 63000,
+            "basicRwardGold" : 103000,
+            "refId" : "603"
+         },
+         "604" : {
+            "basicRwardExp" : 64000,
+            "basicRwardGold" : 104000,
+            "refId" : "604"
+         },
+         "605" : {
+            "basicRwardExp" : 65000,
+            "basicRwardGold" : 105000,
+            "refId" : "605"
+         },
+         "606" : {
+            "basicRwardExp" : 66000,
+            "basicRwardGold" : 106000,
+            "refId" : "606"
+         },
+         "607" : {
+            "basicRwardExp" : 67000,
+            "basicRwardGold" : 107000,
+            "refId" : "607"
+         },
+         "608" : {
+            "basicRwardExp" : 68000,
+            "basicRwardGold" : 108000,
+            "refId" : "608"
+         },
+         "609" : {
+            "basicRwardExp" : 69000,
+            "basicRwardGold" : 109000,
+            "refId" : "609"
+         },
+         "61" : {
+            "basicRwardExp" : 58000,
+            "basicRwardGold" : 71000,
+            "refId" : "61"
+         },
+         "610" : {
+            "basicRwardExp" : 70000,
+            "basicRwardGold" : 110000,
+            "refId" : "610"
+         },
+         "611" : {
+            "basicRwardExp" : 71000,
+            "basicRwardGold" : 111000,
+            "refId" : "611"
+         },
+         "612" : {
+            "basicRwardExp" : 72000,
+            "basicRwardGold" : 112000,
+            "refId" : "612"
+         },
+         "613" : {
+            "basicRwardExp" : 73000,
+            "basicRwardGold" : 113000,
+            "refId" : "613"
+         },
+         "614" : {
+            "basicRwardExp" : 74000,
+            "basicRwardGold" : 114000,
+            "refId" : "614"
+         },
+         "615" : {
+            "basicRwardExp" : 75000,
+            "basicRwardGold" : 115000,
+            "refId" : "615"
+         },
+         "616" : {
+            "basicRwardExp" : 76000,
+            "basicRwardGold" : 116000,
+            "refId" : "616"
+         },
+         "617" : {
+            "basicRwardExp" : 77000,
+            "basicRwardGold" : 117000,
+            "refId" : "617"
+         },
+         "618" : {
+            "basicRwardExp" : 78000,
+            "basicRwardGold" : 118000,
+            "refId" : "618"
+         },
+         "619" : {
+            "basicRwardExp" : 79000,
+            "basicRwardGold" : 119000,
+            "refId" : "619"
+         },
+         "62" : {
+            "basicRwardExp" : 60000,
+            "basicRwardGold" : 72000,
+            "refId" : "62"
+         },
+         "620" : {
+            "basicRwardExp" : 80000,
+            "basicRwardGold" : 120000,
+            "refId" : "620"
+         },
+         "621" : {
+            "basicRwardExp" : 81000,
+            "basicRwardGold" : 121000,
+            "refId" : "621"
+         },
+         "622" : {
+            "basicRwardExp" : 82000,
+            "basicRwardGold" : 122000,
+            "refId" : "622"
+         },
+         "623" : {
+            "basicRwardExp" : 83000,
+            "basicRwardGold" : 123000,
+            "refId" : "623"
+         },
+         "624" : {
+            "basicRwardExp" : 84000,
+            "basicRwardGold" : 124000,
+            "refId" : "624"
+         },
+         "625" : {
+            "basicRwardExp" : 85000,
+            "basicRwardGold" : 125000,
+            "refId" : "625"
+         },
+         "626" : {
+            "basicRwardExp" : 86000,
+            "basicRwardGold" : 126000,
+            "refId" : "626"
+         },
+         "627" : {
+            "basicRwardExp" : 87000,
+            "basicRwardGold" : 127000,
+            "refId" : "627"
+         },
+         "628" : {
+            "basicRwardExp" : 88000,
+            "basicRwardGold" : 128000,
+            "refId" : "628"
+         },
+         "629" : {
+            "basicRwardExp" : 89000,
+            "basicRwardGold" : 129000,
+            "refId" : "629"
+         },
+         "63" : {
+            "basicRwardExp" : 62000,
+            "basicRwardGold" : 73000,
+            "refId" : "63"
+         },
+         "630" : {
+            "basicRwardExp" : 90000,
+            "basicRwardGold" : 130000,
+            "refId" : "630"
+         },
+         "631" : {
+            "basicRwardExp" : 91000,
+            "basicRwardGold" : 131000,
+            "refId" : "631"
+         },
+         "632" : {
+            "basicRwardExp" : 92000,
+            "basicRwardGold" : 132000,
+            "refId" : "632"
+         },
+         "633" : {
+            "basicRwardExp" : 93000,
+            "basicRwardGold" : 133000,
+            "refId" : "633"
+         },
+         "634" : {
+            "basicRwardExp" : 94000,
+            "basicRwardGold" : 134000,
+            "refId" : "634"
+         },
+         "635" : {
+            "basicRwardExp" : 95000,
+            "basicRwardGold" : 135000,
+            "refId" : "635"
+         },
+         "64" : {
+            "basicRwardExp" : 64000,
+            "basicRwardGold" : 74000,
+            "refId" : "64"
+         },
+         "65" : {
+            "basicRwardExp" : 66000,
+            "basicRwardGold" : 75000,
+            "refId" : "65"
+         },
+         "66" : {
+            "basicRwardExp" : 68000,
+            "basicRwardGold" : 76000,
+            "refId" : "66"
+         },
+         "67" : {
+            "basicRwardExp" : 70000,
+            "basicRwardGold" : 77000,
+            "refId" : "67"
+         },
+         "68" : {
+            "basicRwardExp" : 72000,
+            "basicRwardGold" : 78000,
+            "refId" : "68"
+         },
+         "69" : {
+            "basicRwardExp" : 74000,
+            "basicRwardGold" : 79000,
+            "refId" : "69"
+         },
+         "7" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 33500,
+            "refId" : "7"
+         },
+         "70" : {
+            "basicRwardExp" : 76000,
+            "basicRwardGold" : 80000,
+            "refId" : "70"
+         },
+         "71" : {
+            "basicRwardExp" : 78000,
+            "basicRwardGold" : 81000,
+            "refId" : "71"
+         },
+         "72" : {
+            "basicRwardExp" : 80000,
+            "basicRwardGold" : 82000,
+            "refId" : "72"
+         },
+         "73" : {
+            "basicRwardExp" : 82000,
+            "basicRwardGold" : 83000,
+            "refId" : "73"
+         },
+         "74" : {
+            "basicRwardExp" : 84000,
+            "basicRwardGold" : 84000,
+            "refId" : "74"
+         },
+         "75" : {
+            "basicRwardExp" : 86000,
+            "basicRwardGold" : 85000,
+            "refId" : "75"
+         },
+         "76" : {
+            "basicRwardExp" : 88000,
+            "basicRwardGold" : 86000,
+            "refId" : "76"
+         },
+         "77" : {
+            "basicRwardExp" : 90000,
+            "basicRwardGold" : 87000,
+            "refId" : "77"
+         },
+         "78" : {
+            "basicRwardExp" : 92000,
+            "basicRwardGold" : 88000,
+            "refId" : "78"
+         },
+         "79" : {
+            "basicRwardExp" : 94000,
+            "basicRwardGold" : 89000,
+            "refId" : "79"
+         },
+         "8" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 34000,
+            "refId" : "8"
+         },
+         "80" : {
+            "basicRwardExp" : 96000,
+            "basicRwardGold" : 90000,
+            "refId" : "80"
+         },
+         "81" : {
+            "basicRwardExp" : 15000,
+            "basicRwardGold" : 50000,
+            "refId" : "81"
+         },
+         "82" : {
+            "basicRwardExp" : 17000,
+            "basicRwardGold" : 51000,
+            "refId" : "82"
+         },
+         "83" : {
+            "basicRwardExp" : 19000,
+            "basicRwardGold" : 52000,
+            "refId" : "83"
+         },
+         "84" : {
+            "basicRwardExp" : 21000,
+            "basicRwardGold" : 53000,
+            "refId" : "84"
+         },
+         "85" : {
+            "basicRwardExp" : 23000,
+            "basicRwardGold" : 54000,
+            "refId" : "85"
+         },
+         "86" : {
+            "basicRwardExp" : 25000,
+            "basicRwardGold" : 55000,
+            "refId" : "86"
+         },
+         "87" : {
+            "basicRwardExp" : 27000,
+            "basicRwardGold" : 56000,
+            "refId" : "87"
+         },
+         "88" : {
+            "basicRwardExp" : 29000,
+            "basicRwardGold" : 57000,
+            "refId" : "88"
+         },
+         "89" : {
+            "basicRwardExp" : 31000,
+            "basicRwardGold" : 58000,
+            "refId" : "89"
+         },
+         "9" : {
+            "basicRwardExp" : 10000,
+            "basicRwardGold" : 34500,
+            "refId" : "9"
+         },
+         "90" : {
+            "basicRwardExp" : 33000,
+            "basicRwardGold" : 59000,
+            "refId" : "90"
+         },
+         "91" : {
+            "basicRwardExp" : 35000,
+            "basicRwardGold" : 60000,
+            "refId" : "91"
+         },
+         "92" : {
+            "basicRwardExp" : 37000,
+            "basicRwardGold" : 61000,
+            "refId" : "92"
+         },
+         "93" : {
+            "basicRwardExp" : 39000,
+            "basicRwardGold" : 62000,
+            "refId" : "93"
+         },
+         "94" : {
+            "basicRwardExp" : 41000,
+            "basicRwardGold" : 63000,
+            "refId" : "94"
+         },
+         "95" : {
+            "basicRwardExp" : 43000,
+            "basicRwardGold" : 64000,
+            "refId" : "95"
+         },
+         "96" : {
+            "basicRwardExp" : 45000,
+            "basicRwardGold" : 65000,
+            "refId" : "96"
+         },
+         "97" : {
+            "basicRwardExp" : 47000,
+            "basicRwardGold" : 66000,
+            "refId" : "97"
+         },
+         "98" : {
+            "basicRwardExp" : 49000,
+            "basicRwardGold" : 67000,
+            "refId" : "98"
+         },
+         "99" : {
+            "basicRwardExp" : 51000,
+            "basicRwardGold" : 68000,
+            "refId" : "99"
+         }
+      },
+      "refId" : "dailyQuestReward",
+      "taskAddition" : {
+         "quest_daily_1" : {
+            "innerRingExpRewarPer" : [
+               {
+                  "rewardPer" : 400,
+                  "ring" : 1
+               },
+               {
+                  "rewardPer" : 500,
+                  "ring" : 2
+               },
+               {
+                  "rewardPer" : 600,
+                  "ring" : 3
+               },
+               {
+                  "rewardPer" : 700,
+                  "ring" : 4
+               },
+               {
+                  "rewardPer" : 800,
+                  "ring" : 5
+               },
+               {
+                  "rewardPer" : 900,
+                  "ring" : 6
+               },
+               {
+                  "rewardPer" : 1000,
+                  "ring" : 7
+               },
+               {
+                  "rewardPer" : 1100,
+                  "ring" : 8
+               },
+               {
+                  "rewardPer" : 1200,
+                  "ring" : 9
+               },
+               {
+                  "rewardPer" : 1300,
+                  "ring" : 10
+               }
+            ],
+            "innerRingGoldRewarPer" : [
+               {
+                  "rewardPer" : 0,
+                  "ring" : 1
+               },
+               {
+                  "rewardPer" : 0,
+                  "ring" : 2
+               },
+               {
+                  "rewardPer" : 0,
+                  "ring" : 3
+               },
+               {
+                  "rewardPer" : 0,
+                  "ring" : 4
+               },
+               {
+                  "rewardPer" : 0,
+                  "ring" : 5
+               },
+               {
+                  "rewardPer" : 0,
+                  "ring" : 6
+               },
+               {
+                  "rewardPer" : 0,
+                  "ring" : 7
+               },
+               {
+                  "rewardPer" : 0,
+                  "ring" : 8
+               },
+               {
+                  "rewardPer" : 0,
+                  "ring" : 9
+               },
+               {
+                  "rewardPer" : 0,
+                  "ring" : 10
+               }
+            ],
+            "outerRingExpRewarPer" : 700,
+            "outerRingGoldRewarPer" : 0,
+            "refId" : "quest_daily_1"
+         },
+         "quest_daily_2" : {
+            "innerRingExpRewarPer" : [
+               {
+                  "rewardPer" : 600,
+                  "ring" : 1
+               },
+               {
+                  "rewardPer" : 800,
+                  "ring" : 2
+               },
+               {
+                  "rewardPer" : 1000,
+                  "ring" : 3
+               },
+               {
+                  "rewardPer" : 1200,
+                  "ring" : 4
+               },
+               {
+                  "rewardPer" : 1400,
+                  "ring" : 5
+               },
+               {
+                  "rewardPer" : 1600,
+                  "ring" : 6
+               },
+               {
+                  "rewardPer" : 1800,
+                  "ring" : 7
+               },
+               {
+                  "rewardPer" : 2000,
+                  "ring" : 8
+               }
+            ],
+            "innerRingGoldRewarPer" : [
+               {
+                  "rewardPer" : 0,
+                  "ring" : 1
+               },
+               {
+                  "rewardPer" : 0,
+                  "ring" : 2
+               },
+               {
+                  "rewardPer" : 0,
+                  "ring" : 3
+               },
+               {
+                  "rewardPer" : 0,
+                  "ring" : 4
+               },
+               {
+                  "rewardPer" : 0,
+                  "ring" : 5
+               },
+               {
+                  "rewardPer" : 0,
+                  "ring" : 6
+               },
+               {
+                  "rewardPer" : 0,
+                  "ring" : 7
+               },
+               {
+                  "rewardPer" : 0,
+                  "ring" : 8
+               }
+            ],
+            "outerRingExpRewarPer" : 1000,
+            "outerRingGoldRewarPer" : 0,
+            "refId" : "quest_daily_2"
+         },
+         "quest_daily_3" : {
+            "innerRingExpRewarPer" : [
+               {
+                  "rewardPer" : 600,
+                  "ring" : 1
+               },
+               {
+                  "rewardPer" : 600,
+                  "ring" : 2
+               },
+               {
+                  "rewardPer" : 600,
+                  "ring" : 3
+               },
+               {
+                  "rewardPer" : 600,
+                  "ring" : 4
+               },
+               {
+                  "rewardPer" : 600,
+                  "ring" : 5
+               },
+               {
+                  "rewardPer" : 600,
+                  "ring" : 6
+               },
+               {
+                  "rewardPer" : 600,
+                  "ring" : 7
+               },
+               {
+                  "rewardPer" : 600,
+                  "ring" : 8
+               }
+            ],
+            "innerRingGoldRewarPer" : [
+               {
+                  "rewardPer" : 700,
+                  "ring" : 1
+               },
+               {
+                  "rewardPer" : 800,
+                  "ring" : 2
+               },
+               {
+                  "rewardPer" : 900,
+                  "ring" : 3
+               },
+               {
+                  "rewardPer" : 1000,
+                  "ring" : 4
+               },
+               {
+                  "rewardPer" : 1100,
+                  "ring" : 5
+               },
+               {
+                  "rewardPer" : 1100,
+                  "ring" : 6
+               },
+               {
+                  "rewardPer" : 1100,
+                  "ring" : 7
+               },
+               {
+                  "rewardPer" : 1100,
+                  "ring" : 8
+               }
+            ],
+            "outerRingExpRewarPer" : 0,
+            "outerRingGoldRewarPer" : 500,
+            "refId" : "quest_daily_3"
+         }
+      }
+   }
+}
+

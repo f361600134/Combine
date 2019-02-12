@@ -1,0 +1,276 @@
+{
+   "action_1" : {
+      "jump" : {
+         "jump" : ""
+      },
+      "property" : {
+         "actionSwitch" : 1,
+         "actionTime" : 1,
+         "actionType" : 1,
+         "activeValue" : 10,
+         "description" : "玩家角色登陆"
+      },
+      "refId" : "action_1"
+   },
+   "action_10" : {
+      "jump" : {
+         "jump" : "shangcheng"
+      },
+      "property" : {
+         "actionSwitch" : 1,
+         "actionTime" : 1,
+         "actionType" : 10,
+         "activeValue" : 5,
+         "description" : "商店购物"
+      },
+      "refId" : "action_10"
+   },
+   "action_11" : {
+      "jump" : {
+         "jump" : "liaotian"
+      },
+      "property" : {
+         "actionSwitch" : 1,
+         "actionTime" : 1,
+         "actionType" : 11,
+         "activeValue" : 5,
+         "description" : "好友聊天"
+      },
+      "refId" : "action_11"
+   },
+   "action_12" : {
+      "jump" : {
+         "jump" : "fuben"
+      },
+      "property" : {
+         "actionSwitch" : 1,
+         "actionTime" : 5,
+         "actionType" : 2,
+         "activeValue" : 5,
+         "description" : "完成副本"
+      },
+      "refId" : "action_12"
+   },
+   "action_13" : {
+      "jump" : {
+         "jump" : "duanzao"
+      },
+      "property" : {
+         "actionSwitch" : 1,
+         "actionTime" : 5,
+         "actionType" : 3,
+         "activeValue" : 5,
+         "description" : "进行强化"
+      },
+      "refId" : "action_13"
+   },
+   "action_14" : {
+      "jump" : {
+         "jump" : "duanzao"
+      },
+      "property" : {
+         "actionSwitch" : 1,
+         "actionTime" : 5,
+         "actionType" : 4,
+         "activeValue" : 5,
+         "description" : "进行洗练"
+      },
+      "refId" : "action_14"
+   },
+   "action_15" : {
+      "jump" : {
+         "jump" : "chibang"
+      },
+      "property" : {
+         "actionSwitch" : 1,
+         "actionTime" : 10,
+         "actionType" : 5,
+         "activeValue" : 5,
+         "description" : "使用羽毛"
+      },
+      "refId" : "action_15"
+   },
+   "action_16" : {
+      "jump" : {
+         "jump" : "zuoqi"
+      },
+      "property" : {
+         "actionSwitch" : 1,
+         "actionTime" : 10,
+         "actionType" : 6,
+         "activeValue" : 5,
+         "description" : "使用马丹"
+      },
+      "refId" : "action_16"
+   },
+   "action_17" : {
+      "jump" : {
+         "jump" : "beibao"
+      },
+      "property" : {
+         "actionSwitch" : 1,
+         "actionTime" : 5,
+         "actionType" : 7,
+         "activeValue" : 5,
+         "description" : "祝福装备"
+      },
+      "refId" : "action_17"
+   },
+   "action_18" : {
+      "jump" : {
+         "jump" : "boss"
+      },
+      "property" : {
+         "actionSwitch" : 1,
+         "actionTime" : 5,
+         "actionType" : 8,
+         "activeValue" : 10,
+         "description" : "击杀BOSS"
+      },
+      "refId" : "action_18"
+   },
+   "action_19" : {
+      "jump" : {
+         "jump" : "jingjichang"
+      },
+      "property" : {
+         "actionSwitch" : 1,
+         "actionTime" : 10,
+         "actionType" : 9,
+         "activeValue" : 8,
+         "description" : "参与竞技场"
+      },
+      "refId" : "action_19"
+   },
+   "action_2" : {
+      "jump" : {
+         "jump" : "fuben"
+      },
+      "property" : {
+         "actionSwitch" : 1,
+         "actionTime" : 1,
+         "actionType" : 2,
+         "activeValue" : 5,
+         "description" : "完成副本"
+      },
+      "refId" : "action_2"
+   },
+   "action_20" : {
+      "jump" : {
+         "jump" : "shangcheng"
+      },
+      "property" : {
+         "actionSwitch" : 1,
+         "actionTime" : 5,
+         "actionType" : 10,
+         "activeValue" : 5,
+         "description" : "商店购物"
+      },
+      "refId" : "action_20"
+   },
+   "action_21" : {
+      "jump" : {
+         "jump" : "liaotian"
+      },
+      "property" : {
+         "actionSwitch" : 1,
+         "actionTime" : 5,
+         "actionType" : 11,
+         "activeValue" : 5,
+         "description" : "好友聊天"
+      },
+      "refId" : "action_21"
+   },
+   "action_3" : {
+      "jump" : {
+         "jump" : "duanzao"
+      },
+      "property" : {
+         "actionSwitch" : 1,
+         "actionTime" : 1,
+         "actionType" : 3,
+         "activeValue" : 5,
+         "description" : "进行强化"
+      },
+      "refId" : "action_3"
+   },
+   "action_4" : {
+      "jump" : {
+         "jump" : "duanzao"
+      },
+      "property" : {
+         "actionSwitch" : 1,
+         "actionTime" : 1,
+         "actionType" : 4,
+         "activeValue" : 5,
+         "description" : "进行洗练"
+      },
+      "refId" : "action_4"
+   },
+   "action_5" : {
+      "jump" : {
+         "jump" : "chibang"
+      },
+      "property" : {
+         "actionSwitch" : 1,
+         "actionTime" : 1,
+         "actionType" : 5,
+         "activeValue" : 5,
+         "description" : "使用羽毛"
+      },
+      "refId" : "action_5"
+   },
+   "action_6" : {
+      "jump" : {
+         "jump" : "zuoqi"
+      },
+      "property" : {
+         "actionSwitch" : 1,
+         "actionTime" : 1,
+         "actionType" : 6,
+         "activeValue" : 5,
+         "description" : "使用马丹"
+      },
+      "refId" : "action_6"
+   },
+   "action_7" : {
+      "jump" : {
+         "jump" : "beibao"
+      },
+      "property" : {
+         "actionSwitch" : 1,
+         "actionTime" : 1,
+         "actionType" : 7,
+         "activeValue" : 5,
+         "description" : "祝福装备"
+      },
+      "refId" : "action_7"
+   },
+   "action_8" : {
+      "jump" : {
+         "jump" : "boss"
+      },
+      "property" : {
+         "actionSwitch" : 1,
+         "actionTime" : 1,
+         "actionType" : 8,
+         "activeValue" : 5,
+         "description" : "击杀BOSS"
+      },
+      "refId" : "action_8"
+   },
+   "action_9" : {
+      "jump" : {
+         "jump" : "jingjichang"
+      },
+      "property" : {
+         "actionSwitch" : 1,
+         "actionTime" : 1,
+         "actionType" : 9,
+         "activeValue" : 2,
+         "description" : "参与竞技场"
+      },
+      "refId" : "action_9"
+   }
+}
+

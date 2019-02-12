@@ -1,0 +1,17 @@
+{
+   "monsterAdvent_1" : {
+      "activityData" : [
+         {
+            "limitLevel" : 40
+         }
+      ],
+      "refId" : "monsterAdvent_1",
+      "sceneRefId" : "S005",
+      "time" : {
+         "duration" : "18:00:00|18:30:00",
+         "preEndTime" : 300,
+         "preStartTime" : 600
+      }
+   }
+}
+

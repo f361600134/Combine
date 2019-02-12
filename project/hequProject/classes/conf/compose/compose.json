@@ -1,0 +1,120 @@
+{
+   "awakenStone" : {
+      "configData" : {
+         "item_juexingshi_010" : {
+            "itemList" : "item_juexingshi_09,3",
+            "property" : {
+               "bindedGold" : 0,
+               "gold" : 65610000,
+               "probability" : 100,
+               "unbindedGold" : 0
+            },
+            "refId" : "item_juexingshi_010",
+            "sortID" : 9
+         },
+         "item_juexingshi_011" : {
+            "itemList" : "item_juexingshi_010,3",
+            "property" : {
+               "bindedGold" : 0,
+               "gold" : 196830000,
+               "probability" : 100,
+               "unbindedGold" : 0
+            },
+            "refId" : "item_juexingshi_011",
+            "sortID" : 10
+         },
+         "item_juexingshi_02" : {
+            "itemList" : "item_juexingshi_01,3",
+            "property" : {
+               "bindedGold" : 0,
+               "gold" : 10000,
+               "probability" : 100,
+               "unbindedGold" : 0
+            },
+            "refId" : "item_juexingshi_02",
+            "sortID" : 1
+         },
+         "item_juexingshi_03" : {
+            "itemList" : "item_juexingshi_02,3",
+            "property" : {
+               "bindedGold" : 0,
+               "gold" : 30000,
+               "probability" : 100,
+               "unbindedGold" : 0
+            },
+            "refId" : "item_juexingshi_03",
+            "sortID" : 2
+         },
+         "item_juexingshi_04" : {
+            "itemList" : "item_juexingshi_03,3",
+            "property" : {
+               "bindedGold" : 0,
+               "gold" : 90000,
+               "probability" : 100,
+               "unbindedGold" : 0
+            },
+            "refId" : "item_juexingshi_04",
+            "sortID" : 3
+         },
+         "item_juexingshi_05" : {
+            "itemList" : "item_juexingshi_04,3",
+            "property" : {
+               "bindedGold" : 0,
+               "gold" : 270000,
+               "probability" : 100,
+               "unbindedGold" : 0
+            },
+            "refId" : "item_juexingshi_05",
+            "sortID" : 4
+         },
+         "item_juexingshi_06" : {
+            "itemList" : "item_juexingshi_05,3",
+            "property" : {
+               "bindedGold" : 0,
+               "gold" : 810000,
+               "probability" : 100,
+               "unbindedGold" : 0
+            },
+            "refId" : "item_juexingshi_06",
+            "sortID" : 5
+         },
+         "item_juexingshi_07" : {
+            "itemList" : "item_juexingshi_06,3",
+            "property" : {
+               "bindedGold" : 0,
+               "gold" : 2430000,
+               "probability" : 100,
+               "unbindedGold" : 0
+            },
+            "refId" : "item_juexingshi_07",
+            "sortID" : 6
+         },
+         "item_juexingshi_08" : {
+            "itemList" : "item_juexingshi_07,3",
+            "property" : {
+               "bindedGold" : 0,
+               "gold" : 7290000,
+               "probability" : 100,
+               "unbindedGold" : 0
+            },
+            "refId" : "item_juexingshi_08",
+            "sortID" : 7
+         },
+         "item_juexingshi_09" : {
+            "itemList" : "item_juexingshi_08,3",
+            "property" : {
+               "bindedGold" : 0,
+               "gold" : 21870000,
+               "probability" : 100,
+               "unbindedGold" : 0
+            },
+            "refId" : "item_juexingshi_09",
+            "sortID" : 8
+         }
+      },
+      "name" : "觉醒石",
+      "refId" : "awakenStone",
+      "sortID" : 1
+   }
+}
+

@@ -1,0 +1,10 @@
+{
+   "game_constant_id" : {
+      "property" : {
+         "rookieProtectionLevel" : 40,
+         "unionContibuteDayCountLimit" : 5
+      },
+      "refId" : "game_constant_id"
+   }
+}
+

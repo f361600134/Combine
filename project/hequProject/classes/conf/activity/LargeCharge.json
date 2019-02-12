@@ -1,0 +1,12 @@
+{
+   "ZZZJ_YB_large" : {
+      "firstRewardRate" : 0,
+      "level" : 1,
+      "money" : 1000,
+      "refId" : "ZZZJ_YB_large",
+      "rewardBoundRate" : 30,
+      "rewardRate" : 0.50,
+      "yuanBaoRate" : 1.0
+   }
+}
+

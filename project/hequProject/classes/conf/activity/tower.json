@@ -1,0 +1,84 @@
+{
+   "tower1" : {
+      "refId" : "tower1",
+      "sceneRefId" : "S221",
+      "time" : {
+         "duration" : "14:00:00|15:00:00&21:30:00|22:30:00",
+         "preEndTime" : 0,
+         "preStartTime" : 0
+      }
+   },
+   "tower2" : {
+      "refId" : "tower2",
+      "sceneRefId" : "S222",
+      "time" : {
+         "duration" : "14:00:00|15:00:00&21:30:00|22:30:00",
+         "preEndTime" : 0,
+         "preStartTime" : 0
+      }
+   },
+   "tower3" : {
+      "refId" : "tower3",
+      "sceneRefId" : "S223",
+      "time" : {
+         "duration" : "14:00:00|15:00:00&21:30:00|22:30:00",
+         "preEndTime" : 0,
+         "preStartTime" : 0
+      }
+   },
+   "tower4" : {
+      "refId" : "tower4",
+      "sceneRefId" : "S224",
+      "time" : {
+         "duration" : "14:00:00|15:00:00&21:30:00|22:30:00",
+         "preEndTime" : 0,
+         "preStartTime" : 0
+      }
+   },
+   "tower5" : {
+      "refId" : "tower5",
+      "sceneRefId" : "S225",
+      "time" : {
+         "duration" : "14:00:00|15:00:00&21:30:00|22:30:00",
+         "preEndTime" : 0,
+         "preStartTime" : 0
+      }
+   },
+   "tower6" : {
+      "refId" : "tower6",
+      "sceneRefId" : "S226",
+      "time" : {
+         "duration" : "14:00:00|15:00:00&21:30:00|22:30:00",
+         "preEndTime" : 0,
+         "preStartTime" : 0
+      }
+   },
+   "tower7" : {
+      "refId" : "tower7",
+      "sceneRefId" : "S227",
+      "time" : {
+         "duration" : "14:00:00|15:00:00&21:30:00|22:30:00",
+         "preEndTime" : 0,
+         "preStartTime" : 0
+      }
+   },
+   "tower8" : {
+      "refId" : "tower8",
+      "sceneRefId" : "S228",
+      "time" : {
+         "duration" : "14:00:00|15:00:00&21:30:00|22:30:00",
+         "preEndTime" : 0,
+         "preStartTime" : 0
+      }
+   },
+   "tower9" : {
+      "refId" : "tower9",
+      "sceneRefId" : "S229",
+      "time" : {
+         "duration" : "14:00:00|15:00:00&21:30:00|22:30:00",
+         "preEndTime" : 0,
+         "preStartTime" : 0
+      }
+   }
+}
+

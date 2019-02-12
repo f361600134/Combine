@@ -1,0 +1,18 @@
+{
+   "chest" : {
+      "activityData" : [
+         {
+            "limitLevel" : 50,
+            "refreshTimeRemaining" : 180
+         }
+      ],
+      "refId" : "chest",
+      "sceneRefId" : "S236",
+      "time" : {
+         "duration" : "19:00:00|19:30:00",
+         "preEndTime" : 300,
+         "preStartTime" : 600
+      }
+   }
+}
+

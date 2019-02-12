@@ -1,0 +1,75 @@
+{
+   "moshendian_1" : {
+      "refId" : "moshendian_1",
+      "sceneRefId" : "S087",
+      "time" : {
+         "duration" : "16:30:00|17:30:00",
+         "preEndTime" : 300,
+         "preStartTime" : 600
+      }
+   },
+   "moshendian_2" : {
+      "refId" : "moshendian_2",
+      "sceneRefId" : "S088",
+      "time" : {
+         "duration" : "16:30:00|17:30:00",
+         "preEndTime" : 300,
+         "preStartTime" : 600
+      }
+   },
+   "moshendian_3" : {
+      "refId" : "moshendian_3",
+      "sceneRefId" : "S089",
+      "time" : {
+         "duration" : "16:30:00|17:30:00",
+         "preEndTime" : 300,
+         "preStartTime" : 600
+      }
+   },
+   "moshendian_4" : {
+      "refId" : "moshendian_4",
+      "sceneRefId" : "S090",
+      "time" : {
+         "duration" : "16:30:00|17:30:00",
+         "preEndTime" : 300,
+         "preStartTime" : 600
+      }
+   },
+   "moshendian_5" : {
+      "refId" : "moshendian_5",
+      "sceneRefId" : "S091",
+      "time" : {
+         "duration" : "16:30:00|17:30:00",
+         "preEndTime" : 300,
+         "preStartTime" : 600
+      }
+   },
+   "moshendian_6" : {
+      "refId" : "moshendian_6",
+      "sceneRefId" : "S092",
+      "time" : {
+         "duration" : "16:30:00|17:30:00",
+         "preEndTime" : 300,
+         "preStartTime" : 600
+      }
+   },
+   "moshendian_7" : {
+      "refId" : "moshendian_7",
+      "sceneRefId" : "S093",
+      "time" : {
+         "duration" : "16:30:00|17:30:00",
+         "preEndTime" : 300,
+         "preStartTime" : 600
+      }
+   },
+   "moshendian_8" : {
+      "refId" : "moshendian_8",
+      "sceneRefId" : "S094",
+      "time" : {
+         "duration" : "16:30:00|17:30:00",
+         "preEndTime" : 300,
+         "preStartTime" : 600
+      }
+   }
+}
+

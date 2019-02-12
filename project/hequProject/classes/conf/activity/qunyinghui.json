@@ -1,0 +1,35 @@
+{
+   "qunyinghui_1" : {
+      "heroPointData" : {
+         "-10000" : {
+            "heroPoint" : 10,
+            "key" : -10000
+         },
+         "-200000" : {
+            "heroPoint" : 25,
+            "key" : -200000
+         },
+         "-30000" : {
+            "heroPoint" : 15,
+            "key" : -30000
+         },
+         "10000" : {
+            "heroPoint" : 5,
+            "key" : 10000
+         },
+         "20000" : {
+            "heroPoint" : 1,
+            "key" : 20000
+         }
+      },
+      "limitLevel" : 60,
+      "refId" : "qunyinghui_1",
+      "sceneRefId" : "S251",
+      "time" : {
+         "duration" : "5|18:00:00|18:30:00&6|18:00:00|18:30:00&7|18:00:00|18:30:00",
+         "preEndTime" : 300,
+         "preStartTime" : 600
+      }
+   }
+}
+

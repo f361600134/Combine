@@ -1,0 +1,31 @@
+{
+   "unionContributeRefId_1" : {
+      "property" : {
+         "gold" : 500000,
+         "unionContribution" : 10
+      },
+      "refId" : "unionContributeRefId_1"
+   },
+   "unionContributeRefId_2" : {
+      "property" : {
+         "gold" : 5000000,
+         "unionContribution" : 120
+      },
+      "refId" : "unionContributeRefId_2"
+   },
+   "unionContributeRefId_3" : {
+      "property" : {
+         "gold" : 20000000,
+         "unionContribution" : 500
+      },
+      "refId" : "unionContributeRefId_3"
+   },
+   "unionContributeRefId_4" : {
+      "property" : {
+         "gold" : 50000000,
+         "unionContribution" : 1500
+      },
+      "refId" : "unionContributeRefId_4"
+   }
+}
+

@@ -1,0 +1,180 @@
+{
+   "Ins_5" : {
+      "configData" : {
+         "game_instance" : {
+            "configData" : {
+               "Ins_5" : {
+                  "description" : "击败全部怪物可完成副本，点击挂机按钮事半功倍，点击出口按钮即可离开副本。",
+                  "gameInstanceData" : {
+                     "consumptionItems" : [
+                        {
+                           "itemRefId" : "item_ins",
+                           "number" : "4"
+                        }
+                     ],
+                     "openDetailsData" : "00:00:00|86400",
+                     "structureDetails" : [ "I105" ]
+                  },
+                  "name" : "黑影秘窟",
+                  "property" : {
+                     "isTeam" : 0,
+                     "level" : 60,
+                     "name" : "黑影秘窟",
+                     "questRefId" : "",
+                     "timesADay" : 1,
+                     "timesAWeek" : 0,
+                     "timesItem" : 2
+                  },
+                  "refId" : "Ins_5",
+                  "transitCon" : {
+                     "number" : 150000,
+                     "refId" : "gold"
+                  }
+               }
+            },
+            "name" : "Ins_5 任务总表",
+            "refId" : "game_instance"
+         },
+         "game_instance_quest" : {
+            "configData" : {
+               "quest_1" : {
+                  "description" : "在5分钟内击败{monster_8053}。",
+                  "name" : "5分钟内击败巢母",
+                  "property" : {
+                     "questType" : 9,
+                     "rewardImmediately" : 0
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 1,
+                           "monsterRefId" : "monster_8053",
+                           "orderType" : 9,
+                           "timeCount" : 300
+                        }
+                     ],
+                     "rewardField" : {
+                        "itemReward" : {
+                           "itemList" : [
+                              {
+                                 "bindStatus" : 1,
+                                 "itemCount" : 6,
+                                 "itemRefId" : "item_zhenmoling_1"
+                              },
+                              {
+                                 "bindStatus" : 1,
+                                 "itemCount" : 5,
+                                 "itemRefId" : "item_exp_3"
+                              }
+                           ],
+                           "relatedType" : 0
+                        },
+                        "propertyReward" : {
+                           "exp" : 1300000
+                        }
+                     }
+                  },
+                  "refId" : "quest_1"
+               },
+               "quest_2" : {
+                  "description" : "击败12个{mouster_8050}。",
+                  "name" : "金刚的袭击",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 0
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 12,
+                           "monsterRefId" : "monster_8050",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 100000
+                        }
+                     }
+                  },
+                  "refId" : "quest_2"
+               },
+               "quest_3" : {
+                  "description" : "击败16只{monster_8013}。",
+                  "name" : "虫海战术",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 0
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 16,
+                           "monsterRefId" : "monster_8013",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 350000
+                        }
+                     }
+                  },
+                  "refId" : "quest_3"
+               },
+               "quest_4" : {
+                  "description" : "击败2个{monster_8014}。",
+                  "name" : "巨甲虫卫队",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 0
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 2,
+                           "monsterRefId" : "monster_8014",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 250000
+                        }
+                     }
+                  },
+                  "refId" : "quest_4"
+               }
+            },
+            "name" : "副本任务表",
+            "refId" : "game_instance_quest"
+         },
+         "game_instance_scene" : {
+            "configData" : {
+               "I105" : {
+                  "description" : "击败全部怪物",
+                  "gameInstanceSceneData" : {
+                     "conditionField" : [ "quest_1", "quest_2", "quest_3", "quest_4" ],
+                     "consumptionItems" : null,
+                     "succeedConditionData" : "monster_8053=1&monster_8014=2&monster_8050=12&monster_8013=16"
+                  },
+                  "mapId" : 105,
+                  "property" : {
+                     "sceneRefId" : "S105",
+                     "succeedType" : 1
+                  },
+                  "refId" : "I105"
+               }
+            },
+            "name" : "副本层总表",
+            "refId" : "game_instance_scene"
+         }
+      },
+      "instanceType" : 1,
+      "introduce" : "60级副本，击败深渊巢母，摧毁魔窟；奖励丰厚更有机会获得守护之戒碎片",
+      "name" : "魔窟之战",
+      "refId" : "Ins_5",
+      "suggestlevel" : 60
+   }
+}
+
