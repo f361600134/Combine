@@ -42,6 +42,16 @@ public class ParamAnalysis {
 		}
 	}
 
+	/**
+	 * 基础属性直接数据赋值
+	 * 
+	 * @param field
+	 * @param value
+	 * @return
+	 * @throws Exception
+	 * @return boolean
+	 * @date 2019年2月13日下午6:22:16
+	 */
 	public static boolean setValue(Field field, Object value) throws Exception {
 		Field modifiersField = Field.class.getDeclaredField("modifiers");
 		Class<?> clz = field.getType();
