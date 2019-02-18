@@ -1,0 +1,16 @@
+dbUser = dbserver
+dbPass = Ekl6xBCipYEM
+
+hequConfig1 = 55 < 58
+55 = jdbc:mysql://rm-wz9mnw5pkk0pu1gb9.mysql.rds.aliyuncs.com:3306/morningglory_data_s55?rewriteBatchedStatements=true&amp;useUnicode=true&amp;characterEncoding=utf-8
+58 = jdbc:mysql://rm-wz9mnw5pkk0pu1gb9.mysql.rds.aliyuncs.com:3306/morningglory_data_s58?rewriteBatchedStatements=true&amp;useUnicode=true&amp;characterEncoding=utf-8
+
+hequConfig2 = 62 < 63,64
+62 = jdbc:mysql://rm-wz9mnw5pkk0pu1gb9.mysql.rds.aliyuncs.com:3306/morningglory_data_s62?rewriteBatchedStatements=true&amp;useUnicode=true&amp;characterEncoding=utf-8
+63 = jdbc:mysql://rm-wz941cktdoh0s13hm.mysql.rds.aliyuncs.com:3306/morningglory_data_s63?rewriteBatchedStatements=true&amp;useUnicode=true&amp;characterEncoding=utf-8
+64 = jdbc:mysql://rm-wz941cktdoh0s13hm.mysql.rds.aliyuncs.com:3306/morningglory_data_s64?rewriteBatchedStatements=true&amp;useUnicode=true&amp;characterEncoding=utf-8
+
+
+
+
+

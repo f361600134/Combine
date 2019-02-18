@@ -1,0 +1,22 @@
+dbUser = dbserver
+dbPass = Ekl6xBCipYEM
+
+hequConfig1 = 1 < 5
+1 = jdbc:mysql://rm-wz9jczb3dmdp29jz4.mysql.rds.aliyuncs.com:3306/morningglory_tljy_data_s1?rewriteBatchedStatements=true&amp;useUnicode=true&amp;characterEncoding=utf-8
+5 = jdbc:mysql://rm-wz9jczb3dmdp29jz4.mysql.rds.aliyuncs.com:3306/morningglory_tljy_data_s5?rewriteBatchedStatements=true&amp;useUnicode=true&amp;characterEncoding=utf-8
+
+hequConfig2 = 9 < 13
+9 = jdbc:mysql://rm-wz9jczb3dmdp29jz4.mysql.rds.aliyuncs.com:3306/morningglory_tljy_data_s9?rewriteBatchedStatements=true&amp;useUnicode=true&amp;characterEncoding=utf-8
+13 = jdbc:mysql://rm-wz9jczb3dmdp29jz4.mysql.rds.aliyuncs.com:3306/morningglory_tljy_data_s13?rewriteBatchedStatements=true&amp;useUnicode=true&amp;characterEncoding=utf-8
+
+hequConfig3 = 17 < 18
+17 = jdbc:mysql://rm-wz9jczb3dmdp29jz4.mysql.rds.aliyuncs.com:3306/morningglory_tljy_data_s17?rewriteBatchedStatements=true&amp;useUnicode=true&amp;characterEncoding=utf-8
+18 = jdbc:mysql://rm-wz9jczb3dmdp29jz4.mysql.rds.aliyuncs.com:3306/morningglory_tljy_data_s18?rewriteBatchedStatements=true&amp;useUnicode=true&amp;characterEncoding=utf-8
+
+hequConfig4 = 19 < 20
+19 = jdbc:mysql://rm-wz9jczb3dmdp29jz4.mysql.rds.aliyuncs.com:3306/morningglory_tljy_data_s19?rewriteBatchedStatements=true&amp;useUnicode=true&amp;characterEncoding=utf-8
+20 = jdbc:mysql://rm-wz9jczb3dmdp29jz4.mysql.rds.aliyuncs.com:3306/morningglory_tljy_data_s20?rewriteBatchedStatements=true&amp;useUnicode=true&amp;characterEncoding=utf-8
+
+
+
+

@@ -79,6 +79,7 @@ public class App {
 			// 2. 根据配置路径生成对应目录, 并把项目文件拷贝过去.
 			create();
 			// 3. 根据配置生成对应的合服项目
+			Config.print();
 
 		} catch (Exception e) {
 			e.printStackTrace();

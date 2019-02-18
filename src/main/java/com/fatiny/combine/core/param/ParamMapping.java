@@ -9,8 +9,12 @@ import java.lang.annotation.Target;
 @Target(ElementType.TYPE)
 @Retention(RetentionPolicy.RUNTIME)
 @Documented
-public @interface Params {
+public @interface ParamMapping {
 
+	// 指定配置文件目录
+	String filePath();
+
+	// 指定配置文件前缀
 	String prefix() default "";
 
 }

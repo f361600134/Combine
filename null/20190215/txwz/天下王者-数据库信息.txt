@@ -1,0 +1,17 @@
+dbUser = wzcsmanager
+dbPass = %#Wzcs@*
+
+hequConfig1 = 11 < 14, 16
+11 = jdbc:mysql://rm-uf64151346g81pr39.mysql.rds.aliyuncs.com:3306/morningglory_txwz_data_s11?rewriteBatchedStatements=true&amp;useUnicode=true&amp;characterEncoding=utf-8
+14 = jdbc:mysql://rm-uf64151346g81pr39.mysql.rds.aliyuncs.com:3306/morningglory_txwz_data_s14?rewriteBatchedStatements=true&amp;useUnicode=true&amp;characterEncoding=utf-8
+16 = jdbc:mysql://rm-uf64151346g81pr39.mysql.rds.aliyuncs.com:3306/morningglory_txwz_data_s16?rewriteBatchedStatements=true&amp;useUnicode=true&amp;characterEncoding=utf-8
+
+hequConfig2 = 18 < 19
+18 = jdbc:mysql://rm-uf64151346g81pr39.mysql.rds.aliyuncs.com:3306/morningglory_txwz_data_s18?rewriteBatchedStatements=true&amp;useUnicode=true&amp;characterEncoding=utf-8
+19 = jdbc:mysql://rm-uf64151346g81pr39.mysql.rds.aliyuncs.com:3306/morningglory_txwz_data_s19?rewriteBatchedStatements=true&amp;useUnicode=true&amp;characterEncoding=utf-8
+
+
+
+
+
+
