@@ -2,10 +2,20 @@ package com.fatiny.combine.core.param;
 
 public class ParamField {
 
+	private String prefix;
 	private String mainWord;
 	private String keyIndex;
 	private String field;
 	private String value;
+
+	public ParamField(String prefix, String mainWord, String keyIndex, String field, String value) {
+		super();
+		this.prefix = prefix;
+		this.mainWord = mainWord;
+		this.keyIndex = keyIndex;
+		this.field = field;
+		this.value = value;
+	}
 
 	public ParamField(String mainWord, String keyIndex, String field, String value) {
 		super();
@@ -13,6 +23,14 @@ public class ParamField {
 		this.keyIndex = keyIndex;
 		this.field = field;
 		this.value = value;
+	}
+
+	public String getPrefix() {
+		return prefix;
+	}
+
+	public void setPrefix(String prefix) {
+		this.prefix = prefix;
 	}
 
 	public ParamField() {
@@ -53,7 +71,7 @@ public class ParamField {
 
 	@Override
 	public String toString() {
-		return "ParamField [mainWord=" + mainWord + ", keyIndex=" + keyIndex + ", field=" + field + ", value=" + value + "]";
+		return "ParamField [prefix=" + prefix + ", mainWord=" + mainWord + ", keyIndex=" + keyIndex + ", field=" + field + ", value=" + value + "]";
 	}
 
 }

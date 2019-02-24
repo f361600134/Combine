@@ -50,4 +50,9 @@ public class Stu {
 		this.grade = grade;
 	}
 
+	@Override
+	public String toString() {
+		return "Stu [id=" + id + ", name=" + name + ", age=" + age + ", grade=" + grade + "]";
+	}
+
 }

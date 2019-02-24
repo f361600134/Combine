@@ -73,25 +73,41 @@ public class ParamAnalysis {
 						if (constructors.length != 0) {
 							obj = field.getType().newInstance();
 						} else {
+							// 实例化一个list
 							obj = new ArrayList<Object>();
 						}
-						// 实例化一个list
 						List<ParamField> paramFields = PropertiesBase.getValue(field.getName());
-
+						Method method = obj.getClass().getMethod("add", Object.class);
 						// 这里的clazz区分基本类型和对象类型
 						Class<?> valueClazz = Class.forName(actualType.getTypeName());
-
 						logger.info("analysis, valueClazz:{}", valueClazz);
-
-						Method method = obj.getClass().getMethod("add", Object.class);
-						Collections.sort(paramFields, new Comparator<ParamField>() {
-							public int compare(ParamField o1, ParamField o2) {
-								return Integer.compare(Integer.parseInt(o1.getKeyIndex()), Integer.parseInt(o2.getKeyIndex()));
+						if (isPrimitive(valueClazz)) {
+							// 基础类型
+							Collections.sort(paramFields, new Comparator<ParamField>() {
+								public int compare(ParamField o1, ParamField o2) {
+									return Integer.compare(Integer.parseInt(o1.getKeyIndex()), Integer.parseInt(o2.getKeyIndex()));
+								}
+							});
+							// 如果是基础类型,则直接调用add方法添加数据
+							for (ParamField paramField : paramFields) {
+								method.invoke(obj, ConvertUtils.convert(paramField.getValue(), valueClazz));
 							}
-						});
-						for (ParamField paramField : paramFields) {
-							method.invoke(obj, ConvertUtils.convert(paramField.getValue(), valueClazz));
+						} else {
+							// 对象类型
+							Object childObjClazz = valueClazz.newInstance();
+							Method[] childMethods = childObjClazz.getClass().getMethods();
+							for (ParamField paramField : paramFields) {
+								for (Method childMethod : childMethods) {
+									String methodName = "set".concat(paramField.getField()).toLowerCase();
+									if (childMethod.getName().toLowerCase().equals(methodName)) {
+										Object returnObj = ConvertUtils.convert(paramField.getValue(), childMethod.getParameterTypes()[0]);
+										childMethod.invoke(childObjClazz, returnObj);
+									}
+								}
+							}
+							System.out.println("子类型:" + childObjClazz);
 						}
+
 						field.set(null, obj);
 					} else if (Map.class.isAssignableFrom(field.getType())) { //
 						logger.info("====Map====");
@@ -258,6 +274,7 @@ public class ParamAnalysis {
 					} else {
 						list = clazzType.newInstance();
 					}
+					// 如果是基础类型，则没问题。如果是对象类型，实例化对象，然后赋值
 					Class<?> valueClazz = Class.forName(actualType.getTypeName());
 					Method addMethod = clazzType.getDeclaredMethod("add", Object.class);
 					if (addMethod != null) {

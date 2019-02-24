@@ -16,7 +16,7 @@ public class Config {
 
 	// ===========================================
 	public static List<Stu> stulist;
-	public static Map<Integer, Stu> stumap;
+	// public static Map<Integer, Stu> stumap;
 
 	public String getOutputPath() {
 		return outputPath;
@@ -47,7 +47,7 @@ public class Config {
 		System.out.println("====lista====:" + lista);
 		System.out.println("====mapa====:" + mapa);
 		System.out.println("====stulist====:" + stulist);
-		System.out.println("====stumap====:" + stumap);
+		// System.out.println("====stumap====:" + stumap);
 	}
 
 }

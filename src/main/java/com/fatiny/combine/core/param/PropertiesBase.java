@@ -46,6 +46,9 @@ public class PropertiesBase {
 		String mainWord = temp.substring(temp.lastIndexOf(".") + 1, from);
 		System.out.println("mainWord:" + mainWord);
 
+		String temp1 = temp.substring(0, temp.lastIndexOf("."));
+		System.out.println("prefix:" + temp1);
+
 	}
 
 	/**
@@ -87,11 +90,17 @@ public class PropertiesBase {
 					// 解析出关键字
 					String temp = k.substring(0, to);
 					String mainWord = temp.substring(temp.lastIndexOf(".") + 1, from);
+					// 解析出前缀
+					String prefix = temp.substring(0, temp.lastIndexOf("."));
 					// 解析出值
-					paramField = new ParamField(mainWord, keyIndex, field, properties.getProperty(k));
+					String value = properties.getProperty(k);
+					paramField = new ParamField(prefix, mainWord, keyIndex, field, value);
 				} else {
 					String mainWord = k.substring(k.lastIndexOf(".") + 1, k.length());
-					paramField = new ParamField(mainWord, null, null, properties.getProperty(k));
+					// 解析出前缀
+					String prefix = k.substring(0, k.lastIndexOf("."));
+					String value = properties.getProperty(k);
+					paramField = new ParamField(prefix, mainWord, null, null, value);
 				}
 				paramFieldMap.put(paramField.getMainWord(), paramField);
 			}
