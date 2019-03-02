@@ -11,12 +11,10 @@ import java.lang.reflect.ParameterizedType;
 import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.Collection;
-import java.util.Collections;
-import java.util.Comparator;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 import java.util.Set;
+import java.util.TreeMap;
 
 import org.apache.commons.beanutils.ConvertUtils;
 import org.slf4j.Logger;
@@ -56,10 +54,9 @@ public class ParamAnalysis {
 					if (isPrimitive(field.getType())) {
 						logger.info("====isPrimitive====");
 						// 基础参数
-						List<ParamField> paramFields = PropertiesBase.getValue(field.getName());
+						TreeMap<String, ParamField> paramFieldMap = PropertiesBase.getValue(field.getName());
 						// 基础类型和String类型
-						ParamField paramField = paramFields.get(0);
-						setValue(field, paramField.getValue());
+						setValue(field, paramFieldMap.firstEntry().getValue().getValue());
 					} else if (Collection.class.isAssignableFrom(field.getType())) {
 						logger.info("====Collection====");
 						// 获取list的泛型的类型
@@ -76,36 +73,36 @@ public class ParamAnalysis {
 							// 实例化一个list
 							obj = new ArrayList<Object>();
 						}
-						List<ParamField> paramFields = PropertiesBase.getValue(field.getName());
+						TreeMap<String, ParamField> paramFieldMap = PropertiesBase.getValue(field.getName());
 						Method method = obj.getClass().getMethod("add", Object.class);
 						// 这里的clazz区分基本类型和对象类型
 						Class<?> valueClazz = Class.forName(actualType.getTypeName());
 						logger.info("analysis, valueClazz:{}", valueClazz);
 						if (isPrimitive(valueClazz)) {
-							// 基础类型
-							Collections.sort(paramFields, new Comparator<ParamField>() {
-								public int compare(ParamField o1, ParamField o2) {
-									return Integer.compare(Integer.parseInt(o1.getKeyIndex()), Integer.parseInt(o2.getKeyIndex()));
-								}
-							});
 							// 如果是基础类型,则直接调用add方法添加数据
-							for (ParamField paramField : paramFields) {
+							for (ParamField paramField : paramFieldMap.values()) {
 								method.invoke(obj, ConvertUtils.convert(paramField.getValue(), valueClazz));
 							}
 						} else {
 							// 对象类型
-							Object childObjClazz = valueClazz.newInstance();
-							Method[] childMethods = childObjClazz.getClass().getMethods();
-							for (ParamField paramField : paramFields) {
-								for (Method childMethod : childMethods) {
-									String methodName = "set".concat(paramField.getField()).toLowerCase();
-									if (childMethod.getName().toLowerCase().equals(methodName)) {
-										Object returnObj = ConvertUtils.convert(paramField.getValue(), childMethod.getParameterTypes()[0]);
-										childMethod.invoke(childObjClazz, returnObj);
-									}
-								}
-							}
-							System.out.println("子类型:" + childObjClazz);
+							// Object childObjClazz = valueClazz.newInstance();
+							// Method[] childMethods =
+							// childObjClazz.getClass().getMethods();
+							// for (ParamField paramField : paramFields) {
+							// for (Method childMethod : childMethods) {
+							// String methodName =
+							// "set".concat(paramField.getField()).toLowerCase();
+							// if
+							// (childMethod.getName().toLowerCase().equals(methodName))
+							// {
+							// Object returnObj =
+							// ConvertUtils.convert(paramField.getValue(),
+							// childMethod.getParameterTypes()[0]);
+							// childMethod.invoke(childObjClazz, returnObj);
+							// }
+							// }
+							// }
+							// System.out.println("子类型:" + childObjClazz);
 						}
 
 						field.set(null, obj);
@@ -125,11 +122,11 @@ public class ParamAnalysis {
 							obj = new HashMap<Object, Object>();
 						}
 						// 实例化一个list
-						List<ParamField> paramFields = PropertiesBase.getValue(field.getName());
+						TreeMap<String, ParamField> paramFieldMap = PropertiesBase.getValue(field.getName());
 						Class<?> keyClazz = Class.forName(keyActualType.getTypeName());
 						Class<?> valueClazz = Class.forName(valueActualType.getTypeName());
 						Method method = obj.getClass().getMethod("put", Object.class, Object.class);
-						for (ParamField paramField : paramFields) {
+						for (ParamField paramField : paramFieldMap.values()) {
 							method.invoke(obj, ConvertUtils.convert(paramField.getKeyIndex(), keyClazz), ConvertUtils.convert(paramField.getValue(), valueClazz));
 						}
 						field.set(null, obj);
@@ -253,11 +250,11 @@ public class ParamAnalysis {
 			Class<?> clazzType = descriptor.getPropertyType();
 
 			if (PropertiesBase.containsKey(propertyName)) {
-				List<ParamField> paramFields = PropertiesBase.getValue(propertyName);
+				TreeMap<String, ParamField> paramFieldMap = PropertiesBase.getValue(propertyName);
 				// 基础类型和String类型
 				if (isPrimitive(clazzType)) {
 					logger.info("====isPrimitive====");
-					ParamField paramField = paramFields.get(0);
+					ParamField paramField = paramFieldMap.firstEntry().getValue();
 					if (paramField != null) {
 						descriptor.getWriteMethod().invoke(obj, ConvertUtils.convert(paramField.getValue(), clazzType));
 					}
@@ -278,7 +275,7 @@ public class ParamAnalysis {
 					Class<?> valueClazz = Class.forName(actualType.getTypeName());
 					Method addMethod = clazzType.getDeclaredMethod("add", Object.class);
 					if (addMethod != null) {
-						for (ParamField paramField : paramFields) {
+						for (ParamField paramField : paramFieldMap.values()) {
 							// 值设置进去list
 							addMethod.invoke(list, ConvertUtils.convert(paramField.getValue(), valueClazz));
 						}
@@ -302,7 +299,7 @@ public class ParamAnalysis {
 					Class<?> valueClazz = Class.forName(valueActualType.getTypeName());
 					Method addMethod = clazzType.getDeclaredMethod("put", Object.class, Object.class);
 					if (addMethod != null) {
-						for (ParamField paramField : paramFields) {
+						for (ParamField paramField : paramFieldMap.values()) {
 							// 值设置进去list
 							addMethod.invoke(map, ConvertUtils.convert(paramField.getKeyIndex(), keyClazz), ConvertUtils.convert(paramField.getValue(), valueClazz));
 						}
