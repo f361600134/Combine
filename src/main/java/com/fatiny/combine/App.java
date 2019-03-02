@@ -74,13 +74,16 @@ public class App {
 
 	public static void main(String[] args) {
 		try {
+			long start = System.currentTimeMillis();
 			// 1. 读取配置.
 			config();
+			System.out.println("cost1:" + (System.currentTimeMillis() - start));
 			// 2. 根据配置路径生成对应目录, 并把项目文件拷贝过去.
 			create();
+			System.out.println("cost2:" + (System.currentTimeMillis() - start));
 			// 3. 根据配置生成对应的合服项目
 			Config.print();
-
+			System.out.println("cost3:" + (System.currentTimeMillis() - start));
 		} catch (Exception e) {
 			e.printStackTrace();
 		}

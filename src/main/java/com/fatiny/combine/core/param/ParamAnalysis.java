@@ -20,6 +20,8 @@ import org.apache.commons.beanutils.ConvertUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import com.alibaba.fastjson.JSON;
+
 /**
  * 1. 解析文件,配置和类绑定， 并且解析城支持LIST， MAP数据。便于赋值 <br>
  * 2. 循环类文件里面的成员变量，获取类型， 根据类型赋值。
@@ -78,33 +80,29 @@ public class ParamAnalysis {
 						// 这里的clazz区分基本类型和对象类型
 						Class<?> valueClazz = Class.forName(actualType.getTypeName());
 						logger.info("analysis, valueClazz:{}", valueClazz);
-						if (isPrimitive(valueClazz)) {
-							// 如果是基础类型,则直接调用add方法添加数据
-							for (ParamField paramField : paramFieldMap.values()) {
-								method.invoke(obj, ConvertUtils.convert(paramField.getValue(), valueClazz));
-							}
-						} else {
-							// 对象类型
-							// Object childObjClazz = valueClazz.newInstance();
-							// Method[] childMethods =
-							// childObjClazz.getClass().getMethods();
-							// for (ParamField paramField : paramFields) {
-							// for (Method childMethod : childMethods) {
-							// String methodName =
-							// "set".concat(paramField.getField()).toLowerCase();
-							// if
-							// (childMethod.getName().toLowerCase().equals(methodName))
-							// {
-							// Object returnObj =
-							// ConvertUtils.convert(paramField.getValue(),
-							// childMethod.getParameterTypes()[0]);
-							// childMethod.invoke(childObjClazz, returnObj);
-							// }
-							// }
-							// }
-							// System.out.println("子类型:" + childObjClazz);
+						// if (isPrimitive(valueClazz)) {
+						// // 如果是基础类型,则直接调用add方法添加数据
+						// for (ParamField paramField : paramFieldMap.values())
+						// {
+						// method.invoke(obj,
+						// ConvertUtils.convert(paramField.getValue(),
+						// valueClazz));
+						// }
+						// } else {
+						// // 对象类型
+						// Object childObjClazz = null;
+						// for (ParamField paramField : paramFieldMap.values())
+						// {
+						// childObjClazz =
+						// JSON.parseObject(JSON.toJSONString(paramField.getField2value()),
+						// valueClazz);
+						// method.invoke(obj, childObjClazz);
+						// }
+						// }
+						// 如果是基础类型,则直接调用add方法添加数据
+						for (ParamField paramField : paramFieldMap.values()) {
+							method.invoke(obj, convert(paramField.getValue(isPrimitive(valueClazz)), valueClazz));
 						}
-
 						field.set(null, obj);
 					} else if (Map.class.isAssignableFrom(field.getType())) { //
 						logger.info("====Map====");
@@ -127,12 +125,20 @@ public class ParamAnalysis {
 						Class<?> valueClazz = Class.forName(valueActualType.getTypeName());
 						Method method = obj.getClass().getMethod("put", Object.class, Object.class);
 						for (ParamField paramField : paramFieldMap.values()) {
-							method.invoke(obj, ConvertUtils.convert(paramField.getKeyIndex(), keyClazz), ConvertUtils.convert(paramField.getValue(), valueClazz));
+							method.invoke(obj, convert(paramField.getKeyIndex(), keyClazz), convert(paramField.getValue(isPrimitive(valueClazz)), valueClazz));
 						}
 						field.set(null, obj);
 					}
 				}
 			}
+		}
+	}
+
+	public static Object convert(Object obj, Class<?> clazz) {
+		if (isPrimitive(clazz)) {
+			return ConvertUtils.convert(obj, clazz);
+		} else {
+			return JSON.parseObject(JSON.toJSONString(obj), clazz);
 		}
 	}
 

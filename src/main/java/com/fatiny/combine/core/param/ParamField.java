@@ -65,6 +65,21 @@ public class ParamField {
 		return this.getValue(null);
 	}
 
+	/**
+	 * 是否基础类型
+	 * 
+	 * @param isPrimitive
+	 * @return
+	 * @return String
+	 * @date 2019年3月3日上午1:26:57
+	 */
+	public Object getValue(boolean isPrimitive) {
+		if (isPrimitive) {
+			return this.getValue(null);
+		}
+		return this.getField2value();
+	}
+
 	public String getValue(String field) {
 		if (field == null || field.equals("")) {
 			field = EMPTY_KEY;
